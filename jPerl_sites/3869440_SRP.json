@@ -1,0 +1,7 @@
+{
+    "3869440_SRP": {
+        "PARENT_RULE_NAME": "kekaRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'iDreamCareer.com', compid = '3869440', jobConsultant = 'n' where \u00a0SITE = '3869440_SRP'",
+        "URL_VARS": "idreamcareer"
+    }
+}

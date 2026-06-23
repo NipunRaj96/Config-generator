@@ -1,0 +1,9 @@
+{
+    "4355494_SRP": {
+        "JOBLINK": "https://hempel.wd3.myworkdayjobs.com/wday/cxs/hempel/hempelcareers/job/{{VARJOBLINK}}",
+        "LANDINGJOBLINK": "https://hempel.wd3.myworkdayjobs.com/en-US/hempelcareers/job/{{VARJOBLINK}}",
+        "PARENT_RULE_NAME": "myworkdayjobsRuleV2",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Hempel A/S', compid = '4355494', jobConsultant = 'n' where \u00a0SITE = '4355494_SRP'",
+        "URL": "https://hempel.wd3.myworkdayjobs.com/wday/cxs/hempel/hempelcareers/jobs{{POST}}{{CONTENT}}{\"limit\":20,\"offset\":!0o!STARTJOBNO0!0o!,\"searchText\":\"\",\"appliedFacets\":{\"locationCountry\":[\"c4f78be1a8f14da0ab49ce1162348a5e\"]}}{{HEADER}}Accept|X|application/json##{{Accept-Language|X|en-US##{{Content-Type|X|application/json"
+    }
+}

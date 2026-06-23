@@ -1,0 +1,39 @@
+{
+    "medpace": {
+        "CanProcceed": 1,
+        "Cookie": "YES",
+        "CurrentJobNum": 1,
+        "CurrentPageNum": 0,
+        "DELETE_UNLISTED": "y",
+        "ISCRAWL_FULL": 0,
+        "IS_SITE_ID_DERIVED": 0,
+        "JDVARS": {
+            "FAREA": {
+                "callable": "Classifier_FAREA",
+                "type": "SUB"
+            },
+            "INDUSTRY": {
+                "callable": "Classifier_INDUSTRY",
+                "type": "SUB"
+            },
+            "ROLE": {
+                "callable": "Classifier_ROLE",
+                "type": "SUB"
+            }
+        },
+        "JOBLINK": "https://careers.medpace.com/jobs/{{VARJOBLINK}}?lang=en-us",
+        "JOBSCOUNT": 0,
+        "LOCJSON": "data,create_date|X|data,jobSummary|X|data,responsibilities|X|data,qualifications|X|data,city|X|data,description|X|data,title|X|data,req_id|X|data,req_id|X|data,req_id|XX|jobs",
+        "LOCJSONSEQ": "Date,JOBDESC,JOBDESC,EDUCATION,LOCATION,JOBDESC,JOBTITLE,REF_CODE,JOBID,JOBLINK",
+        "MAXJBSPPAGE": 10,
+        "MAXPAGESPARSE": "15",
+        "MOVE_TO_JD": 0,
+        "POSTQUERY": "update WEB_JOBS set COMPNAME ='Medpace Inc.',compid ='3940036', jobConsultant = 'n' where  SITE = 'medpace'",
+        "SAVE_JD_COOKIE": "Yes",
+        "SQLDATE": "%Y-%m-%d",
+        "StartPageNum": 0,
+        "TERMRGX": "",
+        "URL": "https://careers.medpace.com/api/jobs?keywords=&location=&page=!0o!CURPG!0o!&sortBy=relevance&country=India&internal=false&deviceId=undefined&domain=medpace.jibeapply.com",
+        "USER_AGENT": "Firefox/5.0"
+    }
+}

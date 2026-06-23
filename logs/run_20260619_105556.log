@@ -1,0 +1,36 @@
+========================================================================
+RUN ID  : run_20260619_105556
+STARTED : 2026-06-19T10:55:56
+========================================================================
+[DONE        ]  10.3s  path=llm       conf=0.90  ISI India Pvt Ltd
+[DONE        ]  10.6s  path=llm       conf=0.90  Webcooks Technologies Pvt Ltd
+[DONE        ]  10.7s  path=llm       conf=0.90  Detailing Devils India Pvt Ltd
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-06-19T10:56:47
+Total time  : 51.7s (0.9 min)
+Records     : 3
+
+RESULTS BREAKDOWN
+  Done         :   3  (100%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   0  (0%)
+
+DETECTION PATH
+  llm         :   3  (100%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.90
+  Min / Max   : 0.90 / 0.90
+
+SLOWEST 3 RECORDS
+   10.7s  Detailing Devils India Pvt Ltd  [Done]
+   10.6s  Webcooks Technologies Pvt Ltd  [Done]
+   10.3s  ISI India Pvt Ltd  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260619_105556.log
+========================================================================
+

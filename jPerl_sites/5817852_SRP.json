@@ -1,0 +1,7 @@
+{
+    "5817852_SRP": {
+        "PARENT_RULE_NAME": "jobsoidRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Fashion make Fashion', compid = '5817852', jobConsultant = 'n' where  SITE = '5817852_SRP'",
+        "URL_VARS": "fashionmakefashion"
+    }
+}

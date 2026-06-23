@@ -1,0 +1,13 @@
+========================================================================
+RUN ID  : run_20260616_102625
+STARTED : 2026-06-16T10:26:25
+========================================================================
+[NOT FIXABLE ] 130.7s  path=failed    conf=0.00  ENEOS India
+[DONE        ]  82.2s  path=llm       conf=0.90  mavQ
+[NOT FIXABLE ] 196.5s  path=failed    conf=0.00  Quotient Consultancy
+[DONE        ] 118.2s  path=llm       conf=0.90  Sensiple Software Solutions Pvt. Ltd.,
+[NOT FIXABLE ] 299.9s  path=failed    conf=0.00  Si2 Technologies
+[DONE        ] 285.1s  path=llm       conf=0.50  Team Pasona India Co. Ltd.
+[DONE        ]  11.4s  path=ats       conf=0.95  EXFO Electro-Optical Engineering India P
+[NON-WORKABLE]  12.2s  path=robot     conf=0.00  IELTS Band 7
+[DONE        ] 216.1s  path=failed    conf=0.00  Logix Resourcing

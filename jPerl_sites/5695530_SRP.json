@@ -1,0 +1,7 @@
+{
+    "5695530_SRP": {
+        "PARENT_RULE_NAME": "applytojobRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Agnos Inc.', compid = '5695530', jobConsultant = 'n' where \u00a0SITE = '5695530_SRP'",
+        "URL": "https://agnos.applytojob.com"
+    }
+}

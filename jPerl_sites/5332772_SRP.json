@@ -1,0 +1,50 @@
+{
+    "5332772_SRP": {
+        "CanProcceed": 1,
+        "Cookie": "YES",
+        "CurrentJobNum": 1,
+        "CurrentPageNum": 0,
+        "DELETE_UNLISTED": "y",
+        "ISCRAWL_FULL": 0,
+        "IS_SITE_ID_DERIVED": 0,
+        "JDRGX1": "(?s)\"job-description\">(.+?)<form",
+        "JDRGX2": "(?s)keywords\".+?datePublished\"[^\"]+\"([^\"]+)",
+        "JDRGX3": "(?s)>Stipend[^;]+;([^<]+)",
+        "JDRGX4": "(?s)>Internship Duration[^;]+;([^<]+)",
+        "JDRGX5": "(?s)>Experience<[^>]+>[^>]+>([^<]+)",
+        "JDRGX6": "(?s)>Salary<[^>]+>[^>]+>([^<]+)",
+        "JDRGXSEQ1": "JOBDESC",
+        "JDRGXSEQ2": "Date",
+        "JDRGXSEQ3": "jobInternshipStipend",
+        "JDRGXSEQ4": "jobInternshipDuration",
+        "JDRGXSEQ5": "EXPERIENCE",
+        "JDRGXSEQ6": "SALARY",
+        "JDVARS": {
+            "FAREA": {
+                "callable": "Classifier_FAREA",
+                "type": "SUB"
+            },
+            "INDUSTRY": {
+                "callable": "Classifier_INDUSTRY",
+                "type": "SUB"
+            },
+            "ROLE": {
+                "callable": "Classifier_ROLE",
+                "type": "SUB"
+            }
+        },
+        "JOBSCOUNT": 0,
+        "LOCRGX": "(?s)job-info \">[^>]+>.+?href=\"(.+?jobs/([^\"]+))[^>]+>[^>]+>([^<]+).+?location\">[^>]+>[^>]+>([^<]+)",
+        "LOCRGXSEQ": "JOBLINK,JOBID,JOBTITLE,LOCATION",
+        "MAXJBSPPAGE": 15,
+        "MAXPAGESPARSE": "10",
+        "MOVE_TO_JD": 1,
+        "POSTQUERY": "update WEB_JOBS set COMPNAME ='Vega Moon Technologies',compid ='5332772', jobConsultant = 'n' where  SITE = '5332772_SRP'",
+        "SAVE_JD_COOKIE": "Yes",
+        "SQLDATE": "%Y-%m-%d",
+        "StartPageNum": 0,
+        "TERMRGX": "",
+        "URL": "https://www.vegamoontech.com/current-job-openings-in-vega-moon-technologies/page/!0o!CURPG!0o!/",
+        "USER_AGENT": "Firefox/5.0"
+    }
+}

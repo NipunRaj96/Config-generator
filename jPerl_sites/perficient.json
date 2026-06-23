@@ -1,0 +1,10 @@
+{
+    "perficient": {
+        "JDJSON2": "workLocation,TownOrCity|X|workLocation,AddressLine2|X|workLocation,AddressLine1|X|workLocation,LocationName|XX|items",
+        "JDJSONSEQ2": "LOCATION,LOCATION,LOCATION,LOCATION",
+        "JOBLINK": "hcmRestApi/resources/latest/recruitingCEJobRequisitionDetails?expand=all&onlyData=true&finder=ById;Id=%22{{VARJOBLINK}}%22,siteNumber=CX_1",
+        "PARENT_RULE_NAME": "oracleCloudRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Zeon Solutions', compid = '1813166', jobConsultant = 'n' where \u00a0SITE = 'perficient'",
+        "URLSTART": "https://fa-etqd-saasfaprod1.fa.ocs.oraclecloud.com/"
+    }
+}

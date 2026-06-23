@@ -1,0 +1,39 @@
+========================================================================
+RUN ID  : run_20260616_125400
+STARTED : 2026-06-16T12:54:00
+========================================================================
+[NOT FIXABLE ] 150.1s  path=failed    conf=0.00  Sapizon Technologies LLP
+[DONE        ]  44.2s  path=llm       conf=0.90  Edit one International
+[NOT FIXABLE ] 131.5s  path=failed    conf=0.00  STRATLYTICS CONSULTING PRIVATE LIMITED
+[DONE        ]  50.9s  path=llm       conf=0.90  SuccessPro
+[DONE        ]  53.3s  path=llm       conf=0.90  White Horse Manpower Consultancy Private
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-06-16T13:01:50
+Total time  : 470.2s (7.8 min)
+Records     : 5
+
+RESULTS BREAKDOWN
+  Done         :   3  (60%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   2  (40%)
+  SRP (auto)   :   0  (0%)
+
+DETECTION PATH
+  failed      :   2  (40%)
+  llm         :   3  (60%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.90
+  Min / Max   : 0.90 / 0.90
+
+SLOWEST 3 RECORDS
+  150.1s  Sapizon Technologies LLP  [Not Fixable]
+  131.5s  STRATLYTICS CONSULTING PRIVATE LIMITED  [Not Fixable]
+   53.3s  White Horse Manpower Consultancy Private Limi  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260616_125400.log
+========================================================================
+

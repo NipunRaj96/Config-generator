@@ -1,0 +1,39 @@
+========================================================================
+RUN ID  : run_20260619_105742
+STARTED : 2026-06-19T10:57:42
+========================================================================
+[DONE        ]  10.5s  path=llm       conf=0.70  Pena4 Tech Solutions India Pvt. Ltd
+[DONE        ]  10.7s  path=llm       conf=0.90  ISI India Pvt Ltd
+[DONE        ]  10.6s  path=llm       conf=0.90  Webcooks Technologies Pvt Ltd
+[DONE        ]  11.3s  path=llm       conf=0.90  Detailing Devils India Pvt Ltd
+[DONE        ]  10.6s  path=llm       conf=0.20  SAFE Refrigerations (P) Limited
+[DONE        ]  11.6s  path=llm       conf=0.90  The Higher Pitch
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-06-19T10:59:37
+Total time  : 115.2s (1.9 min)
+Records     : 6
+
+RESULTS BREAKDOWN
+  Done         :   6  (100%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   0  (0%)
+
+DETECTION PATH
+  llm         :   6  (100%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.75
+  Min / Max   : 0.20 / 0.90
+
+SLOWEST 3 RECORDS
+   11.6s  The Higher Pitch  [Done]
+   11.3s  Detailing Devils India Pvt Ltd  [Done]
+   10.7s  ISI India Pvt Ltd  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260619_105742.log
+========================================================================
+

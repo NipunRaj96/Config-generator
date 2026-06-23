@@ -1,0 +1,7 @@
+{
+    "3681350_SRP": {
+        "PARENT_RULE_NAME": "leverRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Pandera Systems', compid = '3681350', jobConsultant = 'n' where  SITE = '3681350_SRP'",
+        "URL": "https://jobs.lever.co/panderasystems?"
+    }
+}

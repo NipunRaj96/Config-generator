@@ -1,0 +1,7 @@
+{
+    "5303232_SRP": {
+        "PARENT_RULE_NAME": "boardsGreenhouseRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Observe.AI', compid = '5303232', jobConsultant = 'n' where \u00a0SITE = '5303232_SRP'",
+        "URL_VARS": "observeai"
+    }
+}

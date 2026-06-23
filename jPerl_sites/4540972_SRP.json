@@ -1,0 +1,7 @@
+{
+    "4540972_SRP": {
+        "PARENT_RULE_NAME": "pyjamahrRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'ALIQAN Technologies', compid = '4540972', jobConsultant = 'n' where SITE = '4540972_SRP'",
+        "URL_VARS": "2BB144D999"
+    }
+}

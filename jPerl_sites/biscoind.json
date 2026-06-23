@@ -1,0 +1,8 @@
+{
+    "biscoind": {
+        "PARENT_RULE_NAME": "icimsColXs12Rule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'BISCO LIMITED', compid = '3585694', jobConsultant = 'n' where  SITE = 'biscoind'",
+        "URLSTART": "https://careers-biscoind.icims.com/jobs/",
+        "URL_VARS": ""
+    }
+}

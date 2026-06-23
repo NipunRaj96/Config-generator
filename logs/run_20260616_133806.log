@@ -1,0 +1,32 @@
+========================================================================
+RUN ID  : run_20260616_133806
+STARTED : 2026-06-16T13:38:06
+========================================================================
+[DONE        ]  54.4s  path=llm       conf=0.90  Sapizon Technologies LLP
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-06-16T13:39:01
+Total time  : 54.5s (0.9 min)
+Records     : 1
+
+RESULTS BREAKDOWN
+  Done         :   1  (100%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   0  (0%)
+
+DETECTION PATH
+  llm         :   1  (100%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.90
+  Min / Max   : 0.90 / 0.90
+
+SLOWEST 3 RECORDS
+   54.4s  Sapizon Technologies LLP  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260616_133806.log
+========================================================================
+

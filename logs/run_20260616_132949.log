@@ -1,0 +1,31 @@
+========================================================================
+RUN ID  : run_20260616_132949
+STARTED : 2026-06-16T13:29:49
+========================================================================
+[NOT FIXABLE ] 330.2s  path=failed    conf=0.00  Sapizon Technologies LLP
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-06-16T13:35:20
+Total time  : 330.3s (5.5 min)
+Records     : 1
+
+RESULTS BREAKDOWN
+  Done         :   0  (0%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   1  (100%)
+  SRP (auto)   :   0  (0%)
+
+DETECTION PATH
+  failed      :   1  (100%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.00
+
+SLOWEST 3 RECORDS
+  330.2s  Sapizon Technologies LLP  [Not Fixable]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260616_132949.log
+========================================================================
+

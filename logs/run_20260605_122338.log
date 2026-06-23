@@ -1,0 +1,105 @@
+========================================================================
+RUN ID  : run_20260605_122338
+STARTED : 2026-06-05T12:23:38
+========================================================================
+[NON-WORKABLE]  10.5s  path=robot     conf=0.00  NanoNets
+[NOT FIXABLE ]  24.5s  path=error     conf=0.00  Morgan Stanley Advantage Services Pvt. L
+           ERROR: BrowserType.launch: Target page, context or browser has been closed
+Browser logs:
+
+<launching> C:\Users\nipun.kumar\AppD
+[DONE        ]  14.0s  path=ats       conf=0.95  Leadec
+[DONE        ]  11.5s  path=ats       conf=0.95  GUS EDUCATION INDIA LLP
+[NON-WORKABLE]  14.5s  path=robot     conf=0.00  eSign Genie
+[DONE        ]  10.0s  path=ats       conf=0.95  CriticalRiver Inc.
+[NOT FIXABLE ]  14.3s  path=error     conf=0.00  Oracle India Pvt. Ltd.
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[DONE        ]  10.9s  path=ats       conf=0.95  Insight Alpha
+[DONE        ]  10.0s  path=ats       conf=0.95  Eyelit Technologies
+[DONE        ]  11.0s  path=ats       conf=0.95  EXFO Electro-Optical Engineering India P
+[NOT FIXABLE ]  13.4s  path=error     conf=0.00  Helli Moulds
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[NOT FIXABLE ]  14.7s  path=error     conf=0.00  Deligence Technologies Pvt. Ltd.
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[NOT FIXABLE ]  11.9s  path=error     conf=0.00  Hornet Dynamics
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[DONE        ]  10.0s  path=ats       conf=0.95  CLOUDEQ INC
+[NON-WORKABLE]  12.1s  path=robot     conf=0.00  IELTS Band 7
+[NOT FIXABLE ]  12.1s  path=error     conf=0.00  Logix Resourcing
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[NOT FIXABLE ]  16.9s  path=error     conf=0.00  Satyukt Analytics Private Limited
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[NOT FIXABLE ]  12.6s  path=error     conf=0.00  EDOMINER SYSTEMS PRIVATE LIMITED
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[NOT FIXABLE ]  15.1s  path=error     conf=0.00  Kamalam Builders
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[NOT FIXABLE ]  12.2s  path=error     conf=0.00  Holoware
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[NOT FIXABLE ]  10.9s  path=error     conf=0.00  Naalvar Solutions
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[NOT FIXABLE ]  12.1s  path=error     conf=0.00  VERTS Services Ind. Pvt. Ltd
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[NOT FIXABLE ]  14.3s  path=error     conf=0.00  LeadAngel
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[NOT FIXABLE ]  10.7s  path=error     conf=0.00  Transcend Creative Services Pvt. Ltd
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[NOT FIXABLE ]  14.4s  path=error     conf=0.00  Mehta Publishing House
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[NOT FIXABLE ]  11.4s  path=error     conf=0.00  spocket
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[NOT FIXABLE ]  10.4s  path=error     conf=0.00  I. V. COMMUNICATIONS LTD
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[NOT FIXABLE ]  13.0s  path=error     conf=0.00  Sunrise Technologies
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[DONE        ]  10.4s  path=ats       conf=0.95  Percona
+[NOT FIXABLE ]  11.0s  path=error     conf=0.00  Compass India Food Services Pvt Ltd
+           ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-06-05T12:29:59
+Total time  : 380.8s (6.3 min)
+Records     : 30
+
+RESULTS BREAKDOWN
+  Done         :   8  (27%)
+  Non-Workable :   3  (10%)
+  Not Fixable  :  19  (63%)
+  SRP (auto)   :   0  (0%)
+
+DETECTION PATH
+  ats         :   8  (27%)
+  error       :  19  (63%)
+  robot       :   3  (10%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.95
+  Min / Max   : 0.95 / 0.95
+
+SLOWEST 3 RECORDS
+   24.5s  Morgan Stanley Advantage Services Pvt. Ltd.  [Not Fixable]
+   16.9s  Satyukt Analytics Private Limited  [Not Fixable]
+   15.1s  Kamalam Builders  [Not Fixable]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260605_122338.log
+========================================================================
+

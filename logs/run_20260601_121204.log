@@ -1,0 +1,65 @@
+========================================================================
+RUN ID  : run_20260601_121204
+STARTED : 2026-06-01T12:12:04
+========================================================================
+[DONE        ]  10.0s  path=ats       conf=0.95  NanoNets
+[DONE        ]  10.0s  path=ats       conf=0.95  Morgan Stanley Advantage Services Pvt. L
+[DONE        ]  10.0s  path=ats       conf=0.95  Leadec
+[DONE        ]  10.0s  path=ats       conf=0.95  GUS EDUCATION INDIA LLP
+[DONE        ]  10.0s  path=ats       conf=0.95  eSign Genie
+[DONE        ]  11.0s  path=ats       conf=0.95  CriticalRiver Inc.
+[DONE        ]  38.5s  path=llm       conf=0.90  Oracle India Pvt. Ltd.
+[DONE        ]  10.7s  path=ats       conf=0.95  Insight Alpha
+[DONE        ]  10.0s  path=ats       conf=0.95  Eyelit Technologies
+[DONE        ]  10.0s  path=ats       conf=0.95  EXFO Electro-Optical Engineering India P
+[DONE        ]  33.4s  path=llm       conf=1.00  Helli Moulds
+[NOT FIXABLE ]  25.9s  path=failed    conf=0.00  Deligence Technologies Pvt. Ltd.
+[DONE        ]  22.9s  path=llm       conf=0.80  Hornet Dynamics
+[DONE        ]  10.0s  path=ats       conf=0.95  CLOUDEQ INC
+[NOT FIXABLE ]  20.8s  path=failed    conf=0.00  IELTS Band 7
+[DONE        ]  18.3s  path=failed    conf=0.00  Logix Resourcing
+[NOT FIXABLE ]  21.9s  path=failed    conf=0.00  Satyukt Analytics Private Limited
+[NOT FIXABLE ]  21.9s  path=failed    conf=0.00  EDOMINER SYSTEMS PRIVATE LIMITED
+[NOT FIXABLE ]  28.4s  path=failed    conf=0.00  Kamalam Builders
+[DONE        ]  24.8s  path=llm       conf=0.00  Holoware
+[NOT FIXABLE ]  20.0s  path=failed    conf=0.00  Naalvar Solutions
+[NOT FIXABLE ]  24.2s  path=failed    conf=0.00  VERTS Services Ind. Pvt. Ltd
+[NOT FIXABLE ]  27.3s  path=failed    conf=0.00  LeadAngel
+[NOT FIXABLE ]  42.7s  path=failed    conf=0.00  Transcend Creative Services Pvt. Ltd
+[NOT FIXABLE ]  49.8s  path=failed    conf=0.00  Mehta Publishing House
+[NOT FIXABLE ]  22.1s  path=failed    conf=0.00  spocket
+[NOT FIXABLE ]  18.0s  path=failed    conf=0.00  I. V. COMMUNICATIONS LTD
+[NOT FIXABLE ]  23.6s  path=failed    conf=0.00  Sunrise Technologies
+[DONE        ]  10.0s  path=ats       conf=0.95  Percona
+[NOT FIXABLE ]  30.3s  path=failed    conf=0.00  Compass India Food Services Pvt Ltd
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-06-01T12:22:31
+Total time  : 626.6s (10.4 min)
+Records     : 30
+
+RESULTS BREAKDOWN
+  Done         :  16  (53%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :  14  (47%)
+  SRP (auto)   :   0  (0%)
+
+DETECTION PATH
+  ats         :  11  (37%)
+  failed      :  15  (50%)
+  llm         :   4  (13%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.94
+  Min / Max   : 0.80 / 1.00
+
+SLOWEST 3 RECORDS
+   49.8s  Mehta Publishing House  [Not Fixable]
+   42.7s  Transcend Creative Services Pvt. Ltd  [Not Fixable]
+   38.5s  Oracle India Pvt. Ltd.  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260601_121204.log
+========================================================================
+

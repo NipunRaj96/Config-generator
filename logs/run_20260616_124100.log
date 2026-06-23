@@ -1,0 +1,7 @@
+========================================================================
+RUN ID  : run_20260616_124100
+STARTED : 2026-06-16T12:41:00
+========================================================================
+[DONE        ]  46.4s  path=llm       conf=0.50  Sapizon Technologies LLP
+[NOT FIXABLE ]  49.0s  path=error     conf=0.00  Edit one International
+           ERROR: tuple index out of range

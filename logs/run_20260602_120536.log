@@ -1,0 +1,35 @@
+========================================================================
+RUN ID  : run_20260602_120536
+STARTED : 2026-06-02T12:05:36
+========================================================================
+[DONE        ]  46.1s  path=llm       conf=0.80  Cloudsmartz
+[DONE        ]  11.7s  path=ats       conf=0.95  Jeevan Technologies India Pvt. Ltd
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-06-02T12:06:34
+Total time  : 57.9s (1.0 min)
+Records     : 2
+
+RESULTS BREAKDOWN
+  Done         :   2  (100%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   0  (0%)
+
+DETECTION PATH
+  ats         :   1  (50%)
+  llm         :   1  (50%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.88
+  Min / Max   : 0.80 / 0.95
+
+SLOWEST 3 RECORDS
+   46.1s  Cloudsmartz  [Done]
+   11.7s  Jeevan Technologies India Pvt. Ltd  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260602_120536.log
+========================================================================
+

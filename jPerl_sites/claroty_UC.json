@@ -1,0 +1,42 @@
+{
+    "claroty_UC": {
+        "CanProcceed": 1,
+        "Cookie": "YES",
+        "CurrentJobNum": 1,
+        "CurrentPageNum": 0,
+        "DELETE_UNLISTED": "y",
+        "ISCRAWL_FULL": 0,
+        "IS_SITE_ID_DERIVED": 0,
+        "JDJSON1": "details",
+        "JDJSONSEQ1": "JOBDESC",
+        "JDVARS": {
+            "FAREA": {
+                "callable": "Classifier_FAREA",
+                "type": "SUB"
+            },
+            "INDUSTRY": {
+                "callable": "Classifier_INDUSTRY",
+                "type": "SUB"
+            },
+            "ROLE": {
+                "callable": "Classifier_ROLE",
+                "type": "SUB"
+            }
+        },
+        "JOBLINK": "https://claroty.com/api/v1/comeet/positions/{{VARJOBLINK}}{{HEADER}}Accept|X|application/json##{{Content-Type|X|application/json",
+        "JOBSCOUNT": 0,
+        "LANDINGJOBLINK": "https://claroty.com/open-positions/{{VARJOBLINK}}",
+        "LOCRGX": "(?s)name\":\"([^\"]+)\",\"depa[^\"]+\"[^\"]+\"[^\"]+\"[^\"]+\"[^\"]+\"[^\"]+\"([^\"]+)\"[^\"]+\"[^\"]+\"[^\"]+\"(([^\"]+))",
+        "LOCRGXSEQ": "JOBTITLE,LOCATION,JOBLINK,JOBID",
+        "MAXJBSPPAGE": 10,
+        "MAXPAGESPARSE": "1",
+        "MOVE_TO_JD": 1,
+        "POSTQUERY": "update WEB_JOBS set COMPNAME ='Claroty',compid ='124300120', jobConsultant = 'n' where  SITE = 'claroty_UC'",
+        "SAVE_JD_COOKIE": "Yes",
+        "SQLDATE": "%Y-%m-%d",
+        "StartPageNum": 0,
+        "TERMRGX": "",
+        "URL": "https://claroty.com/api/v1/comeet/positions",
+        "USER_AGENT": "Firefox/5.0"
+    }
+}

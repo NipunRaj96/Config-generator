@@ -1,0 +1,19 @@
+========================================================================
+RUN ID  : run_20260605_130253
+STARTED : 2026-06-05T13:02:53
+========================================================================
+[NON-WORKABLE]  10.5s  path=robot     conf=0.00  NanoNets
+[NOT FIXABLE ]  61.5s  path=failed    conf=0.00  Morgan Stanley Advantage Services Pvt. L
+[DONE        ]  13.8s  path=ats       conf=0.95  Leadec
+[DONE        ]  11.1s  path=ats       conf=0.95  GUS EDUCATION INDIA LLP
+[NON-WORKABLE]  14.0s  path=robot     conf=0.00  eSign Genie
+[DONE        ]  10.0s  path=ats       conf=0.95  CriticalRiver Inc.
+[NOT FIXABLE ]  46.6s  path=failed    conf=0.00  Oracle India Pvt. Ltd.
+[DONE        ]  10.8s  path=ats       conf=0.95  Insight Alpha
+[DONE        ]  10.0s  path=ats       conf=0.95  Eyelit Technologies
+[DONE        ]  10.7s  path=ats       conf=0.95  EXFO Electro-Optical Engineering India P
+[NOT FIXABLE ]  39.7s  path=failed    conf=0.00  Helli Moulds
+[NOT FIXABLE ]  42.1s  path=failed    conf=0.00  Deligence Technologies Pvt. Ltd.
+[NOT FIXABLE ]  37.2s  path=failed    conf=0.00  Hornet Dynamics
+[DONE        ]  10.0s  path=ats       conf=0.95  CLOUDEQ INC
+[NON-WORKABLE]  12.0s  path=robot     conf=0.00  IELTS Band 7

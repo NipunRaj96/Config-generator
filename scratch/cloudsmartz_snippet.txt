@@ -1,0 +1,102 @@
+v></div><div class="awsm-filter-item" data-filter="job__location_spec"><label for="awsm-job-location-filter-option-1" class="awsm-sr-only">All Job Location</label><div class="awsm-selectric-wrapper awsm-selectric-awsm-filter-option awsm-selectric-awsm-job-location-filter-option"><div class="awsm-selectric-hide-select"><select name="awsm_job_spec[job-location]" class="awsm-filter-option awsm-job-location-filter-option" id="awsm-job-location-filter-option-1" aria-label="All Job Location" tabindex="-1"><option value="">All Job Location</option><option value="16" data-slug="mohali-chandigarh">Mohali (Chandigarh)</option><option value="36" data-slug="gurgaon">Gurgaon</option><option value="37" data-slug="noida">Noida</option><option value="40" data-slug="hyderabad">Hyderabad</option><option value="41" data-slug="pune">Pune</option></select></div><div class="awsm-selectric"><span class="label">All Job Location</span><span class="awsm-selectric-arrow-drop">▾</span></div><div class="awsm-selectric-items" tabindex="-1"><div class="awsm-selectric-scroll"><ul><li data-index="0" class="selected">All Job Location</li><li data-index="1" class="">Mohali (Chandigarh)</li><li data-index="2" class="">Gurgaon</li><li data-index="3" class="">Noida</li><li data-index="4" class="">Hyderabad</li><li data-index="5" class="last">Pune</li></ul></div></div><input class="awsm-selectric-input" tabindex="0"></div></div></div><input type="hidden" name="action" value="jobfilter"></form></div>
+		<div class="awsm-job-listings awsm-row awsm-grid-col-4" data-listings="16">
+					<div class="awsm-job-listing-item awsm-grid-item" id="awsm-grid-item-10027">		<a href="https://cloudsmartz.com/career/ai-ml-engineer/" class="awsm-job-item">			<div class="awsm-grid-left-col">
+				
+				
+				<h2 class="awsm-job-post-title">
+					AI/ML Engineer				</h2>
+
+							</div>
+
+			<div class="awsm-grid-right-col">
+				<div class="awsm-job-specification-wrapper"><div class="awsm-job-specification-item awsm-job-specification-job-category"><span class="awsm-job-specification-term">AI Engineer</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-type"><span class="awsm-job-specification-term">Full Time</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-location"><span class="awsm-job-specification-term">Mohali (Chandigarh)</span> </div></div><div class="awsm-job-more-container"><span class="awsm-job-more">More Details <span></span></span></div>			</div>
+		</a>	</div><div class="awsm-job-listing-item awsm-grid-item" id="awsm-grid-item-10025">		<a href="https://cloudsmartz.com/career/devops-engineer/" class="awsm-job-item">			<div class="awsm-grid-left-col">
+				
+				
+				<h2 class="awsm-job-post-title">
+					DevOps Engineer				</h2>
+
+							</div>
+
+			<div class="awsm-grid-right-col">
+				<div class="awsm-job-specification-wrapper"><div class="awsm-job-specification-item awsm-job-specification-job-category"><span class="awsm-job-specification-term">Developer</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-type"><span class="awsm-job-specification-term">Full Time</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-location"><span class="awsm-job-specification-term">Mohali (Chandigarh)</span> <span class="awsm-job-specification-term">Gurgaon</span> <span class="awsm-job-specification-term">Noida</span> </div></div><div class="awsm-job-more-container"><span class="awsm-job-more">More Details <span></span></span></div>			</div>
+		</a>	</div><div class="awsm-job-listing-item awsm-grid-item" id="awsm-grid-item-10024">		<a href="https://cloudsmartz.com/career/power-bi-developer-5-years-experience/" class="awsm-job-item">			<div class="awsm-grid-left-col">
+				
+				
+				<h2 class="awsm-job-post-title">
+					Power BI Developer				</h2>
+
+							</div>
+
+			<div class="awsm-grid-right-col">
+				<div class="awsm-job-specification-wrapper"><div class="awsm-job-specification-item awsm-job-specification-job-category"><span class="awsm-job-specification-term">Developer</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-type"><span class="awsm-job-specification-term">Full Time</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-location"><span class="awsm-job-specification-term">Mohali (Chandigarh)</span> <span class="awsm-job-specification-term">Gurgaon</span> <span class="awsm-job-specification-term">Noida</span> </div></div><div class="awsm-job-more-container"><span class="awsm-job-more">More Details <span></span></span></div>			</div>
+		</a>	</div><div class="awsm-job-listing-item awsm-grid-item" id="awsm-grid-item-10023">		<a href="https://cloudsmartz.com/career/database-developer-5-6-years-experience/" class="awsm-job-item">			<div class="awsm-grid-left-col">
+				
+				
+				<h2 class="awsm-job-post-title">
+					Database Developer				</h2>
+
+							</div>
+
+			<div class="awsm-grid-right-col">
+				<div class="awsm-job-specification-wrapper"><div class="awsm-job-specification-item awsm-job-specification-job-category"><span class="awsm-job-specification-term">DBA</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-type"><span class="awsm-job-specification-term">Full Time</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-location"><span class="awsm-job-specification-term">Mohali (Chandigarh)</span> <span class="awsm-job-specification-term">Gurgaon</span> <span class="awsm-job-specification-term">Noida</span> </div></div><div class="awsm-job-more-container"><span class="awsm-job-more">More Details <span></span></span></div>			</div>
+		</a>	</div><div class="awsm-job-listing-item awsm-grid-item" id="awsm-grid-item-10022">		<a href="https://cloudsmartz.com/career/react-native-developers-4-6-years-experience/" class="awsm-job-item">			<div class="awsm-grid-left-col">
+				
+				
+				<h2 class="awsm-job-post-title">
+					React Native Developers				</h2>
+
+							</div>
+
+			<div class="awsm-grid-right-col">
+				<div class="awsm-job-specification-wrapper"><div class="awsm-job-specification-item awsm-job-specification-job-category"><span class="awsm-job-specification-term">Developer</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-type"><span class="awsm-job-specification-term">Full Time</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-location"><span class="awsm-job-specification-term">Mohali (Chandigarh)</span> <span class="awsm-job-specification-term">Gurgaon</span> <span class="awsm-job-specification-term">Noida</span> </div></div><div class="awsm-job-more-container"><span class="awsm-job-more">More Details <span></span></span></div>			</div>
+		</a>	</div><div class="awsm-job-listing-item awsm-grid-item" id="awsm-grid-item-10021">		<a href="https://cloudsmartz.com/career/react-developers-4-6-years-experience/" class="awsm-job-item">			<div class="awsm-grid-left-col">
+				
+				
+				<h2 class="awsm-job-post-title">
+					React Developers				</h2>
+
+							</div>
+
+			<div class="awsm-grid-right-col">
+				<div class="awsm-job-specification-wrapper"><div class="awsm-job-specification-item awsm-job-specification-job-category"><span class="awsm-job-specification-term">Developer</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-type"><span class="awsm-job-specification-term">Full Time</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-location"><span class="awsm-job-specification-term">Mohali (Chandigarh)</span> <span class="awsm-job-specification-term">Gurgaon</span> <span class="awsm-job-specification-term">Noida</span> </div></div><div class="awsm-job-more-container"><span class="awsm-job-more">More Details <span></span></span></div>			</div>
+		</a>	</div><div class="awsm-job-listing-item awsm-grid-item" id="awsm-grid-item-10015">		<a href="https://cloudsmartz.com/career/java-developers-3-5-years-experience/" class="awsm-job-item">			<div class="awsm-grid-left-col">
+				
+				
+				<h2 class="awsm-job-post-title">
+					Java Developers				</h2>
+
+							</div>
+
+			<div class="awsm-grid-right-col">
+				<div class="awsm-job-specification-wrapper"><div class="awsm-job-specification-item awsm-job-specification-job-category"><span class="awsm-job-specification-term">Developer</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-type"><span class="awsm-job-specification-term">Full Time</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-location"><span class="awsm-job-specification-term">Mohali (Chandigarh)</span> <span class="awsm-job-specification-term">Gurgaon</span> <span class="awsm-job-specification-term">Noida</span> </div></div><div class="awsm-job-more-container"><span class="awsm-job-more">More Details <span></span></span></div>			</div>
+		</a>	</div><div class="awsm-job-listing-item awsm-grid-item" id="awsm-grid-item-10013">		<a href="https://cloudsmartz.com/career/senior-java-developers-6-8-years-experience/" class="awsm-job-item">			<div class="awsm-grid-left-col">
+				
+				
+				<h2 class="awsm-job-post-title">
+					Senior Java Developers				</h2>
+
+							</div>
+
+			<div class="awsm-grid-right-col">
+				<div class="awsm-job-specification-wrapper"><div class="awsm-job-specification-item awsm-job-specification-job-category"><span class="awsm-job-specification-term">Developer</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-type"><span class="awsm-job-specification-term">Full Time</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-location"><span class="awsm-job-specification-term">Mohali (Chandigarh)</span> <span class="awsm-job-specification-term">Gurgaon</span> <span class="awsm-job-specification-term">Noida</span> </div></div><div class="awsm-job-more-container"><span class="awsm-job-more">More Details <span></span></span></div>			</div>
+		</a>	</div><div class="awsm-job-listing-item awsm-grid-item" id="awsm-grid-item-10011">		<a href="https://cloudsmartz.com/career/tech-lead/" class="awsm-job-item">			<div class="awsm-grid-left-col">
+				
+				
+				<h2 class="awsm-job-post-title">
+					Tech Lead – Java				</h2>
+
+							</div>
+
+			<div class="awsm-grid-right-col">
+				<div class="awsm-job-specification-wrapper"><div class="awsm-job-specification-item awsm-job-specification-job-category"><span class="awsm-job-specification-term">Developer</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-type"><span class="awsm-job-specification-term">Full Time</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-location"><span class="awsm-job-specification-term">Mohali (Chandigarh)</span> <span class="awsm-job-specification-term">Gurgaon</span> <span class="awsm-job-specification-term">Noida</span> </div></div><div class="awsm-job-more-container"><span class="awsm-job-more">More Details <span></span></span></div>			</div>
+		</a>	</div><div class="awsm-job-listing-item awsm-grid-item" id="awsm-grid-item-10010">		<a href="https://cloudsmartz.com/career/project-manager/" class="awsm-job-item">			<div class="awsm-grid-left-col">
+				
+				
+				<h2 class="awsm-job-post-title">
+					Project Manager				</h2>
+
+							</div>
+
+			<div class="awsm-grid-right-col">
+				<div class="awsm-job-specification-wrapper"><div class="awsm-job-specification-item awsm-job-specification-job-category"><span class="awsm-job-specification-term">Project Manager</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-type"><span class="awsm-job-specification-term">Full Time</span> </div><div class="awsm-job-specification-item awsm-job-specification-job-location"><span class="awsm-job-specification-term">Mohali (Chandigarh)</span> <span class="awsm-job-specification-term">Gurgaon</span> <span class="awsm-job-specification-term">Hyderabad</span> <span class="awsm-job-spe

@@ -1,0 +1,35 @@
+========================================================================
+RUN ID  : run_20260616_131829
+STARTED : 2026-06-16T13:18:29
+========================================================================
+[NOT FIXABLE ]  95.6s  path=failed    conf=0.00  Sapizon Technologies LLP
+[DONE        ] 154.4s  path=llm       conf=0.90  STRATLYTICS CONSULTING PRIVATE LIMITED
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-06-16T13:22:49
+Total time  : 260.0s (4.3 min)
+Records     : 2
+
+RESULTS BREAKDOWN
+  Done         :   1  (50%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   1  (50%)
+  SRP (auto)   :   0  (0%)
+
+DETECTION PATH
+  failed      :   1  (50%)
+  llm         :   1  (50%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.90
+  Min / Max   : 0.90 / 0.90
+
+SLOWEST 3 RECORDS
+  154.4s  STRATLYTICS CONSULTING PRIVATE LIMITED  [Done]
+   95.6s  Sapizon Technologies LLP  [Not Fixable]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260616_131829.log
+========================================================================
+

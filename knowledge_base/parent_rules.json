@@ -1,0 +1,228 @@
+[
+  {
+    "rule_name": "boardsGreenhouseRule",
+    "platform": "Greenhouse",
+    "url_signatures": [
+      "boards.greenhouse.io",
+      "job-boards.greenhouse.io"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": "boards.greenhouse.io/SLUG or job-boards.greenhouse.io/SLUG"
+  },
+  {
+    "rule_name": "leverRule",
+    "platform": "Lever",
+    "url_signatures": [
+      "jobs.lever.co"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": "jobs.lever.co/SLUG"
+  },
+  {
+    "rule_name": "myworkdayjobsRuleV2",
+    "platform": "Workday",
+    "url_signatures": [
+      "myworkdayjobs.com",
+      ".wd1.",
+      ".wd2.",
+      ".wd3.",
+      ".wd5.",
+      ".wd10."
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": ""
+  },
+  {
+    "rule_name": "ceipalRule",
+    "platform": "Ceipal",
+    "url_signatures": [
+      "ceipal.com",
+      "ceipalats.com"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": ""
+  },
+  {
+    "rule_name": "kekaRule",
+    "platform": "Keka",
+    "url_signatures": [
+      "keka.com/careers",
+      ".keka.com"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": ""
+  },
+  {
+    "rule_name": "oracleCloudRule",
+    "platform": "Oracle Cloud HCM",
+    "url_signatures": [
+      "oraclecloud.com",
+      "fa.us2.",
+      "fa.eu2.",
+      "fa.ap2."
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": "Oracle Cloud HCM careers. Distinct from Taleo (taleoFtlJsonRule etc.)."
+  },
+  {
+    "rule_name": "freshteamRule",
+    "platform": "Freshteam",
+    "url_signatures": [
+      "freshteam.com"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": ""
+  },
+  {
+    "rule_name": "peoplestrongRule",
+    "platform": "Peoplestrong",
+    "url_signatures": [
+      "peoplestrong.com"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": ""
+  },
+  {
+    "rule_name": "pyjamahrRule",
+    "platform": "PyjamaHR",
+    "url_signatures": [
+      "pyjamahr.com"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": ""
+  },
+  {
+    "rule_name": "applytojobRule",
+    "platform": "ApplyToJob",
+    "url_signatures": [
+      "applytojob.com"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": ""
+  },
+  {
+    "rule_name": "recruiteeXMLRule",
+    "platform": "Recruitee",
+    "url_signatures": [
+      "recruitee.com"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": "Uses XML sitemap. recruiteeRule (non-XML) is a separate/older variant."
+  },
+  {
+    "rule_name": "mynexthireRule",
+    "platform": "MyNextHire",
+    "url_signatures": [
+      "mynexthire.io"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": ""
+  },
+  {
+    "rule_name": "bamboohrRule",
+    "platform": "BambooHR",
+    "url_signatures": [
+      "bamboohr.com"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": ""
+  },
+  {
+    "rule_name": "taleoFtlJsonRule",
+    "platform": "Taleo (JSON)",
+    "url_signatures": [
+      "taleo.net"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": "Taleo FTL JSON variant. See also taleoFtlJsRule, taleoJspRule, taleoV2Rule."
+  },
+  {
+    "rule_name": "taleoFtlJsRule",
+    "platform": "Taleo (JS)",
+    "url_signatures": [
+      "taleo.net"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": "Taleo FTL JS variant."
+  },
+  {
+    "rule_name": "taleoJspRule",
+    "platform": "Taleo (JSP)",
+    "url_signatures": [
+      "taleo.net"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": "Taleo JSP variant."
+  },
+  {
+    "rule_name": "taleoV2Rule",
+    "platform": "Taleo V2",
+    "url_signatures": [
+      "taleo.net"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": "Taleo V2 variant."
+  },
+  {
+    "rule_name": "recruitZohoRule",
+    "platform": "Zoho Recruit",
+    "url_signatures": [
+      "recruit.zohopublic.com",
+      "zohorecruit.com",
+      "talent.noblq.com"
+    ],
+    "is_active": false,
+    "last_verified": "2026-06-04",
+    "notes": "DEPRECATED: Zoho Recruit regex changes too frequently for a static parent rule. Sites should be handled by LOCRGXGenerator instead."
+  },
+  {
+    "rule_name": "workableRule",
+    "platform": "Workable",
+    "url_signatures": [
+      "apply.workable.com",
+      "workable.com"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": ""
+  },
+  {
+    "rule_name": "darwinboxRule",
+    "platform": "Darwinbox",
+    "url_signatures": [
+      "darwinbox.com",
+      "darwinbox.in"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": ""
+  },
+  {
+    "rule_name": "greythrRule",
+    "platform": "Greythr ATS",
+    "url_signatures": [
+      "greythr.com/hire",
+      ".greythr.com"
+    ],
+    "is_active": true,
+    "last_verified": "2026-06-04",
+    "notes": ""
+  }
+]

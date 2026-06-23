@@ -1,0 +1,7 @@
+{
+    "5221200_SRP": {
+        "PARENT_RULE_NAME": "pyjamahrRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME ='Zoot Systems',compid ='5221200', jobConsultant = 'n' where  SITE = '5221200_SRP'",
+        "URL_VARS": "6B9821EA55"
+    }
+}

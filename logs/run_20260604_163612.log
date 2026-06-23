@@ -1,0 +1,36 @@
+========================================================================
+RUN ID  : run_20260604_163612
+STARTED : 2026-06-04T16:36:12
+========================================================================
+[NOT FIXABLE ]  11.7s  path=error     conf=0.00  Cloudsmartz
+           ERROR: No module named 'playwright'
+[DONE        ]  10.9s  path=ats       conf=0.95  Jeevan Technologies India Pvt. Ltd
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-06-04T16:36:34
+Total time  : 22.7s (0.4 min)
+Records     : 2
+
+RESULTS BREAKDOWN
+  Done         :   1  (50%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   1  (50%)
+  SRP (auto)   :   0  (0%)
+
+DETECTION PATH
+  ats         :   1  (50%)
+  error       :   1  (50%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.95
+  Min / Max   : 0.95 / 0.95
+
+SLOWEST 3 RECORDS
+   11.7s  Cloudsmartz  [Not Fixable]
+   10.9s  Jeevan Technologies India Pvt. Ltd  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260604_163612.log
+========================================================================
+

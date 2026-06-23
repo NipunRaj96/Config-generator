@@ -1,0 +1,7 @@
+{
+    "4580986_SRP": {
+        "PARENT_RULE_NAME": "recruiteeRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'InVideo', compid = '4580986', jobConsultant = 'n' where  SITE = '4580986_SRP'",
+        "URL_VARS": "invideo"
+    }
+}

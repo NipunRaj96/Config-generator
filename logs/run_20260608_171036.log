@@ -1,0 +1,33 @@
+========================================================================
+RUN ID  : run_20260608_171036
+STARTED : 2026-06-08T17:10:36
+========================================================================
+[NOT FIXABLE ] 315.2s  path=failed    conf=0.00  Cloudsmartz
+[NOT FIXABLE ] 578438.7s  path=failed    conf=0.00  Jeevan Technologies India Pvt. Ltd
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-06-15T09:57:14
+Total time  : 578798.8s (9646.6 min)
+Records     : 2
+
+RESULTS BREAKDOWN
+  Done         :   0  (0%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   2  (100%)
+  SRP (auto)   :   0  (0%)
+
+DETECTION PATH
+  failed      :   2  (100%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.00
+
+SLOWEST 3 RECORDS
+  578438.7s  Jeevan Technologies India Pvt. Ltd  [Not Fixable]
+  315.2s  Cloudsmartz  [Not Fixable]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260608_171036.log
+========================================================================
+

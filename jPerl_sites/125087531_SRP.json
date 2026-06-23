@@ -1,0 +1,12 @@
+{
+    "125087531_SRP": {
+        "JDJSON6": "jobPostingInfo,startDate",
+        "JDJSONSEQ6": "Date",
+        "JOBLINK": "https://worldvision.wd1.myworkdayjobs.com/wday/cxs/worldvision/WorldVisionInternational/job/{{VARJOBLINK}}",
+        "LANDINGJOBLINK": "https://worldvision.wd1.myworkdayjobs.com/en-US/WorldVisionInternational/job/{{VARJOBLINK}}",
+        "PARENT_RULE_NAME": "myworkdayjobsRuleV2",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'World Vision', compid = '125087531', jobConsultant = 'n' where \u00a0SITE = '125087531_SRP'",
+        "SQLDATE": "%Y-%m-%d",
+        "URL": "https://worldvision.wd1.myworkdayjobs.com/wday/cxs/worldvision/WorldVisionInternational/jobs{{POST}}{{CONTENT}}{\"appliedFacets\":{\"locationCountry\":[\"c4f78be1a8f14da0ab49ce1162348a5e\"]},\"limit\":20,\"offset\":0,\"searchText\":\"\"}{{HEADER}}Accept|X|application/json##{{Accept-Language|X|en-US##{{Content-Type|X|application/json"
+    }
+}

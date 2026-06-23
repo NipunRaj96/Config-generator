@@ -1,0 +1,40 @@
+{
+    "paramhansaschool_UC": {
+        "CanProcceed": 1,
+        "Cookie": "YES",
+        "CurrentJobNum": 1,
+        "CurrentPageNum": 0,
+        "DELETE_UNLISTED": "y",
+        "ISCRAWL_FULL": 0,
+        "IS_SITE_ID_DERIVED": 0,
+        "JDVARS": {
+            "FAREA": {
+                "callable": "Classifier_FAREA",
+                "type": "SUB"
+            },
+            "INDUSTRY": {
+                "callable": "Classifier_INDUSTRY",
+                "type": "SUB"
+            },
+            "ROLE": {
+                "callable": "Classifier_ROLE",
+                "type": "SUB"
+            }
+        },
+        "JOBLINK": "https://paramhansaschool.in/career.php",
+        "JOBSCOUNT": 0,
+        "LOCRGX": "(?s)<option>(([^<]+))<",
+        "LOCRGXSEQ": "JOBID,JOBTITLE",
+        "MAXJBSPPAGE": 10,
+        "MAXPAGESPARSE": "1",
+        "MOVE_TO_JD": 0,
+        "POSTQUERY": "update WEB_JOBS set COMPNAME ='Paramhansa Senior Secondary School Faridabad',compid ='124524462', jobConsultant = 'n' where  SITE = 'paramhansaschool_UC'",
+        "PROXY": "No",
+        "SAVE_JD_COOKIE": "Yes",
+        "SQLDATE": "%Y-%m-%d",
+        "StartPageNum": 0,
+        "TERMRGX": "",
+        "URL": "https://paramhansaschool.in/career.php",
+        "USER_AGENT": "Firefox/5.0"
+    }
+}

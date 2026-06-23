@@ -1,0 +1,42 @@
+{
+    "100hires_UC": {
+        "CanProcceed": 1,
+        "Cookie": "YES",
+        "CurrentJobNum": 1,
+        "CurrentPageNum": 0,
+        "DELETE_UNLISTED": "y",
+        "ISCRAWL_FULL": 0,
+        "IS_SITE_ID_DERIVED": 0,
+        "JDRGX1": "(?s)job-page \">(.+?)Apply",
+        "JDRGXSEQ1": "JOBDESC",
+        "JDVARS": {
+            "FAREA": {
+                "callable": "Classifier_FAREA",
+                "type": "SUB"
+            },
+            "INDUSTRY": {
+                "callable": "Classifier_INDUSTRY",
+                "type": "SUB"
+            },
+            "ROLE": {
+                "callable": "Classifier_ROLE",
+                "type": "SUB"
+            }
+        },
+        "JOBLINK": "https://100hires.com{{VARJOBLINK}}",
+        "JOBSCOUNT": 0,
+        "LOCRGX": "(?s)job-block__title\" href=\"(([^\"]+))\">([^<]+)[^>]+>[^>]+>([^<]+)",
+        "LOCRGXSEQ": "JOBID,JOBLINK,JOBTITLE,LOCATION",
+        "MAXJBSPPAGE": 10,
+        "MAXPAGESPARSE": "1",
+        "MOVE_TO_JD": 1,
+        "POSTQUERY": "update WEB_JOBS set COMPNAME ='Systato',compid ='124595196', jobConsultant = 'n' where  SITE = '100hires_UC'",
+        "PROXY": "No",
+        "SAVE_JD_COOKIE": "Yes",
+        "SQLDATE": "%Y-%m-%d",
+        "StartPageNum": 0,
+        "TERMRGX": "",
+        "URL": "https://100hires.com/c/systato-com",
+        "USER_AGENT": "Firefox/5.0"
+    }
+}

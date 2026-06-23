@@ -1,0 +1,39 @@
+{
+    "smbtechsolution_UC": {
+        "CanProcceed": 1,
+        "Cookie": "YES",
+        "CurrentJobNum": 1,
+        "CurrentPageNum": 0,
+        "DELETE_UNLISTED": "y",
+        "ISCRAWL_FULL": 0,
+        "IS_SITE_ID_DERIVED": 0,
+        "JDVARS": {
+            "FAREA": {
+                "callable": "Classifier_FAREA",
+                "type": "SUB"
+            },
+            "INDUSTRY": {
+                "callable": "Classifier_INDUSTRY",
+                "type": "SUB"
+            },
+            "ROLE": {
+                "callable": "Classifier_ROLE",
+                "type": "SUB"
+            }
+        },
+        "JOBSCOUNT": 0,
+        "LOCRGX": "(?s)dt-mb-4\">(([^<]+)).+?<p>(.+?)Apply Now",
+        "LOCRGXSEQ": "JOBID,JOBTITLE,JOBDESC",
+        "MAXJBSPPAGE": 10,
+        "MAXPAGESPARSE": "6",
+        "MOVE_TO_JD": 0,
+        "POSTQUERY": "update WEB_JOBS set COMPNAME ='SMB Tech Solution',compid ='124038894', jobConsultant = 'n' where  SITE = 'smbtechsolution_UC'",
+        "SAVE_JD_COOKIE": "Yes",
+        "SQLDATE": "%Y-%m-%d",
+        "StartPageNum": 0,
+        "TERMRGX": "",
+        "URL": "https://smbtechsolution.com/job_category/!0o!URLVARS!0o!",
+        "URL_VARS": "hr-human-resources/!@@!magento-developer/!@@!marketing-sales/!@@!marketing-analytics/!@@!project-management/!@@!seo-executive/",
+        "USER_AGENT": "Firefox/5.0"
+    }
+}

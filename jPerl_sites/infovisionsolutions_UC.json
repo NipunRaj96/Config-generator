@@ -1,0 +1,42 @@
+{
+    "infovisionsolutions_UC": {
+        "CanProcceed": 1,
+        "Cookie": "YES",
+        "CurrentJobNum": 1,
+        "CurrentPageNum": 0,
+        "DELETE_UNLISTED": "y",
+        "ISCRAWL_FULL": 0,
+        "IS_SITE_ID_DERIVED": 0,
+        "JDJSON1": "createDate|X|longDescription|X|role|X|desiredSkill",
+        "JDJSONSEQ1": "Date,JOBDESC,JOBDESC,KEY_SKILL",
+        "JDVARS": {
+            "FAREA": {
+                "callable": "Classifier_FAREA",
+                "type": "SUB"
+            },
+            "INDUSTRY": {
+                "callable": "Classifier_INDUSTRY",
+                "type": "SUB"
+            },
+            "ROLE": {
+                "callable": "Classifier_ROLE",
+                "type": "SUB"
+            }
+        },
+        "JOBLINK": "https://public.zwayam.com/jobs-service/v1/jobs/careersite{{POST}}{{CONTENT}}{\"jobUrl\":\"{{VARJOBLINK}}\",\"externalSource\":\"CareerSite\",\"campusUrl\":\"empty\",\"companyId\":\"15936\"}{{HEADER}}accept|X|application/json, text/plain, */*##{{accept-encoding|X|gzip, deflate, br, zstd##{{accept-language|X|en-US,en;q=0.9##{{content-length|X|145##{{content-type|X|application/json",
+        "JOBSCOUNT": 0,
+        "LANDINGJOBLINK": "https://careers.infovision.com/infovision/jobview/{{VARJOBLINK}}",
+        "LOCJSON": "_source,minJobSalary|X|_source,location|X|_source,tags|X|_source,minYearOfExperience|X|_source,id|X|_source,jobTitle|X|_source,jobUrl|XX|data,data",
+        "LOCJSONSEQ": "SALARY,LOCATION,KEY_SKILL,EXPERIENCE,JOBID,JOBTITLE,JOBLINK",
+        "MAXJBSPPAGE": 10,
+        "MAXPAGESPARSE": "10",
+        "MOVE_TO_JD": 1,
+        "POSTQUERY": "update WEB_JOBS set COMPNAME ='InfoVision Inc.',compid ='5302092', jobConsultant = 'n' where  SITE = 'infovisionsolutions_UC'",
+        "SAVE_JD_COOKIE": "Yes",
+        "SQLDATE": "%e-%b-%Y",
+        "StartPageNum": 0,
+        "TERMRGX": "",
+        "URL": "https://public.zwayam.com/jobs/search{{POST}}filterCri={\"paginationStartNo\":!0o!STARTJOBNO!0o!,\"selectedCall\":\"sort\",\"sortCriteria\":{\"name\":\"modifiedDate\",\"isAscending\":false}}&domain=careers.infovision.com{{HEADER}}accept|X|application/json, text/plain, */*##{{accept-encoding|X|gzip, deflate, br, zstd##{{accept-language|X|en-US,en;q=0.9##{{content-length|X|484##{{content-type|X|application/x-www-form-urlencoded##{{origin|X|https://careers.infovision.com##{{priority|X|u=1, i##{{referer|X|https://careers.infovision.com/##{{sec-ch-ua|X|\"Not;A=Brand\";v=\"99\", \"Google Chrome\";v=\"139\", \"Chromium\";v=\"139\"##{{sec-ch-ua-mobile|X|?0##{{sec-ch-ua-platform|X|\"Windows\"##{{sec-fetch-dest|X|empty##{{sec-fetch-mode|X|cors##{{sec-fetch-site|X|cross-site",
+        "USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    }
+}

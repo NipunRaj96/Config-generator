@@ -1,0 +1,40 @@
+========================================================================
+RUN ID  : run_20260608_161306
+STARTED : 2026-06-08T16:13:06
+========================================================================
+[DONE        ]  55.9s  path=llm       conf=0.20  Helli Moulds
+[DONE        ]  46.9s  path=llm       conf=0.90  Hornet Dynamics
+[DONE        ] 125.0s  path=failed    conf=0.00  Logix Resourcing
+[DONE        ]  46.0s  path=llm       conf=0.90  Naalvar Solutions
+[DONE        ]  87.4s  path=llm       conf=0.90  spocket
+[DONE        ] 177.8s  path=llm       conf=0.90  Sunrise Technologies
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-06-08T16:22:05
+Total time  : 539.2s (9.0 min)
+Records     : 6
+
+RESULTS BREAKDOWN
+  Done         :   6  (100%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   0  (0%)
+
+DETECTION PATH
+  failed      :   1  (17%)
+  llm         :   5  (83%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.76
+  Min / Max   : 0.20 / 0.90
+
+SLOWEST 3 RECORDS
+  177.8s  Sunrise Technologies  [Done]
+  125.0s  Logix Resourcing  [Done]
+   87.4s  spocket  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260608_161306.log
+========================================================================
+
