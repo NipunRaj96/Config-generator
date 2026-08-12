@@ -1,0 +1,54 @@
+========================================================================
+RUN ID  : run_20260715_144245
+STARTED : 2026-07-15T14:42:45
+========================================================================
+[DONE        ]  59.1s  path=srp       conf=0.90  Course5
+[DONE        ]  69.1s  path=llm       conf=0.90  Suta
+[DONE        ]  78.1s  path=srp       conf=0.90  Absolute Veritas
+[DONE        ] 112.0s  path=llm       conf=0.90  Technovision Engineers Pvt Ltd.
+[DONE        ]  37.3s  path=llm       conf=0.90  Savitara Infotel
+[FAILED      ]  76.4s  path=failed    conf=0.00  Designers.io
+[DONE        ]  38.3s  path=srp       conf=0.90  Doux consultant
+[DONE        ]  31.3s  path=llm       conf=0.90  SITA
+[DONE        ]  43.1s  path=llm       conf=0.90  TECHMINDS GROUP INDIA PRIVATE LIMITED
+[DONE        ]  36.6s  path=srp       conf=0.90  AppFillip
+[DONE        ]  35.1s  path=srp       conf=0.90  Inspire Infosol
+[DONE        ]  66.9s  path=srp       conf=0.90  TRONIXWARE
+[DONE        ]  30.1s  path=llm       conf=0.90  Nayi Disha Resource Centre
+[NON-WORKABLE]  10.9s  path=robot     conf=0.00  Silicon microsystems
+[DONE        ]  33.1s  path=llm       conf=0.90  Axes Track Software
+[DONE        ]  10.0s  path=ats       conf=0.95  Anywhere Real Estate Inc
+[NON-WORKABLE]  10.7s  path=robot     conf=0.00  Strateena
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-07-15T14:58:23
+Total time  : 938.5s (15.6 min)
+Records     : 17
+
+RESULTS BREAKDOWN
+  Done         :  14  (82%)
+  Non-Workable :   2  (12%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   6  (35%)
+
+DETECTION PATH
+  ats         :   1  (6%)
+  failed      :   1  (6%)
+  llm         :   7  (41%)
+  robot       :   2  (12%)
+  srp         :   6  (35%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.90
+  Min / Max   : 0.90 / 0.95
+
+SLOWEST 3 RECORDS
+  112.0s  Technovision Engineers Pvt Ltd.  [Done]
+   78.1s  Absolute Veritas  [Done]
+   76.4s  Designers.io  [Failed]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260715_144245.log
+========================================================================
+

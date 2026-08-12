@@ -1,0 +1,13 @@
+========================================================================
+RUN ID  : run_20260703_115240
+STARTED : 2026-07-03T11:52:40
+========================================================================
+[DONE        ]  44.9s  path=llm       conf=0.90  Indus Net Technologies
+[NOT FIXABLE ]  41.3s  path=failed    conf=0.00  Gradiant India Pvt Ltd
+[DONE        ]  83.6s  path=srp       conf=0.90  AMBC Inc
+[DONE        ]  47.5s  path=srp       conf=0.90  Course5
+[DONE        ]  10.5s  path=ats       conf=0.95  Skill College
+[DONE        ] 132.2s  path=llm       conf=0.90  Technovision Engineers Pvt Ltd.
+[DONE        ]  43.0s  path=llm       conf=0.90  Blow Trumpet Solutions
+[DONE        ]  46.5s  path=llm       conf=0.90  Brunel India Pvt Ltd
+[DONE        ]  54.6s  path=srp       conf=0.90  iTester

@@ -1,0 +1,51 @@
+========================================================================
+RUN ID  : run_20260703_121325
+STARTED : 2026-07-03T12:13:25
+========================================================================
+[DONE        ]  10.2s  path=llm       conf=0.90  Indus Net Technologies
+[NOT FIXABLE ]  10.8s  path=failed    conf=0.00  Gradiant India Pvt Ltd
+[DONE        ]  12.6s  path=srp       conf=0.90  AMBC Inc
+[DONE        ]  12.1s  path=srp       conf=0.90  Course5
+[DONE        ]  10.3s  path=ats       conf=0.95  Skill College
+[DONE        ]  11.0s  path=llm       conf=0.90  Technovision Engineers Pvt Ltd.
+[DONE        ]  11.5s  path=llm       conf=0.90  Blow Trumpet Solutions
+[DONE        ]  11.1s  path=llm       conf=0.90  Brunel India Pvt Ltd
+[DONE        ]  13.2s  path=srp       conf=0.90  iTester
+[DONE        ]  54.5s  path=srp       conf=0.90  Clobas Private Limited
+[DONE        ]  27.7s  path=llm       conf=0.90  Savitara Infotel
+[DONE        ]  30.9s  path=srp       conf=0.90  Electronica HiTech Machine Tools Pvt. Lt
+[DONE        ]  10.9s  path=ats       conf=0.95  CBTW IT & Technology / Positive Thinking
+[DONE        ]  39.3s  path=srp       conf=0.90  Security Brigade InfoSec Private Limited
+[DONE        ]  31.0s  path=srp       conf=0.90  Green Dot International School, Bandapur
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-07-03T12:20:43
+Total time  : 437.2s (7.3 min)
+Records     : 15
+
+RESULTS BREAKDOWN
+  Done         :  14  (93%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   1  (7%)
+  SRP (auto)   :   7  (47%)
+
+DETECTION PATH
+  ats         :   2  (13%)
+  failed      :   1  (7%)
+  llm         :   5  (33%)
+  srp         :   7  (47%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.91
+  Min / Max   : 0.90 / 0.95
+
+SLOWEST 3 RECORDS
+   54.5s  Clobas Private Limited  [Done]
+   39.3s  Security Brigade InfoSec Private Limited  [Done]
+   31.0s  Green Dot International School, Bandapura  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260703_121325.log
+========================================================================
+

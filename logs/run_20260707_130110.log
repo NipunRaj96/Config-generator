@@ -1,0 +1,53 @@
+========================================================================
+RUN ID  : run_20260707_130110
+STARTED : 2026-07-07T13:01:10
+========================================================================
+[DONE        ]  54.6s  path=srp       conf=0.90  Course5
+[DONE        ]  73.0s  path=llm       conf=0.80  Suta
+[DONE        ]  47.4s  path=srp       conf=0.90  Absolute Veritas
+[DONE        ] 110.7s  path=llm       conf=0.90  Technovision Engineers Pvt Ltd.
+[DONE        ]  27.9s  path=llm       conf=0.90  Savitara Infotel
+[DONE        ]  41.8s  path=srp       conf=0.90  Designers.io
+[DONE        ]  34.6s  path=srp       conf=0.90  Doux consultant
+[DONE        ]  44.9s  path=srp       conf=0.90  SITA
+[DONE        ]  12.6s  path=ats       conf=0.95  TECHMINDS GROUP INDIA PRIVATE LIMITED
+[DONE        ]  37.7s  path=llm       conf=0.80  AppFillip
+[DONE        ]  32.1s  path=srp       conf=0.90  Inspire Infosol
+[DONE        ] 115.2s  path=srp       conf=0.90  TRONIXWARE
+[DONE        ]  30.0s  path=llm       conf=0.90  Nayi Disha Resource Centre
+[NON-WORKABLE]  11.5s  path=robot     conf=0.00  Silicon microsystems
+[DONE        ]  28.1s  path=llm       conf=0.50  Axes Track Software
+[DONE        ]  10.0s  path=ats       conf=0.95  Anywhere Real Estate Inc
+[DONE        ]  11.3s  path=ats       conf=0.95  Strateena
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-07-07T13:15:54
+Total time  : 883.6s (14.7 min)
+Records     : 17
+
+RESULTS BREAKDOWN
+  Done         :  16  (94%)
+  Non-Workable :   1  (6%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   7  (41%)
+
+DETECTION PATH
+  ats         :   3  (18%)
+  llm         :   6  (35%)
+  robot       :   1  (6%)
+  srp         :   7  (41%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.87
+  Min / Max   : 0.50 / 0.95
+
+SLOWEST 3 RECORDS
+  115.2s  TRONIXWARE  [Done]
+  110.7s  Technovision Engineers Pvt Ltd.  [Done]
+   73.0s  Suta  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260707_130110.log
+========================================================================
+

@@ -1,0 +1,7 @@
+{
+    "124293332_SRP": {
+        "PARENT_RULE_NAME": "kekaRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Smytten', compid = '124293332', jobConsultant = 'n' where \u00a0SITE = '124293332_SRP'",
+        "URL_VARS": "smytten"
+    }
+}

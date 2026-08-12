@@ -1,0 +1,7 @@
+{
+    "5460812_SRP": {
+        "PARENT_RULE_NAME": "boardsGreenhouseRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Briq', compid = '5460812', jobConsultant = 'n' where \u00a0SITE = '5460812_SRP'",
+        "URL_VARS": "briq"
+    }
+}

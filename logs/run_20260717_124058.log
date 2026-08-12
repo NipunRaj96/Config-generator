@@ -1,0 +1,10 @@
+========================================================================
+RUN ID  : run_20260717_124058
+STARTED : 2026-07-17T12:40:58
+========================================================================
+[NOT FIXABLE ]  55.2s  path=error     conf=0.00  tokens=0     (  0.0/job)  Fairmont Hotels & Resorts
+           ERROR: name 'state' is not defined
+[NOT FIXABLE ]  21.7s  path=error     conf=0.00  tokens=0     (  0.0/job)  SSP Solutions
+           ERROR: name 'state' is not defined
+[NOT FIXABLE ]  22.1s  path=error     conf=0.00  tokens=0     (  0.0/job)  TASEC Limited
+           ERROR: name 'state' is not defined

@@ -1,0 +1,10 @@
+========================================================================
+RUN ID  : run_20260714_115507
+STARTED : 2026-07-14T11:55:07
+========================================================================
+[DONE        ]  93.7s  path=ats       conf=0.95  Course5
+[DONE        ] 128.1s  path=ats       conf=0.95  Suta
+[DONE        ] 153.1s  path=srp       conf=0.90  Absolute Veritas
+[FAILED      ] 284.7s  path=failed    conf=0.00  Technovision Engineers Pvt Ltd.
+[DONE        ] 279.2s  path=srp       conf=0.90  Savitara Infotel
+[DONE        ] 138.5s  path=srp       conf=0.90  Designers.io

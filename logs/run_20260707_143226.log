@@ -1,0 +1,53 @@
+========================================================================
+RUN ID  : run_20260707_143226
+STARTED : 2026-07-07T14:32:26
+========================================================================
+[DONE        ]  53.2s  path=srp       conf=0.40  Course5
+[DONE        ]  68.6s  path=llm       conf=0.90  Suta
+[DONE        ]  32.7s  path=llm       conf=0.90  Absolute Veritas
+[DONE        ] 107.2s  path=llm       conf=0.90  Technovision Engineers Pvt Ltd.
+[DONE        ]  29.9s  path=llm       conf=0.90  Savitara Infotel
+[DONE        ]  40.2s  path=srp       conf=0.40  Designers.io
+[NOT FIXABLE ]  23.3s  path=failed    conf=0.00  Doux consultant
+[DONE        ]  43.6s  path=srp       conf=0.90  SITA
+[DONE        ]  13.5s  path=ats       conf=0.95  TECHMINDS GROUP INDIA PRIVATE LIMITED
+[NOT FIXABLE ]  18.7s  path=failed    conf=0.00  AppFillip
+[NOT FIXABLE ]  24.7s  path=failed    conf=0.00  Inspire Infosol
+[DONE        ]  23.0s  path=llm       conf=1.00  TRONIXWARE
+[DONE        ]  29.5s  path=llm       conf=0.90  Nayi Disha Resource Centre
+[NOT FIXABLE ]  18.1s  path=failed    conf=0.00  Silicon microsystems
+[DONE        ]  27.4s  path=llm       conf=0.50  Axes Track Software
+[DONE        ]  10.0s  path=ats       conf=0.95  Anywhere Real Estate Inc
+[DONE        ]  10.9s  path=ats       conf=0.95  Strateena
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-07-07T14:44:41
+Total time  : 734.7s (12.2 min)
+Records     : 17
+
+RESULTS BREAKDOWN
+  Done         :  13  (76%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   4  (24%)
+  SRP (auto)   :   3  (18%)
+
+DETECTION PATH
+  ats         :   3  (18%)
+  failed      :   4  (24%)
+  llm         :   7  (41%)
+  srp         :   3  (18%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.81
+  Min / Max   : 0.40 / 1.00
+
+SLOWEST 3 RECORDS
+  107.2s  Technovision Engineers Pvt Ltd.  [Done]
+   68.6s  Suta  [Done]
+   53.2s  Course5  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260707_143226.log
+========================================================================
+

@@ -1,0 +1,39 @@
+========================================================================
+RUN ID  : run_20260701_172558
+STARTED : 2026-07-01T17:25:58
+========================================================================
+[DONE        ]  66.8s  path=llm       conf=0.80  XTRAGRAD
+[DONE        ]  55.9s  path=srp       conf=0.90  Mindstorm Digital Marketing Pvt. Ltd.
+[DONE        ]  41.7s  path=srp       conf=0.90  CodeNgine Technologies
+[DONE        ]  47.3s  path=llm       conf=0.80  AEROLENS INDIA PRIVATE LIMITED
+[DONE        ]  44.1s  path=llm       conf=0.80  Auxirem Technology Pvt. Ltd
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-07-01T17:30:54
+Total time  : 295.9s (4.9 min)
+Records     : 5
+
+RESULTS BREAKDOWN
+  Done         :   5  (100%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   2  (40%)
+
+DETECTION PATH
+  llm         :   3  (60%)
+  srp         :   2  (40%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.84
+  Min / Max   : 0.80 / 0.90
+
+SLOWEST 3 RECORDS
+   66.8s  XTRAGRAD  [Done]
+   55.9s  Mindstorm Digital Marketing Pvt. Ltd.  [Done]
+   47.3s  AEROLENS INDIA PRIVATE LIMITED  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260701_172558.log
+========================================================================
+

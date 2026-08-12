@@ -1,0 +1,54 @@
+========================================================================
+RUN ID  : run_20260715_123600
+STARTED : 2026-07-15T12:36:00
+========================================================================
+[DONE        ]  40.5s  path=srp       conf=0.90  Course5
+[FAILED      ]  56.7s  path=failed    conf=0.00  Suta
+[DONE        ]  31.9s  path=srp       conf=0.90  Absolute Veritas
+[DONE        ] 117.3s  path=llm       conf=0.90  Technovision Engineers Pvt Ltd.
+[DONE        ]  30.5s  path=srp       conf=0.90  Savitara Infotel
+[DONE        ]  28.7s  path=srp       conf=0.90  Designers.io
+[DONE        ]  32.5s  path=srp       conf=0.90  Doux consultant
+[DONE        ]  30.5s  path=srp       conf=0.90  SITA
+[FAILED      ]  51.2s  path=failed    conf=0.00  TECHMINDS GROUP INDIA PRIVATE LIMITED
+[DONE        ]  29.7s  path=srp       conf=0.90  AppFillip
+[DONE        ]  29.3s  path=srp       conf=0.90  Inspire Infosol
+[DONE        ]  50.6s  path=llm       conf=1.05  TRONIXWARE
+[DONE        ]  38.1s  path=llm       conf=0.90  Nayi Disha Resource Centre
+[NON-WORKABLE]  11.0s  path=robot     conf=0.00  Silicon microsystems
+[DONE        ]  38.7s  path=llm       conf=0.90  Axes Track Software
+[DONE        ]  10.0s  path=ats       conf=0.95  Anywhere Real Estate Inc
+[NON-WORKABLE]  10.7s  path=robot     conf=0.00  Strateena
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-07-15T12:49:18
+Total time  : 798.2s (13.3 min)
+Records     : 17
+
+RESULTS BREAKDOWN
+  Done         :  13  (76%)
+  Non-Workable :   2  (12%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   8  (47%)
+
+DETECTION PATH
+  ats         :   1  (6%)
+  failed      :   2  (12%)
+  llm         :   4  (24%)
+  robot       :   2  (12%)
+  srp         :   8  (47%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.92
+  Min / Max   : 0.90 / 1.05
+
+SLOWEST 3 RECORDS
+  117.3s  Technovision Engineers Pvt Ltd.  [Done]
+   56.7s  Suta  [Failed]
+   51.2s  TECHMINDS GROUP INDIA PRIVATE LIMITED  [Failed]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260715_123600.log
+========================================================================
+

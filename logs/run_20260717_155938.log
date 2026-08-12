@@ -1,0 +1,37 @@
+========================================================================
+RUN ID  : run_20260717_155938
+STARTED : 2026-07-17T15:59:38
+========================================================================
+[DONE        ]  29.3s  path=llm       conf=0.90  tokens=16115 (895.3/job)  TASEC Limited
+[FAILED      ]  31.5s  path=failed    conf=0.00  tokens=9325  (2331.2/job)  Servenergy IT Consultancy
+[DONE        ]  47.3s  path=llm       conf=0.90  tokens=15241 (272.2/job)  Rhysley
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-07-17T16:01:46
+Total time  : 128.2s (2.1 min)
+Records     : 3
+
+RESULTS BREAKDOWN
+  Done         :   2  (67%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   0  (0%)
+
+DETECTION PATH
+  failed      :   1  (33%)
+  llm         :   2  (67%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.90
+  Min / Max   : 0.90 / 0.90
+
+SLOWEST 3 RECORDS
+   47.3s  Rhysley  [Done]
+   31.5s  Servenergy IT Consultancy  [Failed]
+   29.3s  TASEC Limited  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260717_155938.log
+========================================================================
+

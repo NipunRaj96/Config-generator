@@ -1,0 +1,9 @@
+========================================================================
+RUN ID  : run_20260703_111810
+STARTED : 2026-07-03T11:18:10
+========================================================================
+[DONE        ]  57.6s  path=llm       conf=0.90  Indus Net Technologies
+[DONE        ]  33.1s  path=srp       conf=0.90  Gradiant India Pvt Ltd
+[DONE        ]  87.1s  path=failed    conf=0.00  AMBC Inc
+[DONE        ]  45.3s  path=failed    conf=0.00  Course5
+[DONE        ]  91.8s  path=failed    conf=0.00  Skill College

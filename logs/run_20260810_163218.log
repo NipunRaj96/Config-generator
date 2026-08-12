@@ -1,0 +1,45 @@
+========================================================================
+RUN ID  : run_20260810_163218
+STARTED : 2026-08-10T16:32:18
+========================================================================
+[DONE        ]  62.7s  path=llm       conf=0.90  tokens=11476 (3825.3/job)  Srijan Ek Soch
+[DONE        ]  63.7s  path=llm       conf=1.05  tokens=7699  (699.9/job)  HYRE Center
+[FAILED      ]  85.2s  path=failed    conf=0.00  tokens=17011 (2430.1/job)  Accurate HR
+[DONE        ]  31.7s  path=llm       conf=1.05  tokens=91087 (9108.7/job)  Collective Good Foundation (CGF)
+[DONE        ]  61.4s  path=llm       conf=0.90  tokens=9878  (2469.5/job)  Brightstar Lottery
+[FAILED      ]  52.7s  path=failed    conf=0.00  tokens=9293  (3097.7/job)  BSH Technologiesa
+[DONE        ]  66.1s  path=llm       conf=0.90  tokens=6442  (429.5/job)  SEMI LEAF
+[DONE        ]  51.2s  path=llm       conf=0.90  tokens=6479  (1619.8/job)  elucknow
+[DONE        ]  29.9s  path=llm       conf=1.05  tokens=7113  (592.8/job)  ANTS Digital
+[DONE        ]  49.4s  path=llm       conf=0.90  tokens=10487 (1165.2/job)  Originux UX UI Design Agency Bangalore
+[DONE        ] 136.8s  path=llm       conf=0.90  tokens=25118 (100.9/job)  Vitestork Consulting Private Limited
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-08-10T16:45:29
+Total time  : 791.0s (13.2 min)
+Records     : 11
+
+RESULTS BREAKDOWN
+  Done         :   9  (82%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   0  (0%)
+
+DETECTION PATH
+  failed      :   2  (18%)
+  llm         :   9  (82%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.95
+  Min / Max   : 0.90 / 1.05
+
+SLOWEST 3 RECORDS
+  136.8s  Vitestork Consulting Private Limited  [Done]
+   85.2s  Accurate HR  [Failed]
+   66.1s  SEMI LEAF  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260810_163218.log
+========================================================================
+

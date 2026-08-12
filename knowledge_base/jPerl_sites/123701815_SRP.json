@@ -1,0 +1,44 @@
+{
+    "123701815_SRP": {
+        "CanProcceed": 1,
+        "Cookie": "YES",
+        "CurrentJobNum": 1,
+        "CurrentPageNum": 0,
+        "DELETE_UNLISTED": "y",
+        "ESCAPE_VARJOBLINK": "No",
+        "ISCRAWL_FULL": 0,
+        "IS_SITE_ID_DERIVED": 0,
+        "JDRGX1": "(?s)var jobs[^\\']+\\'(.+?)\\'",
+        "JDRGX2": "(?s)x22Date_Opened.+?x22.+?x22([^']+)",
+        "JDRGXSEQ1": "JOBDESC",
+        "JDRGXSEQ2": "Date",
+        "JDVARS": {
+            "FAREA": {
+                "callable": "Classifier_FAREA",
+                "type": "SUB"
+            },
+            "INDUSTRY": {
+                "callable": "Classifier_INDUSTRY",
+                "type": "SUB"
+            },
+            "ROLE": {
+                "callable": "Classifier_ROLE",
+                "type": "SUB"
+            }
+        },
+        "JOBLINK": "https://cetas-healthcare.zohorecruit.in/jobs/Careers/{{VARJOBLINK}}",
+        "JOBSCOUNT": 0,
+        "LOCRGX": "(?s)Posting_Title&quot;[^;]+;[^;]+;(.+?)&quot;.+?id&quot;[^;]+;[^;]+;(([^&]+))",
+        "LOCRGXSEQ": "JOBTITLE,JOBID,JOBLINK",
+        "MAXJBSPPAGE": 10,
+        "MAXPAGESPARSE": "1",
+        "MOVE_TO_JD": 1,
+        "POSTQUERY": "update WEB_JOBS set COMPNAME ='Cetas Healthcare',compid ='123701815', jobConsultant = 'n' where  SITE = '123701815_SRP'",
+        "SAVE_JD_COOKIE": "Yes",
+        "SQLDATE": "%Y-%m-%d",
+        "StartPageNum": 0,
+        "TERMRGX": "",
+        "URL": "https://cetas-healthcare.zohorecruit.in/jobs/Careers",
+        "USER_AGENT": "Firefox/5.0"
+    }
+}

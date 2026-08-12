@@ -1,0 +1,7 @@
+========================================================================
+RUN ID  : run_20260714_114647
+STARTED : 2026-07-14T11:46:47
+========================================================================
+[DONE        ]  85.5s  path=ats       conf=0.95  Course5
+[NOT FIXABLE ] 181.2s  path=error     conf=0.00  Suta
+           ERROR: 'NoneType' object has no attribute 'strip'

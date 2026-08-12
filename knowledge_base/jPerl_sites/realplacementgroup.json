@@ -1,0 +1,7 @@
+{
+    "realplacementgroup": {
+        "PARENT_RULE_NAME": "placementindiaRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Real Placement Group', compid = '3748196', jobConsultant = 'n' where  SITE = 'realplacementgroup'",
+        "URLSTART": "http://www.realplacementgroup.com/"
+    }
+}

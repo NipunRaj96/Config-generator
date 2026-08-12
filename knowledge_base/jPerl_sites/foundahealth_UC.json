@@ -1,0 +1,7 @@
+{
+    "foundahealth_UC": {
+        "PARENT_RULE_NAME": "boardsGreenhouseRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Founda', compid = '124320222', jobConsultant = 'n' where \u00a0SITE = 'foundahealth_UC'",
+        "URL_VARS": "founda"
+    }
+}

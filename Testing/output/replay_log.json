@@ -1,0 +1,2068 @@
+[
+  {
+    "site_id": "srijaneksoch_UC",
+    "company_name": "Srijan Ek Soch",
+    "career_url": "https://srijaneksoch.org/join-us-today/",
+    "tech_status": "Done",
+    "crawler_type": "JPERL",
+    "config": {
+      "CanProcceed": 1,
+      "Cookie": "YES",
+      "CurrentJobNum": 1,
+      "CurrentPageNum": 0,
+      "DELETE_UNLISTED": "y",
+      "ISCRAWL_FULL": 0,
+      "IS_SITE_ID_DERIVED": 0,
+      "JOBSCOUNT": 0,
+      "MAXJBSPPAGE": 10,
+      "MAXPAGESPARSE": "6",
+      "MOVE_TO_JD": 0,
+      "SAVE_JD_COOKIE": "Yes",
+      "SQLDATE": "%Y-%m-%d",
+      "StartPageNum": 0,
+      "TERMRGX": "",
+      "USER_AGENT": "Firefox/5.0",
+      "JDVARS": {
+        "FAREA": {
+          "type": "SUB",
+          "callable": "Classifier_FAREA"
+        },
+        "ROLE": {
+          "type": "SUB",
+          "callable": "Classifier_ROLE"
+        },
+        "INDUSTRY": {
+          "type": "SUB",
+          "callable": "Classifier_INDUSTRY"
+        }
+      },
+      "URL": "https://srijaneksoch.org/join-us-today/",
+      "LOCRGX": "(?s)<h4[^>]*class=\"gdlr-core-title-item-title[^>]*>([^<]+)<[^>]*>.*?href=\"mailto:([^<]+)\"",
+      "LOCRGXSEQ": "JOBTITLE",
+      "JOBLINK": "https://srijaneksoch.org/join-us-today/",
+      "LANDINGJOBLINK": "https://srijaneksoch.org/join-us-today/",
+      "POSTQUERY": "update WEB_JOBS set COMPNAME ='Srijan Ek Soch',compid ='124864469', jobConsultant = 'n' where  SITE = 'srijaneksoch_UC'"
+    },
+    "extracted_jobs": [
+      {
+        "JOBTITLE": "Graphic Designer",
+        "JOBLINK": "admin@srijaneksoch.org\" target=\"_blank",
+        "JOBID": "Graphic Designer"
+      },
+      {
+        "JOBTITLE": "Content Writer",
+        "JOBLINK": "admin@srijaneksoch.org\" target=\"_blank",
+        "JOBID": "Content Writer"
+      },
+      {
+        "JOBTITLE": "Operations (Jamui, Bihar)",
+        "JOBLINK": "admin@srijaneksoch.org\" target=\"_blank",
+        "JOBID": "Operations (Jamui, Bihar)"
+      }
+    ],
+    "replay_status": "PASSED",
+    "replay_error": null
+  },
+  {
+    "site_id": "4342226_SRP",
+    "company_name": "HYRE Center",
+    "career_url": "https://www.hyrecenter.com/jobs",
+    "tech_status": "Done",
+    "crawler_type": "JPERL",
+    "config": {
+      "CanProcceed": 1,
+      "Cookie": "YES",
+      "CurrentJobNum": 1,
+      "CurrentPageNum": 0,
+      "DELETE_UNLISTED": "y",
+      "ISCRAWL_FULL": 0,
+      "IS_SITE_ID_DERIVED": 0,
+      "JOBSCOUNT": 0,
+      "MAXJBSPPAGE": 10,
+      "MAXPAGESPARSE": "10",
+      "MOVE_TO_JD": 0,
+      "SAVE_JD_COOKIE": "Yes",
+      "SQLDATE": "%Y-%m-%d",
+      "StartPageNum": 0,
+      "TERMRGX": "",
+      "USER_AGENT": "Firefox/5.0",
+      "JDVARS": {
+        "FAREA": {
+          "type": "SUB",
+          "callable": "Classifier_FAREA"
+        },
+        "ROLE": {
+          "type": "SUB",
+          "callable": "Classifier_ROLE"
+        },
+        "INDUSTRY": {
+          "type": "SUB",
+          "callable": "Classifier_INDUSTRY"
+        }
+      },
+      "URL": "https://www.hyrecenter.com/_api/dynamic-pages-router/v1/pages?.r=H4sIAAAAAAAAA41Ty27bMBD8lYKnFrAi62E79K1AW8BBgwZNk0vRAx8rhzWtVUjKsmPo37OUXdRI3CI3rWYfM7PLPWudvRFOrD2b79nSGf2xaRaazZks8oxXskoyoSEpdVEkkvNposRklk1AlnycsxHbGOiuUQNVeBOA9SMmUe9iN4dtAHfjoDJbgtPfKD1VKKwrs4wJjQiUUA-j030wwUIfvz3gNQTxQywHSINXzjTBYE1t9tTm098_PXVcwa5DpymZUYTLuVmLJRwihxJDREytYRvpNYR9RxvximfTQqlponM9Tsqx5AnPJ7OkynKhirzkenZJPQZmcfSR4qkGhdaCOnK7OiiME27NE5VkI2axA6eEpyi4FkbMowts_nPPiDI4qhJesf7XKMq-zw9ZPfFMz1jxXzWTihf8sqwSCZw2Vs5IzZTElVMl5DgrYSLLEzVXL9dxTso_yZ5ozM-JPNXSn_AcZLyJKeWZeIjqaVPiC97v3n81Pnw4en3nzO3nbwTFC0ssIdGZNy33zxCx7XaPr4YsAqxfDZFW1CsWNTl4bMGHRV1hbAT1JsIOO09WEQF06y9CBYy-0RGvAjaR2OFd3LbV8V3E1NbaO2cpegih8fM07bru4mHnQEFNyRcK18P7SYeTtnAvnBFxVdFPMvgZSpttjMkDAAA{{HEADER}}authorization|X|CQ2E_uno067Zli0jmwORGzFO_4w9ihTL376jMuPr9LM.eyJpbnN0YW5jZUlkIjoiMjIwNjJlNzctOTY0Mi00NjUxLTg4NGMtMTQ4MmY3ZDMxYTc0IiwiYXBwRGVmSWQiOiJlNTkzYjBiZC1iNzgzLTQ1YjgtOTdjMi04NzNkNDJhYWNhZjQiLCJtZXRhU2l0ZUlkIjoiNjIwYTMzMTQtNjBkZi00ODkxLTkxZDktZGI3MWM3NDM5N2I5Iiwic2lnbkRhdGUiOiIyMDI2LTA4LTExVDExOjAyOjA5LjA1MVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6ImM2MDUzMjlmLTEwMzEtNDgwNS1hNDYzLTUzYzZhNGI4NmUxMSIsImJpVG9rZW4iOiI0MDBjMWQ2My1mNjlkLTBlYzAtMTk5NS1jZmYzMzA5MDhkY2QiLCJzaXRlT3duZXJJZCI6ImUwZTJlN2EzLTUwNjAtNDJkYi1hNWVlLTcwOGZlZDU3NzA2MyIsImJzIjoiaElVTXdDeWpzamlhdmhpUl96eVFEY0lwZ2tubFdnbHNzTkFkalpCSEFlMCIsInNjZCI6IjIwMjQtMDQtMDNUMDk6MDA6MTguODEyWiJ9##{{x-xsrf-token|X|1786446129|JILnSOmf3zXL##{{x-wix-grid-app-id|X|b3219fbf-1ade-4d33-b996-ca5715eb4902##{{commonconfig|X|{\"brand\":\"wix\",\"host\":\"VIEWER\",\"bsi\":\"6f2509b3-f4d1-449e-9caf-4aee2f7635cf|1\",\"consentPolicy\":{\"essential\":true,\"functional\":true,\"analytics\":true,\"advertising\":true,\"dataToThirdParty\":true},\"consentPolicyHeader\":{},\"siteRevision\":\"102\",\"renderingFlow\":\"NONE\",\"language\":\"en\",\"locale\":\"en-in\"}##{{content-type|X|application/json",
+      "JOBLINK": "https://www.hyrecenter.com{{VARJOBLINK}}",
+      "LANDINGJOBLINK": "https://www.hyrecenter.com{{VARJOBLINK}}",
+      "LOCJSON": "title|X|jobDescription|X|_id|X|location,city|X|link-jobs-title|XX|result,data,items",
+      "LOCJSONSEQ": "JOBTITLE,JOBDESC,JOBID,LOCATION,JOBLINK",
+      "POSTQUERY": "update WEB_JOBS set COMPNAME ='HYRE Center',compid ='4342226', jobConsultant = 'n' where  SITE = '4342226_SRP'"
+    },
+    "extracted_jobs": [
+      {
+        "JOBTITLE": "Clinical Manager - Abdominal Transplant",
+        "JOBID": "0cde3020-332c-40ed-8a00-9531c91a4ebc",
+        "LOCATION": "Houston",
+        "JOBLINK": "/jobs/clinical-manager---abdominal-transplant",
+        "JOBDESC": "Call/Text/WhatsApp +1-713-239-5020 or Email: tom.joseph@hyrecentre.com to discuss\n\nPosition Overview:\n\nPosition is responsible for providing leadership to the department – overseeing the daily operations – managing and developing departmental staff, collaborating with the interdisciplinary team in the delivery of patient care, utilizing the nursing process, ensuring the delivery of quality care to patients. In this role, you will oversee approximately 60 employees.\n\nWork Hours: Mon - Fri/8a-5p\n\nThis role offers a unique opportunity to contribute to the development and implementation of training programs that will impact the lives of both patients and healthcare professionals.\n\nWhy Join Us?\nJoining us means becoming part of a committed team dedicated to pioneering advancements in transplant care. Your role will be instrumental in shaping the future of our education programs and optimizing the impact of our services. If you are an experienced educator with a background in transplant coordination, and you are eager to make a significant difference in the field of abdominal transplantation, we invite you to apply and be a part of our exciting journey.\n\nPrincipal Accountabilities\n\n•\tManages the daily operations of a patient care department, including forecasting and ensuring adequate staffing, taking departmental call; planning for continuity of care, serving in charge nurse role and providing direct patient care as needed.\n•\tCollaborate with physicians, nurses, and other healthcare professionals to deliver exceptional patient outcomes and enhance the quality of care.\n•\tParticipates in a systemic, interdisciplinary, and ongoing evaluation of programs, process improvement, desired client-centered outcomes, and organizational outcomes.\n•\tConsiders the diverse needs of each patient through the entire continuum of care, providing and ensuring the highest level of service according to established service standards, optimizing the patient experience.\n•\tEnsures adequate scheduling and staffing; recruits, retains, and develops staff; provides performance feedback, addressing issues as necessary, and provides input into staff performance reviews in a timely effective manner.\n•\tAdheres to all regulatory and Texas Board of Nursing standards.\n•\tEnsures safe care to patients, staff and visitors; adheres to all hospital policies, procedures, and standards within budgetary specifications including time management, supply management, productivity and quality of service.\n•\tPromotes individual professional growth and development by meeting requirements for mandatory/continuing education and skills competency; supports department-based goals which contribute to the success of the organization; serves as preceptor, mentor and resource to less experienced staff.\n•\tDemonstrates commitment to caring for every member of our community by creating compassionate and personalized experiences. Models Memorial Hermann service standards of providing safe, caring, personalized and efficient experiences to patients and our workforce.\n\nKey Responsibilities:\n\n•\tLead and manage the clinical operations of the Abdominal Transplant Program, including oversight of patient care, staff management, and program development.\n•\tDevelop, implement, and evaluate clinical protocols, procedures, and best practices to ensure optimal transplant services.\n•\tProvide leadership in clinical decision-making, resource allocation, and performance improvement initiatives.\n•\tFacilitate educational opportunities for staff and foster a culture of continuous learning and professional growth.\n•\tEngage in strategic planning and program expansion efforts to meet the evolving needs of patients and the healthcare community.\n•\tOther duties as assigned.\n\nCall/Text/WhatsApp +1-713-239-5020 or Email: tom.joseph@hyrecentre.com to discuss"
+      },
+      {
+        "JOBTITLE": "Senior Software Engineer",
+        "JOBID": "1b5ca456-a95e-432a-8630-4390cc599d5b",
+        "LOCATION": "Seattle",
+        "JOBLINK": "/jobs/senior-software-engineer",
+        "JOBDESC": "- Work closely with product managers and designers to deliver state of the art user experience in supply chain systems and platforms.\n- In-depth understanding of supply chain business and focus on building world-class systems and platforms, which combine usability, accessibility, elegance, performance, and maintainability.\n- Responsible for developing common capabilities for supply chain business.\n- Regularly communicate with business teams and contribute to technical decisions on projects among the product."
+      },
+      {
+        "JOBTITLE": "Pre-Sales Manager",
+        "JOBID": "3b919bd9-07ad-4cab-bb4b-0c326e5d53ee",
+        "LOCATION": "Manama",
+        "JOBLINK": "/jobs/pre-sales-manager",
+        "JOBDESC": "Work closely with stakeholders to prepare budget for Pre-Sales & Solution Design\n\n• Monitor adherence to allocated budget; take corrective course of action in case of deviations\n\n• Lead the identification and positioning of the solutions to address client requirement and\n\ncontribute to the revenue of the Function\n\n• Review pre-sales funnel progress on proposals in pipeline and on deal closures\n\n• Review the scope and the concept of technical solution to ensure all the client requirements are adequately addressed\n\n• Liaise with the Opportunity Review Board while deciding to quote for complex and high value bids\n\n• Review the technical and commercial proposals for clients, make recommendations to improve the overall\n\neffectiveness and comprehensiveness of the solutions\n\n• Assist the Sales team during proposal presentations and address technical queries related to the solutions\n\n• Review and approve Bill of material for OEM/ Vendors\n\n• Conduct negotiations with OEM/ Vendors for the quotations for Bill of Materials in case of complex and critical deals\n\n• Review and ensure accuracy of customer information sheet, ICT profitability sheet\n\n• Provide guidance for identification and analysis of Solutions for Productization\n\n• Review and approve Business Performance Report to be shared with management for review and action planning"
+      },
+      {
+        "JOBTITLE": "Manager, Technical Support",
+        "JOBID": "87c55b82-1f39-459e-b7fc-6f6ec7a73751",
+        "LOCATION": "",
+        "JOBLINK": "/jobs/manager%2C-technical-support-",
+        "JOBDESC": "Are you passionate about working directly with customers and immediately impacting their success? Are you driven by solving technical questions and issues? We are looking for someone who is passionate about providing efficient and accurate technical assistance to our growing customer base of online video publishers. The right candidate is a highly motivated person with experience managing global technical support teams in a customer-facing role. Candidates must have an experienced technical background, a working understanding of web-based technologies, and enthusiasm for customer success.\n\nThis is a Global team, so this role will interact closely with support offices in the US, Guadalajara, London, Sydney, Chennai and Japan, as well as with customers worldwide. Working for this organization will give you a unique opportunity to join a fast-growing company and play an integral role in building products and online services that promise to transform the media industry and change the way people all over the world watch videos.\n\n\nJob Responsibilities \n\nPeople Management\n    Manage 6+ technical customer service engineers in a multilingual environment.\n    Create a team culture and environment that is customer and employee-focused.\n    Understand the team and individual’s technical needs by providing regular coaching, mentoring & constructive feedback.\n    Develop all levels of employees within our organisation to ensure successful succession planning by setting and tracking development goals and implementing PIP (Performance Improvement Plans) when performance issues are identified. Follow a people-first approach to ensure this.\n    Participate as an evaluator of soft & technical skills to support the hiring and interviewing processes.\n\nResponse Management, Product & Process Improvement\n    Act as a Technical Incident Manager for infrastructure and services outages on large-scale cloud applications (AWS), in-house applications, and local bugs.\n    Drive continuous process improvements/initiatives to increase productivity, improve customer satisfaction (CSAT) and consistently meet business KPIs.\n    Represent the customer to internal stakeholders in our Product and Engineering teams and ensure that our product and documentation reflect our customers’ needs.\n    Participate in global reviews of the organisational tools, performance, and policies and procedures to ensure continuous improvements and standardisation across sites globally.\n    Establish and assure adherence to budgets, schedules, work plans and performance requirements.\n\nReporting & Communication\n    Interact with senior management and executives concerning cross-functional areas and responsibilities.\n    Clearly communicate updates on performance against targets and objectives to senior management and executives."
+      },
+      {
+        "JOBTITLE": "Senior Data Engineer",
+        "JOBID": "998e788d-3cc7-44a4-ac84-a0e3e0965f75",
+        "LOCATION": "Riyadh",
+        "JOBLINK": "/jobs/senior-data-engineer",
+        "JOBDESC": "· Design, develop, and implement high-performance data pipelines for ingesting, processing, and transforming diverse data sources.\n\n· Architect and maintain scalable data warehouse and lake solutions, ensuring data accessibility and integrity.\n\n· Automate data workflows through scripting and orchestration tools (e.g., Airflow, Luigi, SSIS, Alteryx).\n\n· Implement data quality checks and monitoring systems to guarantee data accuracy and consistency.\n\n· Collaborate with data analysts and scientists to understand data requirements and optimize data pipelines.\n\n· Stay ahead of the curve by exploring and implementing new data technologies and best practices.\n\n· Mentor and guide junior data engineers, fostering a culture of continuous learning and excellence"
+      },
+      {
+        "JOBTITLE": "Software Engineer",
+        "JOBID": "ba440737-2739-4f93-b6d3-24ca1529c0bb",
+        "LOCATION": "Dubai",
+        "JOBLINK": "/jobs/software-engineer",
+        "JOBDESC": "Write software applications and programs for backend/frontend purposes. \n• Analyse programs and apps to improve their features and functionalities. \n• Test & debug programs and fix any reported bugs. \n• Collaborate with the tech team to improve the performance, efficiency, and scalability of our tools."
+      },
+      {
+        "JOBTITLE": "Oracle ERP Developer",
+        "JOBID": "bea7b682-a4df-40cd-8591-d1ede867e6c2",
+        "LOCATION": "Abu Dhabi",
+        "JOBLINK": "/jobs/oracle-erp-developer",
+        "JOBDESC": "ERP Development: Design, develop, test, and deploy Oracle ERP applications, modules, and customizations to meet business requirements.\nTechnical Support: Provide technical support for Oracle ERP applications, troubleshooting and resolving issues in a timely manner.\nSystem Integration: Develop and implement integration solutions between Oracle ERP and other business systems.\nCustomization: Customize Oracle ERP applications to enhance functionality and improve user experience.\nDatabase Management: Perform database design, optimization, and management to ensure data integrity and performance.\nDocumentation: Prepare and maintain technical documentation, including design specifications, test plans, and user manuals.\nUser Training: Provide training and support to end-users on Oracle ERP functionalities and best practices.\nCollaboration: Work closely with business analysts, project managers, and other stakeholders to understand business needs and translate them into technical requirements.\nUpgrades and Enhancements: Plan and execute system upgrades and enhancements, ensuring minimal disruption to business operations."
+      },
+      {
+        "JOBTITLE": "Director of Pharmacy",
+        "JOBID": "d3821c21-55f0-42b9-9b0d-661b01475923",
+        "LOCATION": "Elko",
+        "JOBLINK": "/jobs/director-of-pharmacy",
+        "JOBDESC": "Elko is the largest city of Elko County, Nevada. Located near the Lamoille Canyon and the Ruby Mountains, Elko is called the Swiss Alps of Nevada. Here you’ll find year-round access to recreation and more than 20 alpine lakes.  The city’s economy is heavy with gold mining, ranching, tourism, and casinos. The entertainment capital of the world, Las Vegas, Nevada is located approx. six hours away. With us is where you want to be.\n\nWhy Choose Us:\nHealth (Medical, Dental, Vision) and 401K Benefits for full-time employees\nCompetitive Paid Time Off / Extended Illness Bank package for full-time employees\nEmployee Assistance Program – mental, physical, and financial wellness assistance\nTuition Reimbursement/Assistance for qualified applicants\nProfessional Development and Growth Opportunities\nAnd much more…\n\n\nThe successful incumbent will have the ability to assess a variety of complex situation and determine the most effective means to resolve situations. Leadership skills in decision making, problem solving, communication, and interpersonal relations are involved in the daily contracts of working with department directors, physicians, staff, visitors, and vendors. Is responsible to set the climate for cooperation between co-workers and shifts for a smooth-running operation. Requires judgment/action that could impact the patient's outcome. \n\nAdditional responsibilities include:\nDevelops and implements departmental goals, plans, and standards consistent with the clinical, administrative, legal, and ethical requirements/objectives of the organization.\nDirects and evaluates departmental operations, including patient care delivery, information technologies, service level determination, and complaint management, to achieve performance and quality control objectives.\nPlans and monitors staffing activities, including hiring, orienting, evaluating, disciplinary actions, and continuing education initiatives.\nPrepares, monitors, and evaluates departmental budgets, and ensures that the department operates in compliance with allocated funding. Coordinates and directs internal/external audits.\nCreates and fosters an environment that encourages professional growth.\nIntegrates evidence-based practices into operations and clinical protocols.\nOnly after NV licensure is obtained (designee holds the following responsibilities until Director obtains licensure) Acts as the \"Managing Pharmacist\", who is responsible for compliance by the pharmacy and its personnel with all state and federal laws and regulations relating to the operation of the pharmacy and the practice of pharmacy."
+      },
+      {
+        "JOBTITLE": "Data Engineer",
+        "JOBID": "d50ec671-9f24-46dc-ac9d-4b45518af5d2",
+        "LOCATION": "Riyadh",
+        "JOBLINK": "/jobs/data-engineer",
+        "JOBDESC": "Supporting 1-3 Advanced Analytics use cases with data gathering\n\n· Set up and maintain ETL pipelines\n\n· Ensure data quality, completeness, and accuracy across the consumption layer.\n\n· Model the raw data and prepare target datasets (EDAs)\n\n· Working in an agile fashion and collaborating with GOSI data team"
+      },
+      {
+        "JOBTITLE": "Technical Accounting Manager (CPA)",
+        "JOBID": "12f4dcc0-d7f7-48b1-a469-ed8382d8f0b1",
+        "LOCATION": "Tucson",
+        "JOBLINK": "/jobs/technical-accounting-manager-(cpa)",
+        "JOBDESC": "We are seeking a highly motivated and organized candidate for a Technical Accounting Manager position.\nThe successful candidate will have public accounting and SEC reporting experience, superior communications, and detail-oriented organizational skills.\nThis role reports to the Director of Technical Accounting & Financial Reporting.\nEssential Duties and Responsibilities:\n\nAssist in and lead the evaluation of the accounting treatment for significant transactions. Research applicable GAAP disclosure requirements for proposed transactions.\n\nReview contracts to identify technical accounting matters and prepare analysis and memorandums.\n\nPerform and manage the monthly consolidation process.\n\nPrepare financial information and disclosures for financial statements in accordance with GAAP and SEC reporting requirements.\n\nAssist in the external audit and review process by providing audit support and relevant schedules.\n\nPrepare balance sheet analysis and record journal entries, as well as related balance sheet reconciliation for technical financial statement line items.\n\nReview financial data for accuracy, identify problems and support day-to-day operations.\n\nAbility to research and reconcile discrepancies and verifying documents in accordance with accounting procedures and policies.\n\nWork closely with project teams to provide support and ensure technical guidance is followed.\n\nAssist with implementation of and compliance with Sarbanes-Oxley Section 404 key controls and processes.\n\nProactively work on initiatives to implement operational accounting efficiencies through process improvements and control enhancements.\n\nCollaborate cross-functionally with teams such as FP&A, tax, legal, research, product and operations to provide accounting guidance on contracts, business initiatives, and new transactions.\n\nOperate with intellectual curiosity and sense of urgency\n\nOther duties and ad-hoc projects as assigned."
+      },
+      {
+        "JOBTITLE": "Network Security Engineers",
+        "JOBID": "0e87549d-cff5-4325-9c1f-f0c49228434a",
+        "LOCATION": "Navi Mumbai",
+        "JOBLINK": "/jobs/network-security-engineers",
+        "JOBDESC": "2-6 years’ experience in network security with at least 1 year in managing the relevant tools"
+      }
+    ],
+    "replay_status": "PASSED",
+    "replay_error": null
+  },
+  {
+    "site_id": "3364796_SRP",
+    "company_name": "Accurate HR",
+    "career_url": "https://www.accuratehr.com/job",
+    "tech_status": "Failed",
+    "crawler_type": null,
+    "config": null,
+    "extracted_jobs": [],
+    "replay_status": "FAILED",
+    "replay_error": "LOCRGXGenerator: regex generated (conf=0.90) but matched 0 times on HTML source. Valid=False (error: No jobs extracted.), JD complete=True. Regex: (?s)<li[^>]*class=\"mix\\s*\\d+\"[^>]*>.*?<h2>([^<]+)</h2>.*?<a href=\"([^\"]+)\"[^>]*>.*?<div[^>]*class=\"j. Reason: LLM regex doesn't match actual HTML structure, matches noise/duplicates, or has incomplete job descriptions. TechOps action: inspect page HTML and correct LOCRGX pattern."
+  },
+  {
+    "site_id": "collectivegood_UC",
+    "company_name": "Collective Good Foundation (CGF)",
+    "career_url": "https://samhita.org/careers",
+    "tech_status": "Done",
+    "crawler_type": "JPERL",
+    "config": {
+      "CanProcceed": 1,
+      "Cookie": "YES",
+      "CurrentJobNum": 1,
+      "CurrentPageNum": 0,
+      "DELETE_UNLISTED": "y",
+      "ISCRAWL_FULL": 0,
+      "IS_SITE_ID_DERIVED": 0,
+      "JOBSCOUNT": 0,
+      "MAXJBSPPAGE": 10,
+      "MAXPAGESPARSE": "10",
+      "MOVE_TO_JD": 0,
+      "SAVE_JD_COOKIE": "Yes",
+      "SQLDATE": "%Y-%m-%d",
+      "StartPageNum": 0,
+      "TERMRGX": "",
+      "USER_AGENT": "Firefox/5.0",
+      "JDVARS": {
+        "FAREA": {
+          "type": "SUB",
+          "callable": "Classifier_FAREA"
+        },
+        "ROLE": {
+          "type": "SUB",
+          "callable": "Classifier_ROLE"
+        },
+        "INDUSTRY": {
+          "type": "SUB",
+          "callable": "Classifier_INDUSTRY"
+        }
+      },
+      "URL": "https://samhita-official-be.samhita.org/api/jobs?page=1&page_size=9{{HEADER}}content-type|X|application/json",
+      "JOBLINK": "https://samhita.org/careers/{{VARJOBLINK}}",
+      "LANDINGJOBLINK": "https://samhita.org/careers/{{VARJOBLINK}}",
+      "LOCJSON": "locations|X|description|X|title|X|id|X|id|XX|data",
+      "LOCJSONSEQ": "LOCATION,JOBDESC,JOBTITLE,JOBID,JOBLINK",
+      "POSTQUERY": "update WEB_JOBS set COMPNAME ='Collective Good Foundation (CGF)',compid ='125021583', jobConsultant = 'n' where  SITE = 'collectivegood_UC'"
+    },
+    "extracted_jobs": [
+      {
+        "JOBTITLE": "Asst. Manager/Manager /  Sr. Manager - Strategy Partnerships",
+        "JOBID": "23c6bb29-9a8b-4239-80eb-a6e636b211e2",
+        "LOCATION": "Mumbai/Delhi/Bengaluru",
+        "JOBLINK": "",
+        "JOBDESC": "We are looking for an ambitious, energetic and committed manager to create and forge close and strong relationships with large corporates, donors and multi-lateral agencies to build an ecosystem that can facilitate social change at scale"
+      },
+      {
+        "JOBTITLE": "Assistant Manager- Programs- Ahmedabad",
+        "JOBID": "2ac238e7-ccef-409a-a7b0-3934f3fb6cc8",
+        "LOCATION": "Ahmedabad, Gujarat",
+        "JOBLINK": "",
+        "JOBDESC": "Role Overview:\nLooking for an Assistant Manager proficient in working with implementation partners (NGOs &amp; social\nenterprises), experienced in need identification, program concept creation and delivering end to end execution\nof large projects. You should have deep experience in monitoring, evaluation &amp; reporting as well as overall\nmanagement of the projects."
+      },
+      {
+        "JOBTITLE": "Assistant Manager- Programs - Mumbai/Pune",
+        "JOBID": "6ce8e581-ad89-42f2-a036-fe108c22f4e3",
+        "LOCATION": "Mumbai, Pune",
+        "JOBLINK": "",
+        "JOBDESC": "Role Overview\nWe are looking for an Assistant Manager - Programs to lead the end-to-end implementation of large-scale CSR and community development initiatives across multiple locations in India.\nThe role requires an individual who can seamlessly manage programme design, implementation, stakeholder engagement, partner management, monitoring, and reporting while working closely with corporate clients, implementation partners, government institutions, and internal cross-functional teams.\nThe ideal candidate should possess strong project management capabilities, experience in managing infrastructure and community-based interventions, and the ability to coordinate multiple stakeholders to deliver measurable social impact."
+      },
+      {
+        "JOBTITLE": "Sr. Associate  – Catalytic Finance",
+        "JOBID": "46ec432f-6843-4473-8af7-db57b62d6d25",
+        "LOCATION": "Mumbai/Delhi/Bangalore",
+        "JOBLINK": "",
+        "JOBDESC": "Role Brief:\nThis role sits within Samhita's Growth & Innovation team and supports the expansion of Samhita's Catalytic Finance portfolio, including returnable grant and credit guarantee programmes.\nThe Associate/Senior Associate will support partnerships, fundraising, communications, and stakeholder engagement by developing high-quality proposals, conducting research, coordinating outreach, and creating compelling communication material. The role requires someone who can quickly understand structured financial concepts and communicate them effectively to diverse audiences, including corporate CSR leaders, philanthropic foundations, financial institutions, government agencies, and development partners.\nThis is an excellent opportunity for someone who enjoys working across functions, takes ownership of deliverables, and is passionate about scaling innovative financing solutions for inclusive growth."
+      },
+      {
+        "JOBTITLE": "Associate Director - MEL (Financial Inclusion and Livelihoods)",
+        "JOBID": "8de96bac-df5d-41d1-8c1a-429396cf69e2",
+        "LOCATION": "Mumbai/Delhi/Bengaluru",
+        "JOBLINK": "",
+        "JOBDESC": "Role Summary\nThe Head – Monitoring, Evaluation & Learning (MEL) will lead the organization's evidence, research, and impact measurement agenda. The role will be responsible for designing and implementing robust monitoring and evaluation frameworks, generating actionable insights, building knowledge products, and strengthening evidence-based decision-making across programs. The incumbent will work closely with internal teams, donors, clients, implementation partners, and external stakeholders to demonstrate impact, support strategy development, and drive growth opportunities."
+      },
+      {
+        "JOBTITLE": "Trainer/Mentor (MSME Training on AI - 1 year contractual assignment)",
+        "JOBID": "76123ab1-1f66-4060-9dd0-f69ee1e05eaa",
+        "LOCATION": "Delhi",
+        "JOBLINK": "",
+        "JOBDESC": "Role Overview\nThe Trainer/Mentor (MSME Training on AI) will play a hands-on role in delivering AI training programs and supporting MSMEs in adopting AI tools across their daily business functions. The role will focus on training delivery, ongoing mentoring, MSME engagement, adoption tracking, and implementation support to ensure that MSMEs are able to practically apply AI solutions within their businesses.\nThe Trainer/Mentor will work closely with MSME entrepreneurs and teams to provide continuous guidance, troubleshoot adoption challenges, encourage usage, and build strong working relationships throughout the program lifecycle.\nThis role is highly execution-oriented and requires strong facilitation skills, relationship management capability, and an ability to simplify AI concepts into practical business use cases for MSMEs.\nThe Trainer/Mentor will report to the Manager (MSME Training on AI)."
+      },
+      {
+        "JOBTITLE": "Program Associate (Contract - 31st March 2027) - Vijayawada",
+        "JOBID": "3c5940e7-843b-4dba-9a1c-a74792685c02",
+        "LOCATION": "Vijayawada",
+        "JOBLINK": "",
+        "JOBDESC": "Role Overview\nThe Associate will support the implementation of a large-scale MSME AI Enablement Program across designated geographies. The role will focus on cohort coordination, stakeholder management, MSME engagement, and data tracking, ensuring smooth on-ground execution."
+      },
+      {
+        "JOBTITLE": "Sr. Associate/Assistant Manager -  Growth, Innovation & Strategy",
+        "JOBID": "00be02c8-f9df-4fd3-8269-8c9a536bf3f1",
+        "LOCATION": "Mumbai",
+        "JOBLINK": "",
+        "JOBDESC": "1. Undertake secondary research on a host of social issues, competition analysis, market landscaping etc. \n2. Create conceptual notes, proposals, and pitches on Samhita&#39;s thematic areas of work like livelihoods, health at workplace, women's empowerment etc., that require critical analysis and strategic thinking \n3. Translate the above work into crisp decks\n4. Work with existing processes/systems whilst making constructive suggestions for improvements\n5. Work with data and analysis tools for program management and insights\n6. Take on and manage multiple projects going on simultaneously\n7. Seek opportunities to learn about other cultures and other parts of the business across the service lines of Samhita"
+      }
+    ],
+    "replay_status": "PASSED",
+    "replay_error": null
+  },
+  {
+    "site_id": "brightstarlottery_UC",
+    "company_name": "Brightstar Lottery",
+    "career_url": "https://careers.brightstarlottery.com/search/?createNewAlert=false&q=&locationsearch=India",
+    "tech_status": "Done",
+    "crawler_type": "JPERL",
+    "config": {
+      "CanProcceed": 1,
+      "Cookie": "YES",
+      "CurrentJobNum": 1,
+      "CurrentPageNum": 0,
+      "DELETE_UNLISTED": "y",
+      "ISCRAWL_FULL": 0,
+      "IS_SITE_ID_DERIVED": 0,
+      "JOBSCOUNT": 0,
+      "MAXJBSPPAGE": 10,
+      "MAXPAGESPARSE": "6",
+      "MOVE_TO_JD": 1,
+      "SAVE_JD_COOKIE": "Yes",
+      "SQLDATE": "%Y-%m-%d",
+      "StartPageNum": 0,
+      "TERMRGX": "",
+      "USER_AGENT": "Firefox/5.0",
+      "JDVARS": {
+        "FAREA": {
+          "type": "SUB",
+          "callable": "Classifier_FAREA"
+        },
+        "ROLE": {
+          "type": "SUB",
+          "callable": "Classifier_ROLE"
+        },
+        "INDUSTRY": {
+          "type": "SUB",
+          "callable": "Classifier_INDUSTRY"
+        }
+      },
+      "URL": "https://careers.brightstarlottery.com/search/?createNewAlert=false&q=&locationsearch=India",
+      "LOCRGX": "(?s)<li[^>]*class=\"job-tile[^>]*\">.*?<a[^>]*href=\"([^\"]+)\"[^>]*>([^<]+)<.*?job-id-([0-9]+)",
+      "LOCRGXSEQ": "JOBLINK,JOBTITLE,JOBID",
+      "JDRGX1": "(?s)<div[^>]*class=\"job-tile-cell\"[^>]*>.*?jobSearchTileHelpText-([0-9]+)\"[^>]*>(.*?)</span>",
+      "JDRGXSEQ1": "JOBDESC",
+      "JOBLINK": "https://careers.brightstarlottery.com{{VARJOBLINK}}",
+      "LANDINGJOBLINK": "https://careers.brightstarlottery.com{{VARJOBLINK}}",
+      "POSTQUERY": "update WEB_JOBS set COMPNAME ='Brightstar Lottery',compid ='125318222', jobConsultant = 'n' where  SITE = 'brightstarlottery_UC'"
+    },
+    "extracted_jobs": [
+      {
+        "JOBLINK": "/job/Hyderabad-Machine-Learning-Engineer-IV-500-081/1237359101/",
+        "JOBTITLE": "Machine Learning Engineer IV",
+        "JOBID": "1237359101"
+      },
+      {
+        "JOBLINK": "/job/Hyderabad-Product-Support-Representative-I-500-081/1420303333/",
+        "JOBTITLE": "Product Support Representative I",
+        "JOBID": "1420303333"
+      },
+      {
+        "JOBLINK": "/job/Hyderabad-Software-Quality-Assurance-Engineer-IV-500-081/1410198833/",
+        "JOBTITLE": "Software Quality Assurance Engineer IV",
+        "JOBID": "1410198833"
+      },
+      {
+        "JOBLINK": "/job/Hyderabad-Product-Support-Rep-I-500-081/1420303433/",
+        "JOBTITLE": "Product Support Rep I",
+        "JOBID": "1420303433"
+      }
+    ],
+    "replay_status": "PASSED",
+    "replay_error": null
+  },
+  {
+    "site_id": "bshtechnologies_UC",
+    "company_name": "BSH Technologiesa",
+    "career_url": "https://bshtechnologies.in/career#open-positions",
+    "tech_status": "Failed",
+    "crawler_type": null,
+    "config": null,
+    "extracted_jobs": [],
+    "replay_status": "FAILED",
+    "replay_error": "LOCRGXGenerator: regex generated (conf=0.50) but matched 0 times on HTML source. Valid=False (error: No jobs extracted.), JD complete=True. Regex: (?s)<div[^>]*class=\"[^>]*job-card[^>]*\">.*?<a[^>]*href=\"(([^\"]+))\"[^>]*>.*?<h3[^>]*>([^<]+)<.*?</div. Reason: LLM regex doesn't match actual HTML structure, matches noise/duplicates, or has incomplete job descriptions. TechOps action: inspect page HTML and correct LOCRGX pattern."
+  },
+  {
+    "site_id": "semileaf_UC",
+    "company_name": "SEMI LEAF",
+    "career_url": "https://semi-leaf.com/jobs.php",
+    "tech_status": "Done",
+    "crawler_type": "JPERL",
+    "config": {
+      "CanProcceed": 1,
+      "Cookie": "YES",
+      "CurrentJobNum": 1,
+      "CurrentPageNum": 0,
+      "DELETE_UNLISTED": "y",
+      "ISCRAWL_FULL": 0,
+      "IS_SITE_ID_DERIVED": 0,
+      "JOBSCOUNT": 0,
+      "MAXJBSPPAGE": 10,
+      "MAXPAGESPARSE": "7",
+      "MOVE_TO_JD": 1,
+      "SAVE_JD_COOKIE": "Yes",
+      "SQLDATE": "%Y-%m-%d",
+      "StartPageNum": 0,
+      "TERMRGX": "",
+      "USER_AGENT": "Firefox/5.0",
+      "JDVARS": {
+        "FAREA": {
+          "type": "SUB",
+          "callable": "Classifier_FAREA"
+        },
+        "ROLE": {
+          "type": "SUB",
+          "callable": "Classifier_ROLE"
+        },
+        "INDUSTRY": {
+          "type": "SUB",
+          "callable": "Classifier_INDUSTRY"
+        }
+      },
+      "URL": "https://semi-leaf.com/jobs.php",
+      "LOCRGX": "(?s)<div[^>]*class=\"careers-box\"[^>]*>.*?<span[^>]*class=\"purecounter\"[^>]*><a href=\"([^\"]+)\"[^>]*>([^<]+)<\\/a>.*?<p><b>Job Description:<\\/b>.*?<\\/p>",
+      "LOCRGXSEQ": "JOBLINK,JOBTITLE",
+      "JDRGX1": "(?s)<p><b>Job Description:<\\/b>(.+?)<\\/p>",
+      "JDRGXSEQ1": "JOBDESC",
+      "JOBLINK": "https://semi-leaf.com/{{VARJOBLINK}}",
+      "LANDINGJOBLINK": "https://semi-leaf.com/{{VARJOBLINK}}",
+      "POSTQUERY": "update WEB_JOBS set COMPNAME ='SEMI LEAF',compid ='124121188', jobConsultant = 'n' where  SITE = 'semileaf_UC'"
+    },
+    "extracted_jobs": [
+      {
+        "JOBLINK": "design_verification.php",
+        "JOBTITLE": "Design Verification",
+        "JOBID": "Design Verification"
+      },
+      {
+        "JOBLINK": "physical_design.php",
+        "JOBTITLE": "Physical Design",
+        "JOBID": "Physical Design"
+      },
+      {
+        "JOBLINK": "analog_design.php",
+        "JOBTITLE": "Analog Design",
+        "JOBID": "Analog Design"
+      },
+      {
+        "JOBLINK": "analog_layout.php",
+        "JOBTITLE": "Analog Layout",
+        "JOBID": "Analog Layout"
+      },
+      {
+        "JOBLINK": "physical_verification.php",
+        "JOBTITLE": "Physical verification",
+        "JOBID": "Physical verification"
+      },
+      {
+        "JOBLINK": "rtl_design.php",
+        "JOBTITLE": "RTL Design",
+        "JOBID": "RTL Design"
+      },
+      {
+        "JOBLINK": "rtl_implementation.php",
+        "JOBTITLE": "RTL Implementation",
+        "JOBID": "RTL Implementation"
+      },
+      {
+        "JOBLINK": "dft_engineer.php",
+        "JOBTITLE": "DFT Engineer",
+        "JOBID": "DFT Engineer"
+      },
+      {
+        "JOBLINK": "sta_engineer.php",
+        "JOBTITLE": "STA Engineer",
+        "JOBID": "STA Engineer"
+      },
+      {
+        "JOBLINK": "emulation.php",
+        "JOBTITLE": "Emulation",
+        "JOBID": "Emulation"
+      },
+      {
+        "JOBLINK": "fpga_with_sta_engineer.php",
+        "JOBTITLE": "FPGA with STA Engineer",
+        "JOBID": "FPGA with STA Engineer"
+      },
+      {
+        "JOBLINK": "embedded_firmware.php",
+        "JOBTITLE": "Embedded Firmware",
+        "JOBID": "Embedded Firmware"
+      },
+      {
+        "JOBLINK": "fpga_developer_with_dsp.php",
+        "JOBTITLE": "FPGA with DSP Developer",
+        "JOBID": "FPGA with DSP Developer"
+      },
+      {
+        "JOBLINK": "software_defined_radio.php",
+        "JOBTITLE": "Software Defined Radio",
+        "JOBID": "Software Defined Radio"
+      },
+      {
+        "JOBLINK": "chief_compliance_officer.php",
+        "JOBTITLE": "Chief Compliance Officer",
+        "JOBID": "Chief Compliance Officer"
+      }
+    ],
+    "replay_status": "PASSED",
+    "replay_error": null
+  },
+  {
+    "site_id": "elucknow_UC",
+    "company_name": "elucknow",
+    "career_url": "https://www.elucknow.com/career-with-us.html",
+    "tech_status": "Done",
+    "crawler_type": "JPERL",
+    "config": {
+      "CanProcceed": 1,
+      "Cookie": "YES",
+      "CurrentJobNum": 1,
+      "CurrentPageNum": 0,
+      "DELETE_UNLISTED": "y",
+      "ISCRAWL_FULL": 0,
+      "IS_SITE_ID_DERIVED": 0,
+      "JOBSCOUNT": 0,
+      "MAXJBSPPAGE": 10,
+      "MAXPAGESPARSE": "6",
+      "MOVE_TO_JD": 0,
+      "SAVE_JD_COOKIE": "Yes",
+      "SQLDATE": "%Y-%m-%d",
+      "StartPageNum": 0,
+      "TERMRGX": "",
+      "USER_AGENT": "Firefox/5.0",
+      "JDVARS": {
+        "FAREA": {
+          "type": "SUB",
+          "callable": "Classifier_FAREA"
+        },
+        "ROLE": {
+          "type": "SUB",
+          "callable": "Classifier_ROLE"
+        },
+        "INDUSTRY": {
+          "type": "SUB",
+          "callable": "Classifier_INDUSTRY"
+        }
+      },
+      "URL": "https://www.elucknow.com/career-with-us.html",
+      "LOCRGX": "(?s)<div[^>]*class=\"box_page round\"[^>]*>\\s*<h2>([^<]+)</h2>.*?<strong>Experience:</strong>\\s*([^<]+)<.*?<strong>Educational Qualification:</strong>\\s*([^<]+)",
+      "LOCRGXSEQ": "JOBTITLE,EXPERIENCE,EDUCATION",
+      "JOBLINK": "https://www.elucknow.com/career-with-us.html",
+      "LANDINGJOBLINK": "https://www.elucknow.com/career-with-us.html",
+      "POSTQUERY": "update WEB_JOBS set COMPNAME ='elucknow',compid ='2520200', jobConsultant = 'n' where  SITE = 'elucknow_UC'"
+    },
+    "extracted_jobs": [
+      {
+        "JOBTITLE": "Job for Content Writer",
+        "EXPERIENCE": "Any, Desired content writing experience 2-5 years",
+        "EDUCATION": "Any Graduate, MBA in Marketing Preferred",
+        "JOBID": "Job for Content Writer",
+        "JOBLINK": ""
+      },
+      {
+        "JOBTITLE": "Web Designer",
+        "EXPERIENCE": "2-5 years.",
+        "EDUCATION": "Any Graduate",
+        "JOBID": "Web Designer",
+        "JOBLINK": ""
+      },
+      {
+        "JOBTITLE": "SEO Manager",
+        "EXPERIENCE": "3+ years.",
+        "EDUCATION": "Any Graduate",
+        "JOBID": "SEO Manager",
+        "JOBLINK": ""
+      }
+    ],
+    "replay_status": "PASSED",
+    "replay_error": null
+  },
+  {
+    "site_id": "3596422_SRP",
+    "company_name": "ANTS Digital",
+    "career_url": "https://antsdigital.in/career",
+    "tech_status": "Done",
+    "crawler_type": "JPERL",
+    "config": {
+      "CanProcceed": 1,
+      "Cookie": "YES",
+      "CurrentJobNum": 1,
+      "CurrentPageNum": 0,
+      "DELETE_UNLISTED": "y",
+      "ISCRAWL_FULL": 0,
+      "IS_SITE_ID_DERIVED": 0,
+      "JOBSCOUNT": 0,
+      "MAXJBSPPAGE": 10,
+      "MAXPAGESPARSE": "10",
+      "MOVE_TO_JD": 0,
+      "SAVE_JD_COOKIE": "Yes",
+      "SQLDATE": "%Y-%m-%d",
+      "StartPageNum": 0,
+      "TERMRGX": "",
+      "USER_AGENT": "Firefox/5.0",
+      "JDVARS": {
+        "FAREA": {
+          "type": "SUB",
+          "callable": "Classifier_FAREA"
+        },
+        "ROLE": {
+          "type": "SUB",
+          "callable": "Classifier_ROLE"
+        },
+        "INDUSTRY": {
+          "type": "SUB",
+          "callable": "Classifier_INDUSTRY"
+        }
+      },
+      "URL": "https://cms.antsdigital.in/api/careers?status=1&is_open=true&sort_by=priority&sort_order=asc&per_page=15{{HEADER}}x-api-key|X|ANTSCMS6719GHYN",
+      "JOBLINK": "https://antsdigital.in/career/{{VARJOBLINK}}",
+      "LANDINGJOBLINK": "https://antsdigital.in/career/{{VARJOBLINK}}",
+      "LOCJSON": "location|X|description|X|title|X|id|X|id|XX|data",
+      "LOCJSONSEQ": "LOCATION,JOBDESC,JOBTITLE,JOBID,JOBLINK",
+      "POSTQUERY": "update WEB_JOBS set COMPNAME ='ANTS Digital',compid ='3596422', jobConsultant = 'n' where  SITE = '3596422_SRP'"
+    },
+    "extracted_jobs": [
+      {
+        "JOBTITLE": "Content Writer",
+        "JOBID": "40",
+        "LOCATION": "Gurgaon",
+        "JOBLINK": "",
+        "JOBDESC": "<p><strong>Current Location:</strong> Gurgaon<br><strong>Experience:</strong> 2–3 Years<br><strong>Industry:</strong> Digital Marketing / Creative / Integrated Marketing Agency<br><strong>Reporting To:</strong> Content Manager / Head of Content &amp; Strategy</p><p><strong>Team Collaboration:</strong> Content Team, Creative Team, Client Servicing Team, SEO Team, Performance Team, Design &amp; Video Teams</p><h2><strong>ABOUT THE ROLE</strong></h2><p>We are looking for a Junior Content Executive / Content Specialist who can support the content function at ANTS Digital by creating high-quality, audience-focused and platform-relevant content.</p><p>This is not a basic writing or content posting role. The person will be responsible for developing content ideas, writing engaging content, supporting content strategies, understanding brand objectives and creating content that contributes towards client communication and business goals.</p><p>They should have a strong understanding of Gen Z communication styles, social media trends, memes, and internet culture, and know when and how to use them appropriately for different brands.</p><p>The ideal candidate should have strong writing ability, curiosity to understand brands and audiences, good digital understanding and the ability to create content across multiple platforms including social media, blogs, websites and campaigns.</p><p>The person should be comfortable working with creative teams, client servicing teams and senior content leaders to develop content solutions that are meaningful, engaging and aligned with brand objectives.</p><h2><strong>HOW YOUR ROLE LOOKS LIKE</strong></h2><p>• Creating high-quality content for social media, websites, blogs, campaigns and digital platforms.</p><p>• Understanding brand objectives, audience behaviour and communication goals before developing content.</p><p>• Supporting content strategy development through ideas, research and platform understanding.</p><p>• Writing engaging captions, copies, articles, blogs, website content and campaign communication.</p><p>• Developing content ideas based on trends, audience insights and platform behaviour.</p><p>• Supporting content calendars and ensuring timely execution of planned content.</p><p>• Working closely with designers, video teams and creative teams to bring content ideas to life.</p><p>• Ensuring content follows brand tone, guidelines and communication objectives.</p><p>• Researching industry trends, competitors and audience preferences.</p><p>• Supporting SEO-focused content creation including blogs, website pages and keyword-based content.</p><p>• Reviewing and improving content based on feedback from internal teams and clients.</p><p>• Using AI tools and digital platforms to improve content quality and efficiency.</p><p>• Maintaining consistency, accuracy and quality across all content outputs.</p><h2><strong>WHAT YOU OWN</strong></h2><p>• Quality and timely delivery of assigned content requirements.</p><p>• Content creation across multiple digital formats and platforms.</p><p>• Understanding brand voice and maintaining consistency.</p><p>• Research and idea generation for campaigns and content initiatives.</p><p>• Supporting content calendars and execution plans.</p><p>• Improving content quality through feedback and learning.</p><p>• Collaboration with internal teams for effective content delivery.</p><p>• Staying updated with digital trends, formats and content innovations.</p><p>• Building strong fundamentals in content strategy and storytelling.</p><h2><strong>WHAT SUCCESS LOOKS LIKE</strong></h2><p>• Content is engaging, relevant and aligned with brand objectives.</p><p>• Deliverables are completed on time with strong attention to detail.</p><p>• Content quality improves consistently through feedback and learning.</p><p>• Ideas contribute positively to campaigns and brand communication.</p><p>• Better understanding of audiences, platforms and digital content behaviour.</p><p>• Strong collaboration with creative, SEO, performance and servicing teams.</p><p>• Ability to independently manage assigned content responsibilities.</p><p>• Growth from content execution towards strategic content thinking.</p><h2><strong>MANDATORY REQUIREMENTS</strong></h2><p>• 2–3 years of experience in Content Writing, Digital Content, Social Media Content or Brand Communication.</p><p>• Experience working with Digital Marketing, Creative, Advertising or Integrated Marketing agencies preferred.</p><p>• Strong writing and editing skills.</p><p>• Ability to create content across social media, blogs, websites and campaigns.</p><p>• Good understanding of digital platforms and content formats.</p><p>• Ability to research topics and convert insights into engaging content.</p><p>• Understanding of basic SEO content practices.</p><p>• Ability to manage multiple content requirements and deadlines.</p><p>• Strong communication skills and attention to detail.</p><p>• Ability to work collaboratively with creative and marketing teams.</p><h2><strong>BASIC UNDERSTANDING OF</strong></h2><p>• Social media content creation</p><p>• Digital content formats</p><p>• Brand tone and communication style</p><p>• Content calendars and planning</p><p>• Copywriting fundamentals</p><p>• Storytelling techniques</p><p>• SEO content basics</p><p>• Audience research</p><p>• Digital marketing fundamentals</p><p>• AI tools for content creation and optimisation</p><p>• Content review and quality processes</p><h2><strong>GOOD TO HAVE</strong></h2><p>• Experience working on multiple brand categories.</p><p>• Exposure to industries such as FMCG, Healthcare, Education, Real Estate, Technology, Consumer Brands, B2B, B2C and D2C.</p><p>• Experience creating content for integrated campaigns.</p><p>• Understanding of analytics and content performance metrics.</p><p>• Experience using AI tools, content tools, CMS platforms or SEO tools.</p><p>• Basic understanding of performance marketing and digital growth.</p><p>• Strong English communication skills. Hindi and regional language proficiency will be an advantage.</p><h2><strong>WHO SHOULD NOT APPLY</strong></h2><p>• Candidates looking only for a pure writing role without understanding brands and audiences.</p><p>• Candidates without digital content or marketing exposure.</p><p>• Candidates who are not comfortable working with feedback and revisions.</p><p>• Candidates who cannot manage deadlines and multiple content requirements.</p><p>• Candidates who are not curious about digital trends and evolving content formats.</p><p>• Candidates who are unwilling to collaborate with creative, marketing and client teams.</p><p>&nbsp;</p><h2><strong>ROLE SUMMARY</strong></h2><p>The Junior Content Executive / Content Specialist will support ANTS Digital’s content function by creating engaging, relevant and effective content across digital platforms.</p><p>The role will involve content creation, research, ideation, execution support and collaboration with multiple teams to deliver strong communication solutions for brands.</p><p>This is a role for someone who wants to grow beyond content execution and build strong foundations in digital strategy, storytelling, brand communication and content marketing.</p><h2><strong>WHY JOIN US?</strong></h2><p>• Opportunity to work on diverse brands and digital campaigns.</p><p>• Exposure across content strategy, creative, social media, SEO, performance marketing and technology-led digital work.</p><p>• Opportunity to learn from experienced content and marketing professionals.</p><p>• Collaborative environment with opportunities to grow into larger content responsibilities.</p><p>• Exposure to integrated digital marketing solutions and real business impact.</p><h2><strong>ABOUT ANTS</strong></h2><p>ANTS is a tech-first integrated communications and digital growth agency built for brands that want more than predictable marketing.</p><p>For 10 years, we’ve combined strategy, creativity, digital and technology to help brands scale and build influence.</p><p>From social media, performance marketing, SEO, influencer marketing, PR and brand activations to websites, apps, CRMs, automation systems and tech solutions — we build connected digital ecosystems designed for real business impact.</p><p>With in-house tech, creative, production and performance teams under one roof, we move fast — delivering everything from high-converting campaigns and scalable platforms to TV-ad quality films, podcasts and digital experiences.</p><p>Some brands discover us early, and many stay with us for years. Most come to us after things haven’t worked elsewhere.</p><p>&nbsp;</p>"
+      },
+      {
+        "JOBTITLE": "Head of Content & Strategy",
+        "JOBID": "77",
+        "LOCATION": "Gurgaon",
+        "JOBLINK": "",
+        "JOBDESC": "<p>Experience: 10–15 Years<br>Reporting To: Business Head<br>Team Managed: Content Strategists, Content Managers, Creative Writers, Copywriters, Editors, SEO Content Specialists, Content Executives, AI Content Specialists, Content Creators<br><strong>ABOUT THE ROLE</strong><br>We are looking for a Head of Content &amp; Strategy who can own and lead the content function at ANTS Digital.<br>This is a senior leadership role. You will be responsible for what we create, how we create it, why it works, and what it achieves. You will build the team, set the standards, design the workflows, and ensure that every piece of content that leaves ANTS Digital is smarter, sharper, and more effective than what our clients could get anywhere else.<br>At this level, the expectation is not only to create great content but to build a content function that strengthens client relationships, supports business growth, improves marketing outcomes and positions ANTS Digital as a strategic content partner.<br>You are expected to have strong agency experience and should be comfortable working with founders, CXOs, marketing leaders and senior stakeholders. They should understand how content connects with brand strategy, digital growth, audience behaviour, SEO, performance marketing and business objectives.<br><strong>YOUR ROLE</strong>&nbsp;<br>Translating client business objectives into content strategies that drive awareness, engagement, leads and business impact.<br>Overseeing content strategy, copy writing, content planning, and review processes across all client accounts to ensure consistency, relevance and business alignment<br>Establishing and managing content quality and maintaining accuracy, compliance and delivery standards.<br>Owning the overall content vision, strategy and capability roadmap for ANTS Digital.<br>Driving content innovation through emerging content formats, platform-first content approaches, AI-assisted workflows, short-form video, creator-led content and evolving digital consumption trends.<br>Identifying and implementing new content opportunities across platforms to improve audience engagement, visibility, reach and conversion outcomes.<br>Conducting regular content audits and performance reviews of the team to improve content effectiveness.<br>Ensuring audience insights, platform behaviour, search trends, and performance data back content recommendations.<br>Leading content strategy discussions, workshops, reviews and presentations with senior stakeholders.<br>Partnering with creative, client servicing, performance, SEO, technology and analytics teams to build integrated solutions.<br>Reviewing and improving the quality of content strategies, campaigns, presentations and client-facing recommendations.&nbsp;<br>Supporting pitches, proposals and new business opportunities through strategic content thinking.<br>Building a strong content culture focused on creativity, accountability and business impact.<br><strong>WHAT YOU OWN</strong><br>• Overall content strategy and direction for ANTS Digital.<br>• Content quality, storytelling excellence and strategic thinking across client accounts.<br>• Content contribution towards client growth, engagement, visibility and conversions.<br>• Content-led opportunities for account growth, upselling and strategic expansion.<br>• Content team structure, capability building, hiring and performance management.<br>• Content processes, workflows, productivity and delivery discipline.<br>• AI adoption and technology-led improvements in content operations.<br>• Collaboration between content, creative, performance, SEO, technology and client servicing teams.<br>• Content strategy contribution for pitches, proposals and new business conversations.<br>• Building ANTS Digital’s reputation as a strategic content partner.<br><strong>WHAT SUCCESS LOOKS LIKE</strong><br>• Content becomes a strategic growth driver for clients and the agency.<br>• Clients see ANTS Digital as a content strategy partner, not only an execution agency.<br>• Content quality improves consistently across platforms and deliverables.<br>• Content strategies are connected with business objectives and measurable outcomes.<br>• Content contributes towards stronger engagement, visibility, traffic, leads and conversions.<br>• AI and technology improve content efficiency without compromising creativity and quality.<br>• Content teams become more structured, accountable and future-ready.<br>• Stronger content thinking improves client conversations, pitches and business opportunities.<br>• Leadership gets clear visibility on content performance, opportunities and improvement areas.<br><strong>BASIC UNDERSTANDING OF</strong><br>• Content strategy and brand storytelling<br>• Digital content ecosystems<br>• Social media content planning and execution<br>• SEO content strategy and optimisation<br>• Website and campaign content<br>• Editorial governance and quality frameworks<br>• Audience insights and content performance measurement<br>• AI tools and AI-assisted content workflows<br>• Integrated marketing campaigns<br>• Client presentations and strategic recommendations<br>• Team leadership and capability building<br>• Content operations and delivery management<br><strong>GOOD TO HAVE</strong><br>• Experience managing large brand mandates and integrated digital campaigns.<br>• Exposure to industries such as FMCG, Healthcare, Education, Real Estate, Technology, Consumer Brands, B2B, B2C and D2C.<br>• Experience building or restructuring content teams.<br>• Experience contributing to agency growth through pitches, thought leadership and strategic solutions.<br>• Working knowledge of AI tools, SEO platforms, analytics platforms, CMS and project management tools.<br>• Strong English communication skills. Hindi and regional language proficiency will be an advantage.<br><strong>WHO SHOULD NOT APPLY</strong><br>• Candidates who have only managed content calendars and execution.<br>• Candidates without digital marketing, creative, advertising or integrated agency experience.<br>• Candidates who cannot connect content with business outcomes.<br>• Candidates who have not managed teams or built content capability.<br>• Candidates who are only strong writers but lack strategic thinking.<br>• Candidates uncomfortable working with clients, leadership teams and cross-functional stakeholders.<br>• Candidates who do not understand analytics, AI and evolving content platforms.<br>• Candidates looking for a role limited to writing, editing or content delivery.<br><strong>ROLE SUMMARY</strong><br>The Head of Content &amp; Strategy will be responsible for leading ANTS Digital’s content function as a strategic business capability.<br>The role will involve building content strategy, strengthening client solutions, driving content excellence, improving business outcomes through storytelling, adopting future-ready content practices and developing a high-performing content team.<br>This is not a role for someone who only manages content production. It is for a senior content leader who can combine strategy, creativity, technology, leadership and commercial understanding to build a content function that creates measurable impact for clients and the agency.<br>At this level, the expectation is to make content a growth engine for ANTS Digital, not just a delivery function.<br><strong>WHY JOIN US?</strong><br>• Opportunity to lead and scale the client servicing function at ANTS Digital.<br>• Direct involvement in client growth, revenue planning, profitability and business expansion.<br>• Exposure across strategy, creative, social media, performance marketing, SEO, websites and technology-led digital work.<br>• Opportunity to work closely with leadership on existing client growth and new business opportunities.<br>• Collaborative team with a mix of young talent and experienced leaders.<br><strong>ABOUT ANTS</strong><br>ANTS is a tech-first integrated communications and digital growth agency built for brands that want more than predictable marketing.<br>For 10 years, we’ve combined strategy, creativity, digital and technology to help brands scale and build influence.<br>From social media, performance marketing, SEO, influencer marketing, PR and brand activations to websites, apps, CRMs, automation systems and tech solutions — we build connected digital ecosystems designed for real business impact.<br>With in-house tech, creative, production and performance teams under one roof, we move fast — delivering everything from high-converting campaigns and scalable platforms to TV-ad quality films, podcasts and digital experiences.<br>Some brands discover us early, and many stay with us for years. Most come to us after things haven’t worked elsewhere.</p>"
+      },
+      {
+        "JOBTITLE": "Client Servicing Head",
+        "JOBID": "76",
+        "LOCATION": "Gurgaon",
+        "JOBLINK": "",
+        "JOBDESC": "<p><strong>Current Location:</strong> Gurgaon<br><strong>Experience:</strong> 10–15 Years<br><strong>Industry:</strong> Digital Marketing / Creative / Integrated Marketing Agency<br><strong>Reporting To:</strong> Business Head<br><strong>Team Managed:</strong> Client Servicing Managers, Account Managers, Senior Client Servicing Executives, Client Servicing Executives</p><p><strong>ABOUT THE ROLE</strong></p><p>We are looking for a Client Servicing Head who can own and lead the client servicing function at ANTS Digital.</p><p>This is a senior leadership role and not a coordination-led client servicing role. The person will be responsible for managing key client relationships, protecting and growing existing business, driving upselling and cross-selling opportunities, improving account profitability, supporting new business development, and building a strong client servicing team.</p><p>At this level, the expectation is not only to ensure delivery but to take ownership of client portfolio health, revenue growth, profitability, team performance and long-term client relationships.</p><p>The person should have strong agency experience and should be comfortable dealing with founders, CXOs, marketing heads and senior stakeholders. They should understand digital marketing deeply enough to guide conversations, identify growth opportunities, solve client concerns and bring internal teams together around business outcomes.</p><p><strong>HOW YOUR ROLE LOOKS LIKE</strong></p><p>• Owning senior-level relationships with key clients, founders, CXOs and marketing leaders.<br>• Understanding client business objectives and identifying where ANTS Digital can add more value.<br>• Driving account growth through upselling, cross-selling, renewals and service expansion.<br>• Owning client portfolio health including retention, revenue, profitability, scope and relationship quality.<br>• Reviewing account-level P&amp;L, resource allocation, delivery effort and commercial viability.<br>• Identifying accounts that are under-serviced, over-serviced, under-billed or at risk.<br>• Working with leadership and finance teams on forecasts, billing, renewals, collections and commercial planning.<br>• Looking for new client opportunities through referrals, existing relationships, network and strategic account expansion.<br>• Participating in new business pitches, proposals and client presentations.<br>• Leading, mentoring and building the client servicing team.<br>• Ensuring account managers and servicing teams are clear on ownership, timelines, client expectations and delivery priorities.<br>• Reviewing the quality of client conversations, reports, presentations, reviews and strategic recommendations.<br>• Acting as the escalation point for major client issues and ensuring timely resolution.<br>• Building processes for smoother project tracking, reporting, communication, approvals and review mechanisms.<br>• Working with creative, content, performance, SEO, tech and other teams to ensure delivery supports business objectives, not just task completion.</p><p><strong>WHAT YOU OWN</strong></p><p>• Client servicing function and overall client portfolio health.<br>• Revenue growth from existing clients through upselling, cross-selling and account expansion.<br>• Client retention, renewals and long-term relationship strength.<br>• Account-level profitability, scope control and resource utilisation.<br>• P&amp;L responsibility for the client portfolio assigned to the servicing function.<br>• Senior stakeholder relationships across key accounts.<br>• New business contribution through referrals, pitches, network and strategic opportunities.<br>• Team structure, capability building, account allocation and servicing discipline.<br>• Client escalation management and relationship risk mitigation.<br>• Quality of account reviews, business reviews, reports, presentations and client-facing communication.<br>• Governance systems for tracking, reporting, approvals, follow-ups and delivery accountability.<br>• Internal alignment between servicing, creative, content, performance, SEO, technology and leadership teams.<br>• Commercial discipline across retainers, scope creep, additional billing, effort vs revenue and profitability.</p><p><strong>WHAT SUCCESS LOOKS LIKE</strong></p><p>• Existing clients are retained, renewed and grown over time.<br>• The client portfolio delivers healthy revenue and profitability.<br>• Upselling and cross-selling opportunities are identified and converted consistently.<br>• Key clients see ANTS Digital as a business partner, not just an execution agency.<br>• Account managers become more accountable, structured and commercially aware.<br>• Scope creep is controlled and additional work is billed wherever required.<br>• Leadership gets clear visibility on account health, revenue risks, client risks and growth opportunities.<br>• Client escalations reduce because issues are identified and solved early.<br>• New business conversations are supported through strong relationships, referrals and credible pitch participation.<br>• Team performance improves through better guidance, reviews, accountability and ownership.<br>• Reports and business reviews become sharper, more strategic and linked to client goals.<br>• The client servicing function becomes a growth driver, not only a delivery follow-up team.</p><p><strong>MANDATORY REQUIREMENTS</strong></p><p>• 10–15 years of experience in Client Servicing, Account Management, Business Leadership or Client Leadership roles.<br>• Experience must be from a Digital Marketing, Creative, Advertising or Integrated Marketing Agency.<br>• At least 4–5 years of experience in leading client servicing teams or account management teams.<br>• Proven experience managing senior client stakeholders including founders, CXOs, marketing heads and business heads.<br>• Experience in owning client portfolios, revenue growth, renewals, upselling and cross-selling.<br>• Strong understanding of account profitability, retainers, scope management, resource utilisation and P&amp;L.<br>• Ability to identify business opportunities within existing accounts and convert them into revenue.<br>• Experience in supporting new business pitches, proposals, presentations and strategic account expansion.<br>• Strong understanding of digital marketing across social media, content, creative, performance marketing, SEO, websites, analytics and reporting.<br>• Ability to lead teams, manage escalations, resolve conflicts and bring accountability across functions.<br>• Strong presentation, negotiation, stakeholder management and communication skills.</p><p><strong>BASIC UNDERSTANDING OF</strong></p><p>• Client portfolio management<br>• P&amp;L ownership and account profitability<br>• Retainers, scope, billing and resource utilisation<br>• Client retention and renewals<br>• Upselling, cross-selling and account expansion<br>• New business development and pitch support<br>• Strategic client relationship management<br>• Digital marketing services and integrated campaign delivery<br>• Team leadership and capability building<br>• Business reviews and account planning<br>• Commercial forecasting and revenue planning<br>• Escalation management and delivery governance</p><p><strong>GOOD TO HAVE</strong></p><p>• Experience managing large retainers and multi-service digital mandates.<br>• Experience working directly with agency leadership on revenue planning, profitability and business growth.<br>• Exposure to industries such as FMCG, Healthcare, Education, Real Estate, Technology, Consumer Brands, B2B, B2C and D2C.<br>• Experience in building or restructuring client servicing teams.<br>• Ability to contribute to pitch strategy, proposal thinking and senior client presentations.<br>• Working knowledge of Google Workspace, Microsoft Office, CRM platforms, project management tools and analytics/reporting platforms.<br>• Strong English communication skills. Hindi and regional language proficiency will be an advantage.<br>• Hyderabad-based candidates preferred. Bangalore candidates may also be considered.</p><p><strong>WHO SHOULD NOT APPLY</strong></p><p>• Candidates without digital marketing, creative, advertising or integrated agency experience.<br>• Candidates who have only handled coordination and delivery follow-ups.<br>• Candidates who have not owned revenue, retention, renewals or account growth.<br>• Candidates who are not comfortable with P&amp;L, profitability, scope and commercial discussions.<br>• Candidates who have not managed senior client stakeholders.<br>• Candidates who have not led teams or built account management capability.<br>• Candidates who are not comfortable identifying upselling, cross-selling or new business opportunities.<br>• Candidates who want a role limited to managing internal delivery without business ownership.<br>• Candidates who cannot operate under pressure across clients, teams, revenue expectations and escalations.</p><p><strong>ROLE SUMMARY</strong></p><p>The Client Servicing Head will be responsible for leading ANTS Digital’s client servicing function as a business and relationship owner.</p><p>The role will involve managing key client relationships, driving retention, growing revenue from existing accounts, improving account profitability, supporting new business opportunities, and building a strong client servicing team.</p><p>This is not a role for someone who only manages timelines and follow-ups. It is for a senior agency professional who can own the client portfolio, understand the business side of accounts, manage P&amp;L expectations, identify growth opportunities and ensure that teams deliver work that protects and grows client relationships.</p><p>At this level, the person should bring maturity, commercial understanding, leadership ability and strong client confidence. The expectation is to make client servicing a growth engine for the agency, not just a delivery management function.</p><p><strong>WHY JOIN US?</strong></p><p>• Opportunity to lead and scale the client servicing function at ANTS Digital.<br>• Direct involvement in client growth, revenue planning, profitability and business expansion.<br>• Exposure across strategy, creative, social media, performance marketing, SEO, websites and technology-led digital work.<br>• Opportunity to work closely with leadership on existing client growth and new business opportunities.<br>• Collaborative team with a mix of young talent and experienced leaders.</p><p>&nbsp;</p><p><strong>ABOUT ANTS</strong></p><p>ANTS is a tech-first integrated communications and digital growth agency built for brands that want more than predictable marketing.</p><p>For 10 years, we’ve combined strategy, creativity, digital and technology to help brands scale and build influence.</p><p>From social media, performance marketing, SEO, influencer marketing, PR and brand activations to websites, apps, CRMs, automation systems and tech solutions — we build connected digital ecosystems designed for real business impact.</p><p>With in-house tech, creative, production and performance teams under one roof, we move fast — delivering everything from high-converting campaigns and scalable platforms to TV-ad quality films, podcasts and digital experiences.</p><p>Some brands discover us early, and many stay with us for years. Most come to us after things haven’t worked elsewhere.</p><p>&nbsp;</p>"
+      },
+      {
+        "JOBTITLE": "Client Servicing Associate",
+        "JOBID": "71",
+        "LOCATION": "Hyderabad",
+        "JOBLINK": "",
+        "JOBDESC": "<p><strong>Experience:</strong> 2–3 Years<br><strong>Location:</strong> Hyderabad</p><p><strong>1. Responsibilities</strong></p><ul><li>Coordinate between internal teams including Content, Creative, Performance, and Web to ensure timely execution of deliverables&nbsp;</li><li>Track day-to-day tasks against briefs and timelines; flag delays or gaps proactively&nbsp;</li><li>Maintain and update trackers for scope vs. delivery across clients and projects&nbsp;</li><li>Conduct regular audits of digital assets:&nbsp;<ul><li>Websites (content updates, basic hygiene checks, broken links, etc.)&nbsp;</li><li>Social media platforms (profile completeness, consistency, posting accuracy)&nbsp;</li></ul></li><li>Execute social media posting as per approved calendars:&nbsp;<ul><li>Ensure correct captions, creatives, and hashtags are used&nbsp;</li><li>Maintain posting schedules and platform-wise accuracy&nbsp;</li></ul></li><li>Monitor and identify ongoing trends across platforms (Instagram, Facebook, YouTube, etc.) and share relevant inputs with internal teams&nbsp;</li><li>Perform basic competition analysis:&nbsp;<ul><li>Track competitor content, campaigns, and engagement patterns&nbsp;</li><li>Share structured observations with the team&nbsp;</li></ul></li><li>Prepare weekly and monthly reports:&nbsp;<ul><li>Collate data from multiple sources (social, performance, website)&nbsp;</li><li>Present data in predefined formats with key highlights&nbsp;</li></ul></li><li>Support in documentation and internal communication:&nbsp;<ul><li>Brief sharing, MOMs, task lists, and status updates&nbsp;</li><li>Ensure all project-related information is updated and accessible&nbsp;</li></ul></li></ul><p><strong>2. Requirements (Qualifications &amp; Skills)</strong></p><ul><li>Bachelor’s degree in Marketing, Business, Communications, or related field&nbsp;</li><li>2–3 years of experience in a digital marketing agency or similar environment&nbsp;</li><li>Basic understanding of:&nbsp;<ul><li>Social media platforms and formats&nbsp;</li><li>Digital marketing concepts (organic + paid)&nbsp;</li><li>Website structure and content management&nbsp;</li></ul></li><li>Familiarity with tools such as:&nbsp;<ul><li>Excel / Google Sheets (mandatory for reporting and tracking)&nbsp;</li><li>Social media platforms (Meta, YouTube, etc.)&nbsp;</li><li>Basic knowledge of tools like Google Analytics is an advantage&nbsp;</li></ul></li><li>Strong coordination and organisational skills:&nbsp;<ul><li>Ability to manage multiple tasks simultaneously&nbsp;</li><li>Attention to detail in execution and reporting&nbsp;</li></ul></li><li>Good written and verbal communication - English &amp; Telugu&nbsp;</li><li>Ability to follow processes and work within defined timelines</li></ul><p><strong>Location</strong>:&nbsp;Hyderabad</p>"
+      },
+      {
+        "JOBTITLE": "Client Servicing Head",
+        "JOBID": "75",
+        "LOCATION": "Hyderabad",
+        "JOBLINK": "",
+        "JOBDESC": "<p><strong>Current Location:</strong> Hyderabad<br><strong>Experience:</strong> 10–15 Years<br><strong>Industry:</strong> Digital Marketing / Creative / Integrated Marketing Agency<br><strong>Reporting To:</strong> Business Head<br><strong>Team Managed:</strong> Client Servicing Managers, Account Managers, Senior Client Servicing Executives, Client Servicing Executives</p><p><strong>ABOUT THE ROLE</strong></p><p>We are looking for a Client Servicing Head who can own and lead the client servicing function at ANTS Digital.</p><p>This is a senior leadership role and not a coordination-led client servicing role. The person will be responsible for managing key client relationships, protecting and growing existing business, driving upselling and cross-selling opportunities, improving account profitability, supporting new business development, and building a strong client servicing team.</p><p>At this level, the expectation is not only to ensure delivery but to take ownership of client portfolio health, revenue growth, profitability, team performance and long-term client relationships.</p><p>The person should have strong agency experience and should be comfortable dealing with founders, CXOs, marketing heads and senior stakeholders. They should understand digital marketing deeply enough to guide conversations, identify growth opportunities, solve client concerns and bring internal teams together around business outcomes.</p><p><strong>HOW YOUR ROLE LOOKS LIKE</strong></p><p>• Owning senior-level relationships with key clients, founders, CXOs and marketing leaders.<br>• Understanding client business objectives and identifying where ANTS Digital can add more value.<br>• Driving account growth through upselling, cross-selling, renewals and service expansion.<br>• Owning client portfolio health including retention, revenue, profitability, scope and relationship quality.<br>• Reviewing account-level P&amp;L, resource allocation, delivery effort and commercial viability.<br>• Identifying accounts that are under-serviced, over-serviced, under-billed or at risk.<br>• Working with leadership and finance teams on forecasts, billing, renewals, collections and commercial planning.<br>• Looking for new client opportunities through referrals, existing relationships, network and strategic account expansion.<br>• Participating in new business pitches, proposals and client presentations.<br>• Leading, mentoring and building the client servicing team.<br>• Ensuring account managers and servicing teams are clear on ownership, timelines, client expectations and delivery priorities.<br>• Reviewing the quality of client conversations, reports, presentations, reviews and strategic recommendations.<br>• Acting as the escalation point for major client issues and ensuring timely resolution.<br>• Building processes for smoother project tracking, reporting, communication, approvals and review mechanisms.<br>• Working with creative, content, performance, SEO, tech and other teams to ensure delivery supports business objectives, not just task completion.</p><p><strong>WHAT YOU OWN</strong></p><p>• Client servicing function and overall client portfolio health.<br>• Revenue growth from existing clients through upselling, cross-selling and account expansion.<br>• Client retention, renewals and long-term relationship strength.<br>• Account-level profitability, scope control and resource utilisation.<br>• P&amp;L responsibility for the client portfolio assigned to the servicing function.<br>• Senior stakeholder relationships across key accounts.<br>• New business contribution through referrals, pitches, network and strategic opportunities.<br>• Team structure, capability building, account allocation and servicing discipline.<br>• Client escalation management and relationship risk mitigation.<br>• Quality of account reviews, business reviews, reports, presentations and client-facing communication.<br>• Governance systems for tracking, reporting, approvals, follow-ups and delivery accountability.<br>• Internal alignment between servicing, creative, content, performance, SEO, technology and leadership teams.<br>• Commercial discipline across retainers, scope creep, additional billing, effort vs revenue and profitability.</p><p><strong>WHAT SUCCESS LOOKS LIKE</strong></p><p>• Existing clients are retained, renewed and grown over time.<br>• The client portfolio delivers healthy revenue and profitability.<br>• Upselling and cross-selling opportunities are identified and converted consistently.<br>• Key clients see ANTS Digital as a business partner, not just an execution agency.<br>• Account managers become more accountable, structured and commercially aware.<br>• Scope creep is controlled and additional work is billed wherever required.<br>• Leadership gets clear visibility on account health, revenue risks, client risks and growth opportunities.<br>• Client escalations reduce because issues are identified and solved early.<br>• New business conversations are supported through strong relationships, referrals and credible pitch participation.<br>• Team performance improves through better guidance, reviews, accountability and ownership.<br>• Reports and business reviews become sharper, more strategic and linked to client goals.<br>• The client servicing function becomes a growth driver, not only a delivery follow-up team.</p><p><strong>MANDATORY REQUIREMENTS</strong></p><p>• 10–15 years of experience in Client Servicing, Account Management, Business Leadership or Client Leadership roles.<br>• Experience must be from a Digital Marketing, Creative, Advertising or Integrated Marketing Agency.<br>• At least 4–5 years of experience in leading client servicing teams or account management teams.<br>• Proven experience managing senior client stakeholders including founders, CXOs, marketing heads and business heads.<br>• Experience in owning client portfolios, revenue growth, renewals, upselling and cross-selling.<br>• Strong understanding of account profitability, retainers, scope management, resource utilisation and P&amp;L.<br>• Ability to identify business opportunities within existing accounts and convert them into revenue.<br>• Experience in supporting new business pitches, proposals, presentations and strategic account expansion.<br>• Strong understanding of digital marketing across social media, content, creative, performance marketing, SEO, websites, analytics and reporting.<br>• Ability to lead teams, manage escalations, resolve conflicts and bring accountability across functions.<br>• Strong presentation, negotiation, stakeholder management and communication skills.</p><p><strong>BASIC UNDERSTANDING OF</strong></p><p>• Client portfolio management<br>• P&amp;L ownership and account profitability<br>• Retainers, scope, billing and resource utilisation<br>• Client retention and renewals<br>• Upselling, cross-selling and account expansion<br>• New business development and pitch support<br>• Strategic client relationship management<br>• Digital marketing services and integrated campaign delivery<br>• Team leadership and capability building<br>• Business reviews and account planning<br>• Commercial forecasting and revenue planning<br>• Escalation management and delivery governance</p><p><strong>GOOD TO HAVE</strong></p><p>• Experience managing large retainers and multi-service digital mandates.<br>• Experience working directly with agency leadership on revenue planning, profitability and business growth.<br>• Exposure to industries such as FMCG, Healthcare, Education, Real Estate, Technology, Consumer Brands, B2B, B2C and D2C.<br>• Experience in building or restructuring client servicing teams.<br>• Ability to contribute to pitch strategy, proposal thinking and senior client presentations.<br>• Working knowledge of Google Workspace, Microsoft Office, CRM platforms, project management tools and analytics/reporting platforms.<br>• Strong English communication skills. Hindi and regional language proficiency will be an advantage.<br>• Hyderabad-based candidates preferred. Bangalore candidates may also be considered.</p><p><strong>WHO SHOULD NOT APPLY</strong></p><p>• Candidates without digital marketing, creative, advertising or integrated agency experience.<br>• Candidates who have only handled coordination and delivery follow-ups.<br>• Candidates who have not owned revenue, retention, renewals or account growth.<br>• Candidates who are not comfortable with P&amp;L, profitability, scope and commercial discussions.<br>• Candidates who have not managed senior client stakeholders.<br>• Candidates who have not led teams or built account management capability.<br>• Candidates who are not comfortable identifying upselling, cross-selling or new business opportunities.<br>• Candidates who want a role limited to managing internal delivery without business ownership.<br>• Candidates who cannot operate under pressure across clients, teams, revenue expectations and escalations.</p><p><strong>ROLE SUMMARY</strong></p><p>The Client Servicing Head will be responsible for leading ANTS Digital’s client servicing function as a business and relationship owner.</p><p>The role will involve managing key client relationships, driving retention, growing revenue from existing accounts, improving account profitability, supporting new business opportunities, and building a strong client servicing team.</p><p>This is not a role for someone who only manages timelines and follow-ups. It is for a senior agency professional who can own the client portfolio, understand the business side of accounts, manage P&amp;L expectations, identify growth opportunities and ensure that teams deliver work that protects and grows client relationships.</p><p>At this level, the person should bring maturity, commercial understanding, leadership ability and strong client confidence. The expectation is to make client servicing a growth engine for the agency, not just a delivery management function.</p><p><strong>WHY JOIN US?</strong></p><p>• Opportunity to lead and scale the client servicing function at ANTS Digital.<br>• Direct involvement in client growth, revenue planning, profitability and business expansion.<br>• Exposure across strategy, creative, social media, performance marketing, SEO, websites and technology-led digital work.<br>• Opportunity to work closely with leadership on existing client growth and new business opportunities.<br>• Collaborative team with a mix of young talent and experienced leaders.</p><p>&nbsp;</p><p><strong>ABOUT ANTS</strong></p><p>ANTS is a tech-first integrated communications and digital growth agency built for brands that want more than predictable marketing.</p><p>For 10 years, we’ve combined strategy, creativity, digital and technology to help brands scale and build influence.</p><p>From social media, performance marketing, SEO, influencer marketing, PR and brand activations to websites, apps, CRMs, automation systems and tech solutions — we build connected digital ecosystems designed for real business impact.</p><p>With in-house tech, creative, production and performance teams under one roof, we move fast — delivering everything from high-converting campaigns and scalable platforms to TV-ad quality films, podcasts and digital experiences.</p><p>Some brands discover us early, and many stay with us for years. Most come to us after things haven’t worked elsewhere.</p><p>&nbsp;</p>"
+      },
+      {
+        "JOBTITLE": "Client Servicing Associate",
+        "JOBID": "74",
+        "LOCATION": "Bangalore",
+        "JOBLINK": "",
+        "JOBDESC": "<p><strong>Experience:</strong> 2–4 Years<br><strong>Location:</strong> Bangalore</p><p><strong>1. Responsibilities</strong></p><ul><li>Coordinate between internal teams including Content, Creative, Performance, and Web to ensure timely execution of deliverables&nbsp;</li><li>Track day-to-day tasks against briefs and timelines; flag delays or gaps proactively&nbsp;</li><li>Maintain and update trackers for scope vs. delivery across clients and projects&nbsp;</li><li>Conduct regular audits of digital assets:&nbsp;<ul><li>Websites (content updates, basic hygiene checks, broken links, etc.)&nbsp;</li><li>Social media platforms (profile completeness, consistency, posting accuracy)&nbsp;</li></ul></li><li>Execute social media posting as per approved calendars:&nbsp;<ul><li>Ensure correct captions, creatives, and hashtags are used&nbsp;</li><li>Maintain posting schedules and platform-wise accuracy&nbsp;</li></ul></li><li>Monitor and identify ongoing trends across platforms (Instagram, Facebook, YouTube, etc.) and share relevant inputs with internal teams&nbsp;</li><li>Perform basic competition analysis:&nbsp;<ul><li>Track competitor content, campaigns, and engagement patterns&nbsp;</li><li>Share structured observations with the team&nbsp;</li></ul></li><li>Prepare weekly and monthly reports:&nbsp;<ul><li>Collate data from multiple sources (social, performance, website)&nbsp;</li><li>Present data in predefined formats with key highlights&nbsp;</li></ul></li><li>Support in documentation and internal communication:&nbsp;<ul><li>Brief sharing, MOMs, task lists, and status updates&nbsp;</li><li>Ensure all project-related information is updated and accessible&nbsp;</li></ul></li></ul><p><strong>2. Requirements (Qualifications &amp; Skills)</strong></p><ul><li>Bachelor’s degree in Marketing, Business, Communications, or related field&nbsp;</li><li>2–4 years of experience in a digital marketing agency or similar environment&nbsp;</li><li>Basic understanding of:&nbsp;<ul><li>Social media platforms and formats&nbsp;</li><li>Digital marketing concepts (organic + paid)&nbsp;</li><li>Website structure and content management&nbsp;</li></ul></li><li>Familiarity with tools such as:&nbsp;<ul><li>Excel / Google Sheets (mandatory for reporting and tracking)&nbsp;</li><li>Social media platforms (Meta, YouTube, etc.)&nbsp;</li><li>Basic knowledge of tools like Google Analytics is an advantage&nbsp;</li></ul></li><li>Strong coordination and organisational skills:&nbsp;<ul><li>Ability to manage multiple tasks simultaneously&nbsp;</li><li>Attention to detail in execution and reporting&nbsp;</li></ul></li><li>Good written and verbal communication - English &amp; Telugu&nbsp;</li><li>Ability to follow processes and work within defined timelines</li></ul><p><strong>Location</strong>:&nbsp;Bangalore</p>"
+      },
+      {
+        "JOBTITLE": "HR Associate",
+        "JOBID": "65",
+        "LOCATION": "Gurgaon",
+        "JOBLINK": "",
+        "JOBDESC": "<h2>HR Associate</h2><p><strong>Experience:</strong> 1–2 Years<br><strong>Location:</strong> Gurgaon<br><strong>Work Mode:</strong> Full-Time | Work From Office</p><p>We’re looking for an HR Associate who can multitask like a pro, keep things organised without losing their cool, and bring good vibes to the workplace. If you enjoy working with people, love structured chaos, and can handle HR operations, hiring, employee engagement, and office coordination — this role is for you.</p><h3>What You’ll Be Doing</h3><ul><li>Managing day-to-day HR operations and keeping things running smoothly</li><li>Coordinating hiring — job posts, interview scheduling, candidate follow-ups, and onboarding</li><li>Maintaining employee records, HRMS, CMS, and candidate management systems accurately</li><li>Supporting payroll inputs, attendance tracking, leave records, and HR reports</li><li>Planning employee engagement activities, celebrations, and internal events</li><li>Handling employee queries and helping resolve concerns professionally</li><li>Coordinating vendors, office admin requirements, procurement, and logistics</li><li>Ensuring HR processes and policies stay compliant and well-managed</li><li>Supporting audits, documentation, and process improvements</li></ul><h3>What We’re Looking For</h3><ul><li>Fluent spoken and written English</li><li>Someone organised, proactive, detail-oriented, and people-friendly</li><li>Comfortable working with HRMS, CMS, and candidate management systems</li><li>Good with Excel, Word, PowerPoint, and basic reporting</li><li>Ability to manage multiple tasks without things falling apart&nbsp;</li><li>Strong communication and coordination skills</li><li>Prior experience in employee engagement or culture initiatives is a bonus</li></ul><h3>Perks at Work&nbsp;</h3><ul><li>Five-day work week (Monday to Friday)</li><li>Great exposure across HR operations and people management</li><li>Fast-paced agency environment with lots to learn</li><li>A workplace where ideas, ownership, and initiative actually matter</li></ul><p><strong>About ANTS:</strong></p><p>ANTS is a tech-first integrated communications and digital growth agency built for brands that want more than predictable marketing.</p><p>For 10 years, we’ve combined strategy, creativity, digital, and technology to help brands scale, build influence.</p><p>From social media, performance marketing, SEO, influencer marketing, PR, and brand activations to websites, apps, CRMs, automation systems, and tech solutions — we build connected digital ecosystems designed for real business impact.</p><p>With in-house tech, creative, production, and performance teams under one roof, we move fast — delivering everything from high-converting campaigns and scalable platforms to TV-ad quality films, podcasts, and digital experiences.</p><p>Some brands discover us early, and many stay with us for years.<br>Most come to us after things haven’t worked elsewhere.</p>"
+      },
+      {
+        "JOBTITLE": "Associate Accountant",
+        "JOBID": "51",
+        "LOCATION": "Gurgaon",
+        "JOBLINK": "",
+        "JOBDESC": "<p>The ideal candidate will have 2 years of experience, and be familiar with preparing financial reports, bank reconciliations, accounts payable, accounts receivable, Tally, payroll and reconciling invoices. Moreover, the candidate must have strong interpersonal skills and possess a strong business acumen.</p><p>-Responsibilities:</p><p>Maintain accurate and up-to-date financial records including general ledger, accounts payable, accounts receivable, and payroll</p><p>Prepare and review financial statements, reports, and other financial documents</p><p>Reconcile bank statements, invoices, and other financial data</p><p>Monitor and analyze financial performance, variances, and trends</p><p>Ensure compliance with local tax laws and regulations, including GST and TDS</p><p>Prepare and file periodic tax returns and reports</p><p>Assist in budgeting and forecasting processes</p><p>Collaborate with internal and external stakeholders, including auditors and tax consultants</p><p>Provide financial analysis and support for decision-making</p><p>Assist with month-end and year-end closing activities</p><p>-Requirements:</p><p>Proficiency with accounts payable, accounts receivable, and Tally</p><p>Bachelor's degree in Accounting or Finance</p><p>Professional accounting qualification</p><p>Minimum 2 years of relevant work experience in accounting or finance</p><p>Strong knowledge of Indian accounting standards and tax laws</p><p>Proficiency in accounting software (e.g. Tally, QuickBooks) and MS Office (Excel, Word)</p><p>Excellent analytical, problem-solving, and organizational skills</p><p>Attention to detail and accuracy</p><p>Ability to work independently and meet deadlines</p><p>&nbsp;</p><h2><strong>ABOUT ANTS</strong></h2><p>ANTS is a tech-first integrated communications and digital growth agency built for brands that want more than predictable marketing.</p><p>For 10 years, we’ve combined strategy, creativity, digital and technology to help brands scale and build influence.</p><p>From social media, performance marketing, SEO, influencer marketing, PR and brand activations to websites, apps, CRMs, automation systems and tech solutions — we build connected digital ecosystems designed for real business impact.</p><p>With in-house tech, creative, production and performance teams under one roof, we move fast — delivering everything from high-converting campaigns and scalable platforms to TV-ad quality films, podcasts and digital experiences.</p><p>Some brands discover us early, and many stay with us for years. Most come to us after things haven’t worked elsewhere.</p>"
+      },
+      {
+        "JOBTITLE": "Client Servicing Manager",
+        "JOBID": "55",
+        "LOCATION": "Hyderabad",
+        "JOBLINK": "",
+        "JOBDESC": "<p><strong>About the Role</strong></p><p><strong>ANTS Digital is looking for a proactive and client-focused Client Servicing Executive</strong> to join our Hyderabad team.</p><p>This role requires someone who can independently manage day-to-day client interactions, coordinate with internal teams, ensure timely execution of campaigns, and bring structure to ongoing client deliverables. The person will act as the bridge between the client and internal teams across content, creative, performance marketing, SEO, website, video and social media.</p><p>The ideal candidate should have prior experience in a digital marketing agency and should be comfortable managing client expectations, taking briefs, following up internally, tracking deliverables, and ensuring quality output within agreed timelines.</p><p>&nbsp;</p><p><strong>Key Responsibilities</strong></p><p><strong>Area</strong></p><p><strong>Responsibilities</strong></p><p><strong>Client Management</strong></p><p><strong>Act as the day-to-day point of contact for assigned clients. Build strong working relationships and ensure smooth communication between the client and agency teams.</strong></p><p><strong>Brief Understanding</strong></p><p><strong>Take clear briefs from clients, understand their business needs, campaign requirements and deliverables, and convert them into actionable internal briefs.</strong></p><p><strong>Internal Coordination</strong></p><p><strong>Work closely with content, creative, design, performance, SEO, tech and video teams to ensure timely execution of client work.</strong></p><p><strong>Project Follow-ups</strong></p><p><strong>Track all ongoing tasks, campaign requirements, creative deliverables, reports, approvals and feedback loops. Ensure nothing slips through the cracks.</strong></p><p><strong>Execution Ownership</strong></p><p><strong>Manage day-to-day execution across social media calendars, campaign creatives, website updates, performance marketing requirements, reports and other digital deliverables.</strong></p><p><strong>Client Communication</strong></p><p><strong>Share updates, follow-ups, timelines, MOMs, reminders and status reports with clients in a professional and timely manner.</strong></p><p><strong>Review &amp; Quality Check</strong></p><p><strong>Review creative, content and campaign outputs before sharing with clients to ensure they are aligned with the brief and basic quality expectations.</strong></p><p><strong>Reporting Support</strong></p><p><strong>Coordinate with internal teams to collate monthly reports, campaign summaries, performance updates and client review decks.</strong></p><p><strong>Issue Escalation</strong></p><p><strong>Identify delays, gaps or client concerns early and escalate them internally to ensure timely resolution.</strong></p><p><strong>Meeting Management</strong></p><p><strong>Schedule and participate in client meetings, prepare MOMs, track action points and ensure closure.</strong></p><p><strong>Required Skills &amp; Experience</strong></p><p><strong>Requirement</strong></p><p><strong>Details</strong></p><p><strong>Experience</strong></p><p><strong>4-5 years in client servicing, preferably in a digital marketing or creative agency.</strong></p><p><strong>Client-facing maturity</strong></p><p><strong>Should be able to interact directly with clients with confidence, clarity and professionalism.</strong></p><p><strong>Digital understanding</strong></p><p><strong>Good working knowledge of social media, content calendars, creative campaigns, performance marketing, SEO, websites and reporting.</strong></p><p><strong>Communication skills</strong></p><p><strong>Strong written and spoken communication skills. Must be able to write clear emails, MOMs and client updates.</strong></p><p><strong>Coordination ability</strong></p><p><strong>Should be good at follow-ups, timelines, task tracking and internal alignment.</strong></p><p><strong>Ownership mindset</strong></p><p><strong>Ability to take responsibility for deliverables and ensure closure without constant supervision.</strong></p><p><strong>Attention to detail</strong></p><p><strong>Should be able to catch basic errors in copy, design, timelines, reports and campaign requirements.</strong></p><p><strong>Problem-solving</strong></p><p><strong>Should be able to manage day-to-day client concerns calmly and escalate where required.</strong></p><p><strong>Preferred Profile</strong></p><p><strong>Area</strong></p><p><strong>Preference</strong></p><p>Background</p><p>Digital marketing agency / creative agency / social media agency</p><p>Location</p><p>Bangalore-based candidates preferred</p><p>Client exposure</p><p>Experience handling direct client communication</p><p>Tools</p><p>Working knowledge of Excel/Google Sheets, PowerPoint, Google Drive, project trackers and reporting formats</p><p>Languages</p><p>English is essential; knowledge of Kannada/Hindi will be an added advantage</p><p>&nbsp;</p><p><strong>Key Success Metrics</strong></p><p><strong>Metric</strong></p><p><strong>Expectation</strong></p><p>Client satisfaction</p><p>Smooth communication, timely responses and professional handling of client requirements</p><p>Timely delivery</p><p>Deliverables tracked and closed as per agreed timelines</p><p>Internal coordination</p><p>Clear briefs, structured follow-ups and reduced confusion between teams</p><p>Quality control</p><p>Fewer avoidable errors before client submissions</p><p>Reporting hygiene</p><p>Timely monthly reports, MOMs, trackers and review updates</p><p>Ownership</p><p>Ability to manage assigned clients with minimal day-to-day supervision</p><p><strong>Role Summary</strong></p><p><strong>This is not a purely coordination-based role. We are looking for someone who can bring maturity, credibility and ownership</strong> to client relationships.</p><p>The person should be comfortable doing the legwork required in an agency environment, while also having the confidence to interact directly with clients and represent ANTS Digital professionally. At 3–5 years of experience, the candidate should be able to manage day-to-day client servicing responsibilities independently, while working closely with senior leadership and internal teams.</p>"
+      },
+      {
+        "JOBTITLE": "Client Servicing Associate",
+        "JOBID": "73",
+        "LOCATION": "Gurgaon",
+        "JOBLINK": "",
+        "JOBDESC": "<p><strong>Experience:</strong> 2–3 Years<br><strong>Location:</strong> Gurgaon</p><p><strong>1. Responsibilities</strong></p><ul><li>Coordinate between internal teams including Content, Creative, Performance, and Web to ensure timely execution of deliverables&nbsp;</li><li>Track day-to-day tasks against briefs and timelines; flag delays or gaps proactively&nbsp;</li><li>Maintain and update trackers for scope vs. delivery across clients and projects&nbsp;</li><li>Conduct regular audits of digital assets:&nbsp;<ul><li>Websites (content updates, basic hygiene checks, broken links, etc.)&nbsp;</li><li>Social media platforms (profile completeness, consistency, posting accuracy)&nbsp;</li></ul></li><li>Execute social media posting as per approved calendars:&nbsp;<ul><li>Ensure correct captions, creatives, and hashtags are used&nbsp;</li><li>Maintain posting schedules and platform-wise accuracy&nbsp;</li></ul></li><li>Monitor and identify ongoing trends across platforms (Instagram, Facebook, YouTube, etc.) and share relevant inputs with internal teams&nbsp;</li><li>Perform basic competition analysis:&nbsp;<ul><li>Track competitor content, campaigns, and engagement patterns&nbsp;</li><li>Share structured observations with the team&nbsp;</li></ul></li><li>Prepare weekly and monthly reports:&nbsp;<ul><li>Collate data from multiple sources (social, performance, website)&nbsp;</li><li>Present data in predefined formats with key highlights&nbsp;</li></ul></li><li>Support in documentation and internal communication:&nbsp;<ul><li>Brief sharing, MOMs, task lists, and status updates&nbsp;</li><li>Ensure all project-related information is updated and accessible&nbsp;</li></ul></li></ul><p><strong>2. Requirements (Qualifications &amp; Skills)</strong></p><ul><li>Bachelor’s degree in Marketing, Business, Communications, or related field&nbsp;</li><li>2–3 years of experience in a digital marketing agency or similar environment&nbsp;</li><li>Basic understanding of:&nbsp;<ul><li>Social media platforms and formats&nbsp;</li><li>Digital marketing concepts (organic + paid)&nbsp;</li><li>Website structure and content management&nbsp;</li></ul></li><li>Familiarity with tools such as:&nbsp;<ul><li>Excel / Google Sheets (mandatory for reporting and tracking)&nbsp;</li><li>Social media platforms (Meta, YouTube, etc.)&nbsp;</li><li>Basic knowledge of tools like Google Analytics is an advantage&nbsp;</li></ul></li><li>Strong coordination and organisational skills:&nbsp;<ul><li>Ability to manage multiple tasks simultaneously&nbsp;</li><li>Attention to detail in execution and reporting&nbsp;</li></ul></li><li>Good written and verbal communication - English</li><li>Ability to follow processes and work within defined timelines</li></ul><p><strong>Location</strong>:&nbsp;Gurgaon</p>"
+      },
+      {
+        "JOBTITLE": "Client Servicing Manager",
+        "JOBID": "42",
+        "LOCATION": "Gurgaon",
+        "JOBLINK": "",
+        "JOBDESC": "<p>ANTS Digital Pvt. Ltd., a Digital Marketing Agency, is urgently hiring a Client Servicing Manager Immediate Joinee</p><p>&nbsp;</p><p>Experience: 6-8 years</p><p>&nbsp;</p><p>Location: Gurgaon</p><p>&nbsp;</p><p>Client Relationship Management:</p><p>· Act as the primary point of contact for clients, managing and nurturing client relationships to ensure satisfaction and retention.</p><p>· Understand client needs, objectives, and expectations, and translate them into effective digital marketing strategies.</p><p>· Regularly update clients on campaign progress, performance, and deliverables, ensuring transparency and trust. Research and prepare client presentations, reports and conduct in-person client meetings</p><p>&nbsp;</p><p>Project Coordination:</p><p>· Collaborate with internal teams (creative, content, SEO, PPC, social media) to ensure seamless execution of client projects.</p><p>· Monitor project timelines, budgets, and deliverables to ensure they align with client expectations and company standards.</p><p>· Identify and address any potential issues or roadblocks, ensuring timely resolution.</p><p>&nbsp;</p><p>Campaign Management:</p><p>· Oversee the development, implementation, and optimization of digital marketing campaigns across various platforms (e.g., Google Ads, social media, email marketing).</p><p>· Analyze campaign performance metrics and provide actionable insights to clients for continuous improvement.</p><p>· Stay updated with the latest digital marketing trends, tools, and best practices to offer innovative solutions to clients.</p><p>&nbsp;</p><p>Reporting and Analysis:</p><p>· Prepare and present comprehensive reports on campaign performance, ROI, and KPIs to clients on a regular basis.</p><p>· Use data-driven insights to recommend strategies for enhancing campaign effectiveness and achieving client goals.</p><p>· Ensure all client deliverables are accurate, insightful, and delivered on time.</p><p>&nbsp;</p><p>Business Development:</p><p>· Identify opportunities for upselling and cross-selling digital marketing services to existing clients.</p><p>· Participate in client pitches and presentations to showcase the company’s capabilities and win new business.</p><p>· Collaborate with the sales team to develop and implement strategies for client acquisition and retention.</p><p>&nbsp;</p><p>Preferred Qualifications:</p><p>· Bachelor’s degree in marketing, Business, Communications, or a related field.</p><p>· Minimum of 5-8 years of experience in a client servicing role within a digital marketing firm.</p><p>· Strong understanding of digital marketing concepts, strategies, and best practices.</p><p>· Excellent communication, interpersonal, and presentation skills.</p><p>· Proven ability to manage multiple projects and clients simultaneously, with a focus on delivering high-quality results.</p><p>· Proficiency in using digital marketing tools and platforms (e.g., Google Analytics, Google Ads, social media management tools).</p><p>· Strong analytical skills and the ability to interpret data to drive decision-making.</p><p>· High level of organizational and time management skills.</p><p>· Ability to work independently and as part of a collaborative team.</p><p>&nbsp;</p><p>About Us:</p><p>ANTS is a new age, tech-led, marketing services agency. We leverage our digital expertise to deliver brand strategy, content, creative, experience design and web-ready solutions for companies and brands in various market segments. We ensure synergy between consumer insights, brand positioning and the latest tech platforms to make your brand and marketing stand out among the clutter. We are an ingenious mix of industry stalwarts, budding creative enthusiasts and digital experts, who have the unique ability to scale ideas in a way that their impact is multiplied manifold. By philosophy, we literally breathe the ethos of our company name.</p><p>&nbsp;</p><p>Visit us: www.antsdigital.in</p><ul><li>https://www.instagram.com/antsdigital</li></ul>"
+      },
+      {
+        "JOBTITLE": "Q-Commerce Specialist",
+        "JOBID": "72",
+        "LOCATION": "Gurgaon",
+        "JOBLINK": "",
+        "JOBDESC": "<p><strong>Job Title: Q-Commerce Specialist</strong></p><p><strong>Location:</strong> Gurugram (On-site)</p><p><strong>Experience:</strong> 2–4 years</p><p>&nbsp;</p><p><strong>About the Role</strong></p><p>We are looking for a results-driven <strong>Q-Commerce&nbsp;Specialist</strong> with experience in multiple quick commerce platforms. The ideal candidate will be responsible for planning, executing, and optimizing paid campaigns to drive sales, customer acquisition, and ROI across rapid-delivery platforms.</p><p><strong>Key Responsibilities</strong></p><p>Product Listing &amp; Cataloguing: Upload and manage listings across platforms like Amazon, Flipkart, Blinkit, Bigbasket and Zepto.</p><p>Issue Resolution: Resolve ASIN-level errors, including suppression, search visibility, image, content, and compliance-related issues.</p><p>Coupon &amp; Promotions Management: Apply, monitor, and optimise coupons, deals, and promotions across platforms.</p><p>Inventory &amp; Pricing Updates: Regularly update stock levels and pricing based on inputs from internal teams.</p><p>Reconciliation &amp; Reporting: Coordinate with&nbsp;the team for order/payment reconciliation and raise disputes wherever needed.</p><p>Platform Knowledge: Navigate seller portals across Amazon Seller Central, Flipkart Seller Hub, and Q-commerce dashboards.</p><p>Marketplace Coordination: Liaise with category managers and support teams on various issues like return rates, penalties, account health, and SLA breaches.</p><p>Compliance Monitoring: Ensure listings meet all platform-specific guidelines and audit requirements.</p><p><strong>Requirements</strong></p><ul><li>2–4 years of experience in&nbsp; Q-commerce and e-commerce (Mandatory)</li><li>Hands-on experience with Quick Commerce and marketplace advertising</li><li>Strong analytical skills with proficiency in tools like Google Analytics, Excel, or similar</li><li>Understanding of customer acquisition, retention, and funnel optimization</li><li>Experience in&nbsp;onboarding brands onto&nbsp;Q-Comm platforms&nbsp;</li><li>Knowledge of platform billing&nbsp;</li><li>The person should&nbsp;have an understanding of&nbsp;stock tracking on Q-comm platforms.</li><li>Knowledge of Helium 10 and Jungle Scout - Preferred&nbsp;</li></ul><p><br>&nbsp;</p>"
+      },
+      {
+        "JOBTITLE": "Senior Graphic Designer",
+        "JOBID": "47",
+        "LOCATION": "Hyderabad",
+        "JOBLINK": "",
+        "JOBDESC": "<p>We are looking for a full-time Art Director/Senior Graphic Designer with 5-7 years of experience, to be based out of our Hyderabad Office. The ideal candidate will play a pivotal role in conceptualizing and executing innovative designs in Telugu &amp; English for digital media &amp; print.</p><p>Our workspace thrives on creativity and collaboration, and we’re in search of a passionate individual to elevate our work to the next level.<br>If you have previous experience or an interest in working with a dynamic agency, and possess excellent design skills as well as a knack for visual storytelling - this is the perfect opportunity to bring your expertise and creativity to our team.</p><p>Role:<br>Designing and creating a wide range of print and digital media for both offline and online marketing campaigns- including social media graphics, digital ads, posters, banners, hoardings and more<br>Formatting, and arranging text, images, and graphics to create and produce a variety of engaging designs<br>Maintaining brand guidelines that collate visual identity, and design principles. Ensuring that all created work is original, and adheres to the brands’ identity and design standards<br>Collaborate closely with cross-functional teams to bring concepts to life<br>Stay up-to-date with industry trends, design techniques, and emerging technologies</p><p>Requirements:<br>Expertise in Adobe Illustrator, InDesign, Photoshop and CorelDRAW<br>Knowledge of both online and offline advertising concepts<br>Knowledge of layouts, graphic fundamentals, typography, print, and web<br>Detail-oriented mindset with a commitment to maintaining high-quality standards<br>Experience in a digital marketing agency, or related field is highly preferred</p><p>About Us:</p><p>ANTS is a new age, tech-led, marketing services agency. We leverage our digital expertise to deliver brand strategy, content, creative, experience design and web-ready solutions for companies and brands in various market segments. We ensure synergy between consumer insights, brand positioning and the latest tech platforms to make your brand and marketing stand out among the clutter. We are an ingenious mix of industry stalwarts, budding creative enthusiasts and digital experts, who have the unique ability to scale ideas in a way that their impact is multiplied manifold. By philosophy, we literally breathe the ethos of our company name.</p><p>Visit us: www.antsdigital.in<br>https://www.instagram.com/antsdigital</p>"
+      }
+    ],
+    "replay_status": "PASSED",
+    "replay_error": null
+  },
+  {
+    "site_id": "5528254_SRP",
+    "company_name": "Originux UX UI Design Agency Bangalore",
+    "career_url": "https://www.originux.com/careers.php/",
+    "tech_status": "Done",
+    "crawler_type": "JPERL",
+    "config": {
+      "CanProcceed": 1,
+      "Cookie": "YES",
+      "CurrentJobNum": 1,
+      "CurrentPageNum": 0,
+      "DELETE_UNLISTED": "y",
+      "ISCRAWL_FULL": 0,
+      "IS_SITE_ID_DERIVED": 0,
+      "JOBSCOUNT": 0,
+      "MAXJBSPPAGE": 10,
+      "MAXPAGESPARSE": "6",
+      "MOVE_TO_JD": 1,
+      "SAVE_JD_COOKIE": "Yes",
+      "SQLDATE": "%Y-%m-%d",
+      "StartPageNum": 0,
+      "TERMRGX": "",
+      "USER_AGENT": "Firefox/5.0",
+      "JDVARS": {
+        "FAREA": {
+          "type": "SUB",
+          "callable": "Classifier_FAREA"
+        },
+        "ROLE": {
+          "type": "SUB",
+          "callable": "Classifier_ROLE"
+        },
+        "INDUSTRY": {
+          "type": "SUB",
+          "callable": "Classifier_INDUSTRY"
+        }
+      },
+      "URL": "https://www.originux.com/careers.php/",
+      "LOCRGX": "(?s)<div[^>]*class=\"cl--box\"[^>]*>.*?<h4>([^<]+)<\\/h4>.*?<a href=\"([^\"]+)\"[^>]*>.*?<\\/a>",
+      "LOCRGXSEQ": "JOBTITLE,JOBLINK",
+      "JDRGX1": "(?s)<div[^>]*class=\"career--row-btm\"[^>]*>.*?<h2[^>]*>Current Opportunities<\\/h2>.*?<div[^>]*class=\"career-list\"[^>]*>.*?<div[^>]*class=\"cl--box\"[^>]*>.*?<p>([^<]+)<\\/p>.*?<\\/div>.*?<\\/div>.*?<\\/div>",
+      "JDRGXSEQ1": "JOBDESC",
+      "JOBLINK": "{{VARJOBLINK}}",
+      "LANDINGJOBLINK": "{{VARJOBLINK}}",
+      "POSTQUERY": "update WEB_JOBS set COMPNAME ='Originux UX UI Design Agency Bangalore',compid ='5528254', jobConsultant = 'n' where  SITE = '5528254_SRP'"
+    },
+    "extracted_jobs": [
+      {
+        "JOBTITLE": "UI/UX Project Manager",
+        "JOBLINK": "https://www.originux.com/resources/careers/ui-ux-project-manager/",
+        "JOBID": "UI/UX Project Manager"
+      },
+      {
+        "JOBTITLE": "Asst. UI UX Designer",
+        "JOBLINK": "https://www.originux.com/resources/careers/asst-ui-ux-designer/",
+        "JOBID": "Asst. UI UX Designer"
+      },
+      {
+        "JOBTITLE": "Sr. Front End Developer",
+        "JOBLINK": "https://www.originux.com/resources/careers/senior-frontend-developer/",
+        "JOBID": "Sr. Front End Developer"
+      },
+      {
+        "JOBTITLE": "Business Analyst",
+        "JOBLINK": "https://www.originux.com/resources/careers/business-analyst/",
+        "JOBID": "Business Analyst"
+      },
+      {
+        "JOBTITLE": "Visual Designer",
+        "JOBLINK": "https://www.originux.com/resources/careers/visual-designer/",
+        "JOBID": "Visual Designer"
+      },
+      {
+        "JOBTITLE": "Content Writer",
+        "JOBLINK": "https://www.originux.com/resources/careers/content-writer/",
+        "JOBID": "Content Writer"
+      },
+      {
+        "JOBTITLE": "Product Designer",
+        "JOBLINK": "https://www.originux.com/resources/careers/product-designer/",
+        "JOBID": "Product Designer"
+      },
+      {
+        "JOBTITLE": "Program Manager",
+        "JOBLINK": "https://www.originux.com/resources/careers/program-manager/",
+        "JOBID": "Program Manager"
+      },
+      {
+        "JOBTITLE": "Assistant Digital Marketer",
+        "JOBLINK": "https://www.originux.com/resources/careers/assistant-digital-marketer/",
+        "JOBID": "Assistant Digital Marketer"
+      }
+    ],
+    "replay_status": "PASSED",
+    "replay_error": null
+  },
+  {
+    "site_id": "7044039_SRP",
+    "company_name": "Vitestork Consulting Private Limited",
+    "career_url": "https://www.vitestork.com/openpositions.aspx",
+    "tech_status": "Done",
+    "crawler_type": "JPERL",
+    "config": {
+      "CanProcceed": 1,
+      "Cookie": "YES",
+      "CurrentJobNum": 1,
+      "CurrentPageNum": 0,
+      "DELETE_UNLISTED": "y",
+      "ISCRAWL_FULL": 0,
+      "IS_SITE_ID_DERIVED": 0,
+      "JOBSCOUNT": 0,
+      "MAXJBSPPAGE": 10,
+      "MAXPAGESPARSE": "30",
+      "MOVE_TO_JD": 1,
+      "SAVE_JD_COOKIE": "Yes",
+      "SQLDATE": "%Y-%m-%d",
+      "StartPageNum": 0,
+      "TERMRGX": "",
+      "USER_AGENT": "Firefox/5.0",
+      "JDVARS": {
+        "FAREA": {
+          "type": "SUB",
+          "callable": "Classifier_FAREA"
+        },
+        "ROLE": {
+          "type": "SUB",
+          "callable": "Classifier_ROLE"
+        },
+        "INDUSTRY": {
+          "type": "SUB",
+          "callable": "Classifier_INDUSTRY"
+        }
+      },
+      "URL": "https://www.vitestork.com/openpositions.aspx",
+      "LOCRGX": "(?s)<tr[^>]*>.*?<td[^>]*onclick=\"window.open\\('([^']+)', '_blank'\\);\">\\s*<b>(.*?)</b>.*?</td>.*?</tr>",
+      "LOCRGXSEQ": "JOBTITLE",
+      "JDRGX1": "(?s)<div[^>]*>(.*?)<div[^>]*><strong>Skills:</strong>",
+      "JDRGXSEQ1": "JOBDESC",
+      "JOBLINK": "https://www.vitestork.com/openpositions.aspx",
+      "LANDINGJOBLINK": "https://www.vitestork.com/openpositions.aspx",
+      "POSTQUERY": "update WEB_JOBS set COMPNAME ='Vitestork Consulting Private Limited',compid ='7044039', jobConsultant = 'n' where  SITE = '7044039_SRP'"
+    },
+    "extracted_jobs": [
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2544",
+        "JOBTITLE": "Principal Software Engineer - NFV, C/C++, Controlplane, DPDK, DPI - [ID 013]",
+        "JOBID": "Principal Software Engineer - NFV, C/C++, Controlplane, DPDK, DPI - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2543",
+        "JOBTITLE": "Principal Software Engineer - C, Linux, Network Security, TCP/IP, HTTPS, SSL/TLS, IDS, IPS - [ID 013]",
+        "JOBID": "Principal Software Engineer - C, Linux, Network Security, TCP/IP, HTTPS, SSL/TLS, IDS, IPS - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2546",
+        "JOBTITLE": "Principal Software Engineer - U-Boot, Linux kernel - [ID 013]",
+        "JOBID": "Principal Software Engineer - U-Boot, Linux kernel - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2551",
+        "JOBTITLE": "ASIC RTL Design Lead - Verilog/SystemVerilog, CDC, Lint - [ID 014]",
+        "JOBID": "ASIC RTL Design Lead - Verilog/SystemVerilog, CDC, Lint - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2550",
+        "JOBTITLE": "Memory Layout Engineer - Junior/ senior lead/Architect - [ID 018]",
+        "JOBID": "Memory Layout Engineer - Junior/ senior lead/Architect - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2549",
+        "JOBTITLE": "Chip Lead / SoC Design Leader - [ID 017]",
+        "JOBID": "Chip Lead / SoC Design Leader - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2548",
+        "JOBTITLE": "Principal RTL Design Engineer - ASIC Design , ARM, SOC Architecture - [ID 017]",
+        "JOBID": "Principal RTL Design Engineer - ASIC Design , ARM, SOC Architecture - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2547",
+        "JOBTITLE": "Pre-Silicon System Performance Staff Engineer - [ID 018]",
+        "JOBID": "Pre-Silicon System Performance Staff Engineer - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2545",
+        "JOBTITLE": "Principal Software Engineer - FM Infra-Java, Spring Boot, Backend, REST API,CI/CD - [ID 013]",
+        "JOBID": "Principal Software Engineer - FM Infra-Java, Spring Boot, Backend, REST API,CI/CD - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2542",
+        "JOBTITLE": "Principal Architect - Linux Distro, Upstreaming, Open Source - [ID 017]",
+        "JOBID": "Principal Architect - Linux Distro, Upstreaming, Open Source - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2534",
+        "JOBTITLE": "Principal Product Engineer - Physical Design - [ID 017]",
+        "JOBID": "Principal Product Engineer - Physical Design - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2541",
+        "JOBTITLE": "Principal Product Engineer - DFT - [ID 018]",
+        "JOBID": "Principal Product Engineer - DFT - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2538",
+        "JOBTITLE": "Sr Principal Product Engineer - STA - [ID 017]",
+        "JOBID": "Sr Principal Product Engineer - STA - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2537",
+        "JOBTITLE": "Principal Engineer / Lead - Linux Kernels, Arm Architecture, SoC - [ID 017]",
+        "JOBID": "Principal Engineer / Lead - Linux Kernels, Arm Architecture, SoC - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2536",
+        "JOBTITLE": "GPU Verification Lead - IP / SOC/ GPU - [ID 017]",
+        "JOBID": "GPU Verification Lead - IP / SOC/ GPU - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2535",
+        "JOBTITLE": "Staff GPU Verification Engineer - Graphics/GPU/CPU/IP/ SOC - [ID 018]",
+        "JOBID": "Staff GPU Verification Engineer - Graphics/GPU/CPU/IP/ SOC - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2533",
+        "JOBTITLE": "Principal Design Engineer - Verification - [ID 017]",
+        "JOBID": "Principal Design Engineer - Verification - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2532",
+        "JOBTITLE": "Principal Software Engineer - C++, DS , Algo - [ID 017]",
+        "JOBID": "Principal Software Engineer - C++, DS , Algo - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2531",
+        "JOBTITLE": "Verification Lead - SV, UVM, GLS - [ID 017]",
+        "JOBID": "Verification Lead - SV, UVM, GLS - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2530",
+        "JOBTITLE": "Verification Engineer [CPUSS] - [ID 017]",
+        "JOBID": "Verification Engineer [CPUSS] - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2529",
+        "JOBTITLE": "Verification Lead Engineer - CPUSS C-based Verification - [ID 018]",
+        "JOBID": "Verification Lead Engineer - CPUSS C-based Verification - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2528",
+        "JOBTITLE": "Physical Verification - DRC, LVS, ERC, PERC, Antenna, FILL - [ID 017]",
+        "JOBID": "Physical Verification - DRC, LVS, ERC, PERC, Antenna, FILL - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2527",
+        "JOBTITLE": "Emulation Engineer - [ID 014]",
+        "JOBID": "Emulation Engineer - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2526",
+        "JOBTITLE": "ASIC Verification Lead - - [ID 014]",
+        "JOBID": "ASIC Verification Lead - - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2525",
+        "JOBTITLE": "Software Engineer - C,Linux,Device Drivers, TCP/IP, Network Drivers - [ID 013]",
+        "JOBID": "Software Engineer - C,Linux,Device Drivers, TCP/IP, Network Drivers - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2524",
+        "JOBTITLE": "Senior Software Engineer - C,Linux,Device Drivers, Network Drivers, Virtualization, DPDK - [ID 017]",
+        "JOBID": "Senior Software Engineer - C,Linux,Device Drivers, Network Drivers, Virtualization, DPDK - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2496",
+        "JOBTITLE": "Senior SoC/Staff SoC Design Engineer -CPUSS - [ID 018]",
+        "JOBID": "Senior SoC/Staff SoC Design Engineer -CPUSS - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1185",
+        "JOBTITLE": "Embedded Developer - C, Linux Kernel, Drivers, ARM, Yocto, BSP - [ID 013]",
+        "JOBID": "Embedded Developer - C, Linux Kernel, Drivers, ARM, Yocto, BSP - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2410",
+        "JOBTITLE": "System Architect  - [ID 013]",
+        "JOBID": "System Architect  - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2497",
+        "JOBTITLE": "Senior DFT Engineer and Lead DFT Engineer - [ID 018]",
+        "JOBID": "Senior DFT Engineer and Lead DFT Engineer - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2475",
+        "JOBTITLE": "Lead DFT Engineer - ATPG , SCAN - [ID 014]",
+        "JOBID": "Lead DFT Engineer - ATPG , SCAN - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2483",
+        "JOBTITLE": "Sr. Staff SW Engineer -  C/C++, Networking, Unix , RTOs, DPDK - [ID 022]",
+        "JOBID": "Sr. Staff SW Engineer -  C/C++, Networking, Unix , RTOs, DPDK - [ID 022]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=72",
+        "JOBTITLE": "DFT Engineer - Scan, MBIST, JTAG - [ID 010]",
+        "JOBID": "DFT Engineer - Scan, MBIST, JTAG - [ID 010]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1326",
+        "JOBTITLE": "Emulation Engineer - [ID 010]",
+        "JOBID": "Emulation Engineer - [ID 010]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2516",
+        "JOBTITLE": "RAN System Engineer - 4G/5G/ Cellular Development - [ID 018]",
+        "JOBID": "RAN System Engineer - 4G/5G/ Cellular Development - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2522",
+        "JOBTITLE": "Sr. RTL Design - Networking Products - [ID 013]",
+        "JOBID": "Sr. RTL Design - Networking Products - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1146",
+        "JOBTITLE": "EDA Software Development - C++, STL, Python, DS, Algorithms - [ID 018]",
+        "JOBID": "EDA Software Development - C++, STL, Python, DS, Algorithms - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2433",
+        "JOBTITLE": "Software Simulation Engineer  - [ID 018]",
+        "JOBID": "Software Simulation Engineer  - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2487",
+        "JOBTITLE": "Senior RAN/RF Planning and Optimization Engineer (Satellite to Cellular Networks) - [ID 010]",
+        "JOBID": "Senior RAN/RF Planning and Optimization Engineer (Satellite to Cellular Networks) - [ID 010]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2441",
+        "JOBTITLE": "Senior Project Manager, RD Project & Program Management - [ID 018]",
+        "JOBID": "Senior Project Manager, RD Project & Program Management - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2523",
+        "JOBTITLE": "Principal Engineer - Digital Verification - [ID 018]",
+        "JOBID": "Principal Engineer - Digital Verification - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2521",
+        "JOBTITLE": "Senior Staff Engineer, RD Analog Design - CMOs, ADC - [ID 018]",
+        "JOBID": "Senior Staff Engineer, RD Analog Design - CMOs, ADC - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2520",
+        "JOBTITLE": "Linux Kernel Developer - C, Linux, Kernel Memory, ARM, Drivers, Subsystems - [ID 017]",
+        "JOBID": "Linux Kernel Developer - C, Linux, Kernel Memory, ARM, Drivers, Subsystems - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2515",
+        "JOBTITLE": "Staff Engineer – C/C++, GenAI, LLM, LVM, CPU/GPU/NPU - [ID 018]",
+        "JOBID": "Staff Engineer – C/C++, GenAI, LLM, LVM, CPU/GPU/NPU - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2519",
+        "JOBTITLE": "Verification Lead Engineer - SV, UVM, CRV, formal verification - [ID 014]",
+        "JOBID": "Verification Lead Engineer - SV, UVM, CRV, formal verification - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2518",
+        "JOBTITLE": "Physical Design Engineer - Tech Lead -STA/DRC/LVS - [ID 010]",
+        "JOBID": "Physical Design Engineer - Tech Lead -STA/DRC/LVS - [ID 010]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2514",
+        "JOBTITLE": "DFT Engineer - SoC-level DFT architecture - [ID 017]",
+        "JOBID": "DFT Engineer - SoC-level DFT architecture - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2513",
+        "JOBTITLE": "DDR Verification Lead - DDR/HBM/GDDR - [ID 017]",
+        "JOBID": "DDR Verification Lead - DDR/HBM/GDDR - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2512",
+        "JOBTITLE": "ASIC Low Power Expert - RTL Design - [ID 017]",
+        "JOBID": "ASIC Low Power Expert - RTL Design - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2511",
+        "JOBTITLE": "Technical Product Marketing Manager - Semicon/EDA - [ID 017]",
+        "JOBID": "Technical Product Marketing Manager - Semicon/EDA - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2505",
+        "JOBTITLE": "SONiC Engineer (DEVELOPER) - Redis-DB , Docker L2, L3 - [ID 013]",
+        "JOBID": "SONiC Engineer (DEVELOPER) - Redis-DB , Docker L2, L3 - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2506",
+        "JOBTITLE": "QA Engineer - L2,L3,Python Automation Testing,Vxlan,Data centers - [ID 013]",
+        "JOBID": "QA Engineer - L2,L3,Python Automation Testing,Vxlan,Data centers - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2504",
+        "JOBTITLE": "Software Automation Engineer  - [ID 013]",
+        "JOBID": "Software Automation Engineer  - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2503",
+        "JOBTITLE": "Embedded Testing Engineer - C++ , Testing - [ID 018]",
+        "JOBID": "Embedded Testing Engineer - C++ , Testing - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2502",
+        "JOBTITLE": "Lead R&D Engineer - Verification - [ID 017]",
+        "JOBID": "Lead R&D Engineer - Verification - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1244",
+        "JOBTITLE": "EDA Software Development - C++, Data Structures, Algorithms - [ID 018]",
+        "JOBID": "EDA Software Development - C++, Data Structures, Algorithms - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1220",
+        "JOBTITLE": "ASIC RTL Design Engineer  - [ID 017]",
+        "JOBID": "ASIC RTL Design Engineer  - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1267",
+        "JOBTITLE": "RTL Design / Logic Design - DDR / PCIe - [ID 014]",
+        "JOBID": "RTL Design / Logic Design - DDR / PCIe - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1329",
+        "JOBTITLE": "Staff Engineer - STA / Synthesis - [ID 017]",
+        "JOBID": "Staff Engineer - STA / Synthesis - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2418",
+        "JOBTITLE": "Formal Verification Engineer - FPV - [ID 014]",
+        "JOBID": "Formal Verification Engineer - FPV - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2374",
+        "JOBTITLE": "Lead AMS Verification Engineer - IP, SOC - [ID 014]",
+        "JOBID": "Lead AMS Verification Engineer - IP, SOC - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2498",
+        "JOBTITLE": "Verification Lead Engineer- UVM, SV, GLS , ARM Cores, NIC/NOC - [ID 017]",
+        "JOBID": "Verification Lead Engineer- UVM, SV, GLS , ARM Cores, NIC/NOC - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2492",
+        "JOBTITLE": "Sr. Engineer / Staff Engineer - C, Linux, Network Drivers, ARM - [ID 013]",
+        "JOBID": "Sr. Engineer / Staff Engineer - C, Linux, Network Drivers, ARM - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2491",
+        "JOBTITLE": "Staff / Sr. Staff Engineer - C, Linux, DPDK, Drivers, Networking, ARM - [ID 013]",
+        "JOBID": "Staff / Sr. Staff Engineer - C, Linux, DPDK, Drivers, Networking, ARM - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2490",
+        "JOBTITLE": "Senior Principal Solution Engineer - Emulation,FPGA, Protype - [ID 017]",
+        "JOBID": "Senior Principal Solution Engineer - Emulation,FPGA, Protype - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2486",
+        "JOBTITLE": "Embedded Automation & QA Engineer - Python, AI - [ID 018]",
+        "JOBID": "Embedded Automation & QA Engineer - Python, AI - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2461",
+        "JOBTITLE": "Lead Product Engineer - Physical Verification - [ID 010]",
+        "JOBID": "Lead Product Engineer - Physical Verification - [ID 010]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2478",
+        "JOBTITLE": "Staff Software Eng – System / Performance Testing, L2, L3 / L4, L7 - [ID 017]",
+        "JOBID": "Staff Software Eng – System / Performance Testing, L2, L3 / L4, L7 - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2474",
+        "JOBTITLE": "PDK Development - PDK, Validation - [ID 018]",
+        "JOBID": "PDK Development - PDK, Validation - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2465",
+        "JOBTITLE": "Sr Principal Design Engineer/Lead– UCIE PHY (IP, TestChip, MPML) Verification - [ID 018]",
+        "JOBID": "Sr Principal Design Engineer/Lead– UCIE PHY (IP, TestChip, MPML) Verification - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2464",
+        "JOBTITLE": "RTL Design Engineer - Micro architecture , SOC - [ID 017]",
+        "JOBID": "RTL Design Engineer - Micro architecture , SOC - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2463",
+        "JOBTITLE": "Principal Product Engineer - STA , Synthesis - [ID 018]",
+        "JOBID": "Principal Product Engineer - STA , Synthesis - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2460",
+        "JOBTITLE": "Design Verification - Low Power Verification / UPF - [ID 017]",
+        "JOBID": "Design Verification - Low Power Verification / UPF - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1224",
+        "JOBTITLE": "STA Engineer - Staff / Sr. Staff / Lead / Principal / Manager - [ID 017]",
+        "JOBID": "STA Engineer - Staff / Sr. Staff / Lead / Principal / Manager - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1235",
+        "JOBTITLE": "EDA Tool Development - [ID 022]",
+        "JOBID": "EDA Tool Development - [ID 022]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=49",
+        "JOBTITLE": "Physical Design Engineer - [ID 014]",
+        "JOBID": "Physical Design Engineer - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1291",
+        "JOBTITLE": "SOC Backend Engineer / Lead - Physical Design, RTL to GDSII - [ID 014]",
+        "JOBID": "SOC Backend Engineer / Lead - Physical Design, RTL to GDSII - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2459",
+        "JOBTITLE": "Senior Machine Learning Engineer - Cybersecurity - [ID 013]",
+        "JOBID": "Senior Machine Learning Engineer - Cybersecurity - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2457",
+        "JOBTITLE": "Sr Principal Design Engineer / Lead - Verification (DDR / PHY / UCIE) - [ID 017]",
+        "JOBID": "Sr Principal Design Engineer / Lead - Verification (DDR / PHY / UCIE) - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2454",
+        "JOBTITLE": "Principal Engineer - Machine Learning, HW Accelators , LLM, LVM, Pytorch - [ID 017]",
+        "JOBID": "Principal Engineer - Machine Learning, HW Accelators , LLM, LVM, Pytorch - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2452",
+        "JOBTITLE": "Firmware Developer – Embedded Systems, RTOS, SPI, UART, I2C - [ID 013]",
+        "JOBID": "Firmware Developer – Embedded Systems, RTOS, SPI, UART, I2C - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1353",
+        "JOBTITLE": "Senior Engineer_ Physical Design - [ID 018]",
+        "JOBID": "Senior Engineer_ Physical Design - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1352",
+        "JOBTITLE": "Staff Software Engineer - C++,Python,OpenCL - [ID 018]",
+        "JOBID": "Staff Software Engineer - C++,Python,OpenCL - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2449",
+        "JOBTITLE": "Software Engineer - Embedded, GPS System - [ID 013]",
+        "JOBID": "Software Engineer - Embedded, GPS System - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2383",
+        "JOBTITLE": "System Design Engineer EDA - C++, DS, Algo  - [ID 013]",
+        "JOBID": "System Design Engineer EDA - C++, DS, Algo  - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2450",
+        "JOBTITLE": "Software Engineer - Embedded, C, C++, Microcontrollers, Drivers, Medical Devices - [ID 013]",
+        "JOBID": "Software Engineer - Embedded, C, C++, Microcontrollers, Drivers, Medical Devices - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2443",
+        "JOBTITLE": "Senior Director, RD Engineering - ASIC Design - [ID 017]",
+        "JOBID": "Senior Director, RD Engineering - ASIC Design - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2445",
+        "JOBTITLE": "Design Verification - [ID 017]",
+        "JOBID": "Design Verification - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2439",
+        "JOBTITLE": "Performance Modeling Engineer - [ID 017]",
+        "JOBID": "Performance Modeling Engineer - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2425",
+        "JOBTITLE": "Verification Tech Lead - [ID 018]",
+        "JOBID": "Verification Tech Lead - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2431",
+        "JOBTITLE": "Design Verification  - [ID 017]",
+        "JOBID": "Design Verification  - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2377",
+        "JOBTITLE": "Software Development - Device Drivers (Ethernet/PCIe) - [ID 022]",
+        "JOBID": "Software Development - Device Drivers (Ethernet/PCIe) - [ID 022]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2432",
+        "JOBTITLE": "RTL Design Engineer - [ID 017]",
+        "JOBID": "RTL Design Engineer - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2426",
+        "JOBTITLE": "Automation Developer - [ID 018]",
+        "JOBID": "Automation Developer - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1325",
+        "JOBTITLE": "Senior Engineer/Engineer-DFT - [ID 017]",
+        "JOBID": "Senior Engineer/Engineer-DFT - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1138",
+        "JOBTITLE": "Verification Engineer - SOC, UVM, DDR - [ID 017]",
+        "JOBID": "Verification Engineer - SOC, UVM, DDR - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2420",
+        "JOBTITLE": "CPU Physical Design SMTS/PMTS SILICON DESIGN ENGINEER - [ID 017]",
+        "JOBID": "CPU Physical Design SMTS/PMTS SILICON DESIGN ENGINEER - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2417",
+        "JOBTITLE": "Machine Learning Engineer - Python, PyTorch, JAX or Tensorflow - [ID 013]",
+        "JOBID": "Machine Learning Engineer - Python, PyTorch, JAX or Tensorflow - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2416",
+        "JOBTITLE": "Principle Member technical staff - C/C++, Embedded, Firmware - [ID 013]",
+        "JOBID": "Principle Member technical staff - C/C++, Embedded, Firmware - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2415",
+        "JOBTITLE": "Lead Design Engineer - [ID 018]",
+        "JOBID": "Lead Design Engineer - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2382",
+        "JOBTITLE": "CPU Verification Engineer - SV, UVM/OVM, x86/ARM - [ID 022]",
+        "JOBID": "CPU Verification Engineer - SV, UVM/OVM, x86/ARM - [ID 022]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2393",
+        "JOBTITLE": "SENIOR MANAGER SILICON DESIGN ENGINEER - [ID 018]",
+        "JOBID": "SENIOR MANAGER SILICON DESIGN ENGINEER - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1366",
+        "JOBTITLE": "Principal / Sr. Principal Design Engineer - DFT  - [ID 017]",
+        "JOBID": "Principal / Sr. Principal Design Engineer - DFT  - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2414",
+        "JOBTITLE": "Embedded Automation & QA Engineer - [ID 017]",
+        "JOBID": "Embedded Automation & QA Engineer - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2413",
+        "JOBTITLE": "SoC Verification Leader - [ID 017]",
+        "JOBID": "SoC Verification Leader - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2412",
+        "JOBTITLE": "Digital Verification Engineer - [ID 017]",
+        "JOBID": "Digital Verification Engineer - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2409",
+        "JOBTITLE": "SQA Technical Manager - [ID 013]",
+        "JOBID": "SQA Technical Manager - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2408",
+        "JOBTITLE": "BMC Firmware Engineer - [ID 013]",
+        "JOBID": "BMC Firmware Engineer - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2407",
+        "JOBTITLE": "ASIC Design Engineer - RTL Design - [ID 013]",
+        "JOBID": "ASIC Design Engineer - RTL Design - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2406",
+        "JOBTITLE": "Sr. Staff Semiconductor Design Engineer, High Speed IO - [ID 017]",
+        "JOBID": "Sr. Staff Semiconductor Design Engineer, High Speed IO - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2405",
+        "JOBTITLE": "Staff Semiconductor Design Engineer, Memory controller uArc - [ID 017]",
+        "JOBID": "Staff Semiconductor Design Engineer, Memory controller uArc - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2404",
+        "JOBTITLE": "Staff Semiconductor Design Engineer Fabric (NOC and Mesh Network) - [ID 018]",
+        "JOBID": "Staff Semiconductor Design Engineer Fabric (NOC and Mesh Network) - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2397",
+        "JOBTITLE": "Sr. Staff Semiconductor Design Engineer - Network Processing  - [ID 017]",
+        "JOBID": "Sr. Staff Semiconductor Design Engineer - Network Processing  - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2391",
+        "JOBTITLE": "Analog Design- SMTS - [ID 018]",
+        "JOBID": "Analog Design- SMTS - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2390",
+        "JOBTITLE": "Linux NPU Driver Developer - [ID 018]",
+        "JOBID": "Linux NPU Driver Developer - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2389",
+        "JOBTITLE": "Software Engineer - PCIe Driver Development - [ID 018]",
+        "JOBID": "Software Engineer - PCIe Driver Development - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2388",
+        "JOBTITLE": "Senior Lead Software Engineer – Platform - [ID 013]",
+        "JOBID": "Senior Lead Software Engineer – Platform - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2385",
+        "JOBTITLE": "Analog Layout Engineer- Lower Nodes - [ID 013]",
+        "JOBID": "Analog Layout Engineer- Lower Nodes - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=2371",
+        "JOBTITLE": "Principal Software Engineer- EDA Development - [ID 017]",
+        "JOBID": "Principal Software Engineer- EDA Development - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1360",
+        "JOBTITLE": "Senior Engineer - Physical Design - [ID 018]",
+        "JOBID": "Senior Engineer - Physical Design - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1351",
+        "JOBTITLE": "Staff Software Engineer - ML Frameworks Development - [ID 017]",
+        "JOBID": "Staff Software Engineer - ML Frameworks Development - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1344",
+        "JOBTITLE": "L2, L3 Protocols Testing - Automation Frameworks - [ID 013]",
+        "JOBID": "L2, L3 Protocols Testing - Automation Frameworks - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1349",
+        "JOBTITLE": "Design Manager - SOC  - [ID 017]",
+        "JOBID": "Design Manager - SOC  - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1350",
+        "JOBTITLE": "Software Developer - [ID 013]",
+        "JOBID": "Software Developer - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1355",
+        "JOBTITLE": "Staff Design Engineer_ASIC Design (Subsytems) \t - [ID 017]",
+        "JOBID": "Staff Design Engineer_ASIC Design (Subsytems) \t - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1356",
+        "JOBTITLE": "Staff Design Engineer_ASIC Design (Processor) \t - [ID 017]",
+        "JOBID": "Staff Design Engineer_ASIC Design (Processor) \t - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1357",
+        "JOBTITLE": "Staff/Sr. Staff Verification Engineer - [ID 018]",
+        "JOBID": "Staff/Sr. Staff Verification Engineer - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1354",
+        "JOBTITLE": "Design Engineer II_Physical Design - [ID 017]",
+        "JOBID": "Design Engineer II_Physical Design - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1347",
+        "JOBTITLE": "Digital Verification Expert - [ID 018]",
+        "JOBID": "Digital Verification Expert - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1346",
+        "JOBTITLE": "Principal RTL Design Engineer - [ID 017]",
+        "JOBID": "Principal RTL Design Engineer - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1341",
+        "JOBTITLE": "Manager / Sr. Manager - FPGA RTL Design (DSP/Wireless) - [ID 017]",
+        "JOBID": "Manager / Sr. Manager - FPGA RTL Design (DSP/Wireless) - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1309",
+        "JOBTITLE": "Communications Software Engineer - Embedded, C/C++, BSP, FPGA - [ID 022]",
+        "JOBID": "Communications Software Engineer - Embedded, C/C++, BSP, FPGA - [ID 022]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1293",
+        "JOBTITLE": "Senior Member Technical Staff - L2, L3, TCP/IP, Switching, Routing - [ID 022]",
+        "JOBID": "Senior Member Technical Staff - L2, L3, TCP/IP, Switching, Routing - [ID 022]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1221",
+        "JOBTITLE": "FPGA RTL Design Engineer  - [ID 022]",
+        "JOBID": "FPGA RTL Design Engineer  - [ID 022]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1297",
+        "JOBTITLE": "Software Manager - Embedded, C, C++, BSP, HW/FPGA  - [ID 017]",
+        "JOBID": "Software Manager - Embedded, C, C++, BSP, HW/FPGA  - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=87",
+        "JOBTITLE": "ASIC Verification - UVM, System Verilog - [ID 018]",
+        "JOBID": "ASIC Verification - UVM, System Verilog - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1324",
+        "JOBTITLE": "Technical Lead- Design Verification - [ID 018]",
+        "JOBID": "Technical Lead- Design Verification - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1323",
+        "JOBTITLE": "Senior Engineer/Engineer-Design Verification - [ID 014]",
+        "JOBID": "Senior Engineer/Engineer-Design Verification - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1321",
+        "JOBTITLE": "Formal  Design Verification - Serial IP/ Interface Protocols - [ID 018]",
+        "JOBID": "Formal  Design Verification - Serial IP/ Interface Protocols - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1320",
+        "JOBTITLE": "Verification Lead - [ID 018]",
+        "JOBID": "Verification Lead - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1316",
+        "JOBTITLE": "Principal FPGA Engineer - Wireless/LTE/Telecom - [ID 018]",
+        "JOBID": "Principal FPGA Engineer - Wireless/LTE/Telecom - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1318",
+        "JOBTITLE": "Verification Manager - [ID 017]",
+        "JOBID": "Verification Manager - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1308",
+        "JOBTITLE": "Communications Software Techical Lead - Embedded, C/C++, BSP, FPGA - [ID 018]",
+        "JOBID": "Communications Software Techical Lead - Embedded, C/C++, BSP, FPGA - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1317",
+        "JOBTITLE": "Validation Manager  - [ID 017]",
+        "JOBID": "Validation Manager  - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1298",
+        "JOBTITLE": "Verification Manager - UVM, System Verilog, Emulation  - [ID 017]",
+        "JOBID": "Verification Manager - UVM, System Verilog, Emulation  - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1194",
+        "JOBTITLE": "Systems / Platform Integration / Firmware Development Engineer  - [ID 013]",
+        "JOBID": "Systems / Platform Integration / Firmware Development Engineer  - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1144",
+        "JOBTITLE": "Sr. Staff Software Engineer - SSL, TLS, IPS, IDS - [ID 013]",
+        "JOBID": "Sr. Staff Software Engineer - SSL, TLS, IPS, IDS - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1281",
+        "JOBTITLE": "Principal Engineer / Tech Manager - LTE / 5G (L2 / L3) - [ID 022]",
+        "JOBID": "Principal Engineer / Tech Manager - LTE / 5G (L2 / L3) - [ID 022]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=95",
+        "JOBTITLE": "Physical Design - Floor Planning, CTS, STA  - [ID 007]",
+        "JOBID": "Physical Design - Floor Planning, CTS, STA  - [ID 007]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=88",
+        "JOBTITLE": "ASIC Verification Lead - UVM, SV (Ethernet, PCIe, MIPI) - [ID 014]",
+        "JOBID": "ASIC Verification Lead - UVM, SV (Ethernet, PCIe, MIPI) - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=64",
+        "JOBTITLE": "Sr Manager - ASIC Verification ( UVM,SV, RTL Verification) - [ID 013]",
+        "JOBID": "Sr Manager - ASIC Verification ( UVM,SV, RTL Verification) - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1219",
+        "JOBTITLE": "Verification Engineer - UVM | OVM - [ID 008]",
+        "JOBID": "Verification Engineer - UVM | OVM - [ID 008]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1248",
+        "JOBTITLE": "Physical Design Lead / Manager - [ID 008]",
+        "JOBID": "Physical Design Lead / Manager - [ID 008]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1140",
+        "JOBTITLE": "Design Verification - IP/SOC, PCIe / Ethernet / USB , OVM/UVM - [ID 014]",
+        "JOBID": "Design Verification - IP/SOC, PCIe / Ethernet / USB , OVM/UVM - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1278",
+        "JOBTITLE": "Principal Engineer - DPDK, Kernels, Drivers, TCP/IP - [ID 013]",
+        "JOBID": "Principal Engineer - DPDK, Kernels, Drivers, TCP/IP - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1195",
+        "JOBTITLE": "Application Development - C / C++, Python, Linux Security, Drivers, Kernels  - [ID 013]",
+        "JOBID": "Application Development - C / C++, Python, Linux Security, Drivers, Kernels  - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1304",
+        "JOBTITLE": "IT Senior Manager - TCP/IP Stack, Firewalls, Routing, VMWare - [ID 013]",
+        "JOBID": "IT Senior Manager - TCP/IP Stack, Firewalls, Routing, VMWare - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1122",
+        "JOBTITLE": "Sr. Software Engineer - IP Routing / Forwarding, DPDK, C, Linux - [ID 013]",
+        "JOBID": "Sr. Software Engineer - IP Routing / Forwarding, DPDK, C, Linux - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1134",
+        "JOBTITLE": "FPGA Design & Validation Engineer  - [ID 022]",
+        "JOBID": "FPGA Design & Validation Engineer  - [ID 022]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1133",
+        "JOBTITLE": "FPGA Design Engineer - LTE / PHY / OFDM - [ID 022]",
+        "JOBID": "FPGA Design Engineer - LTE / PHY / OFDM - [ID 022]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1130",
+        "JOBTITLE": "Lead AMS Verification  - Analog / Mixed-Signal  - [ID 022]",
+        "JOBID": "Lead AMS Verification  - Analog / Mixed-Signal  - [ID 022]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=61",
+        "JOBTITLE": "ASIC Design – RTL, Micro Architecture  - [ID 022]",
+        "JOBID": "ASIC Design – RTL, Micro Architecture  - [ID 022]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1156",
+        "JOBTITLE": "Test Automation Engineer - Python, L2, L3 - [ID 022]",
+        "JOBID": "Test Automation Engineer - Python, L2, L3 - [ID 022]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1251",
+        "JOBTITLE": "DFT Lead - Scan, MBIST, JTAG  - [ID 018]",
+        "JOBID": "DFT Lead - Scan, MBIST, JTAG  - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1257",
+        "JOBTITLE": "Staff / Lead / Architect - DFT (MBIST, JTAG) - [ID 014]",
+        "JOBID": "Staff / Lead / Architect - DFT (MBIST, JTAG) - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1186",
+        "JOBTITLE": "DFT Expert - SOC, JTAG, SCAM, MBIST, ATPG - [ID 018]",
+        "JOBID": "DFT Expert - SOC, JTAG, SCAM, MBIST, ATPG - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=86",
+        "JOBTITLE": "Senior Engineer - DFT (BIST/MBIST, ATPG) - [ID 018]",
+        "JOBID": "Senior Engineer - DFT (BIST/MBIST, ATPG) - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=85",
+        "JOBTITLE": "DFT Lead - MBIST, JTAG, ATPG - [ID 018]",
+        "JOBID": "DFT Lead - MBIST, JTAG, ATPG - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1286",
+        "JOBTITLE": "Hardware Verification Engineer - UVM / OVM, AMBA – AXI, AHB, APB - [ID 018]",
+        "JOBID": "Hardware Verification Engineer - UVM / OVM, AMBA – AXI, AHB, APB - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=74",
+        "JOBTITLE": "Lead - Digital SoC Verification - [ID 014]",
+        "JOBID": "Lead - Digital SoC Verification - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1175",
+        "JOBTITLE": "Staff / Principal Engineer - Verification (DDR / PCIe / NVMe) - [ID 014]",
+        "JOBID": "Staff / Principal Engineer - Verification (DDR / PCIe / NVMe) - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1273",
+        "JOBTITLE": "Lead / Manager - IP Verification (SV, UVM) - [ID 014]",
+        "JOBID": "Lead / Manager - IP Verification (SV, UVM) - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1307",
+        "JOBTITLE": "Validation Engineer - Post Silicon (FPGA, RT, RF, LTE) - [ID 018]",
+        "JOBID": "Validation Engineer - Post Silicon (FPGA, RT, RF, LTE) - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1276",
+        "JOBTITLE": "Datapath Linux Developer - L2, L3, Device Drivers, Kernels - [ID 013]",
+        "JOBID": "Datapath Linux Developer - L2, L3, Device Drivers, Kernels - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1302",
+        "JOBTITLE": "Principal Engineer - FPGA/ASIC, RTL Design - [ID 017]",
+        "JOBID": "Principal Engineer - FPGA/ASIC, RTL Design - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1301",
+        "JOBTITLE": "Senior Software Manager - Embedded, RTOS, Communication Protocols   - [ID 017]",
+        "JOBID": "Senior Software Manager - Embedded, RTOS, Communication Protocols   - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1277",
+        "JOBTITLE": "Staff Engineer - Datapath Developer (DPDK, Linux, Kernels, L2, L3) - [ID 013]",
+        "JOBID": "Staff Engineer - Datapath Developer (DPDK, Linux, Kernels, L2, L3) - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1170",
+        "JOBTITLE": "Staff / Sr. Staff / Principal Enginner – L2 / L3 Development - [ID 018]",
+        "JOBID": "Staff / Sr. Staff / Principal Enginner – L2 / L3 Development - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=53",
+        "JOBTITLE": "Software Development Engineer - L2 / L3 ( Broadcom Chipsets ) - [ID 022]",
+        "JOBID": "Software Development Engineer - L2 / L3 ( Broadcom Chipsets ) - [ID 022]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1243",
+        "JOBTITLE": "Staff / Sr. Staff Software Engineer - L2, L3 (Network Processors) - [ID 022]",
+        "JOBID": "Staff / Sr. Staff Software Engineer - L2, L3 (Network Processors) - [ID 022]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=98",
+        "JOBTITLE": "Network Drivers Development - RMDA, Storage - [ID 013]",
+        "JOBID": "Network Drivers Development - RMDA, Storage - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=99",
+        "JOBTITLE": "Storage Device Drivers Developers - SCSI, iSCSI, FC, FCoE, TCP/IP, NVMe - [ID 018]",
+        "JOBID": "Storage Device Drivers Developers - SCSI, iSCSI, FC, FCoE, TCP/IP, NVMe - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1272",
+        "JOBTITLE": "Windows Device Driver Developer - WDDM / MCDM  - [ID 013]",
+        "JOBID": "Windows Device Driver Developer - WDDM / MCDM  - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1288",
+        "JOBTITLE": "Embedded Linux & Kernel Development Engineer - [ID 018]",
+        "JOBID": "Embedded Linux & Kernel Development Engineer - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=96",
+        "JOBTITLE": "Windows Device Drivers Developer  - [ID 003]",
+        "JOBID": "Windows Device Drivers Developer  - [ID 003]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1294",
+        "JOBTITLE": "Linux Developer (VMware ESX) - Networking - [ID 017]",
+        "JOBID": "Linux Developer (VMware ESX) - Networking - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1274",
+        "JOBTITLE": "Embedded Software Developer - C/C++, Device Drivers, Linux - [ID 017]",
+        "JOBID": "Embedded Software Developer - C/C++, Device Drivers, Linux - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=25",
+        "JOBTITLE": "OAM Architect - 5G NR or LTE - [ID 018]",
+        "JOBID": "OAM Architect - 5G NR or LTE - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=80",
+        "JOBTITLE": "Solution Testing Engineer - L2 / L3 (Python/TCL/Shell) - [ID 022]",
+        "JOBID": "Solution Testing Engineer - L2 / L3 (Python/TCL/Shell) - [ID 022]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1296",
+        "JOBTITLE": "IO Design Engineer  - [ID 018]",
+        "JOBID": "IO Design Engineer  - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1295",
+        "JOBTITLE": "Sr. Analog IO Design - CMOS, Circuit Theory, Signal Processing - [ID 018]",
+        "JOBID": "Sr. Analog IO Design - CMOS, Circuit Theory, Signal Processing - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1137",
+        "JOBTITLE": "SMTS / Lead / Manager - Analog Design - [ID 018]",
+        "JOBID": "SMTS / Lead / Manager - Analog Design - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1166",
+        "JOBTITLE": "Analog Design Engineer - SMTS / Lead / Manager - [ID 018]",
+        "JOBID": "Analog Design Engineer - SMTS / Lead / Manager - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1165",
+        "JOBTITLE": "SMTS / Lead / Manager - Analog Design - [ID 018]",
+        "JOBID": "SMTS / Lead / Manager - Analog Design - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=63",
+        "JOBTITLE": "Staff / Principal Engineer - Analog Design - [ID 018]",
+        "JOBID": "Staff / Principal Engineer - Analog Design - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1169",
+        "JOBTITLE": "SMTS / Lead / Manager - Analog Design - [ID 018]",
+        "JOBID": "SMTS / Lead / Manager - Analog Design - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1223",
+        "JOBTITLE": "Analog Design Engineer - Staff / Sr. Staff / Lead / Manager - [ID 018]",
+        "JOBID": "Analog Design Engineer - Staff / Sr. Staff / Lead / Manager - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1232",
+        "JOBTITLE": "Analog Design Engineer - IP, PLL, PHY - [ID 018]",
+        "JOBID": "Analog Design Engineer - IP, PLL, PHY - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1253",
+        "JOBTITLE": "Staff / Principal Engineer - Verification ( OVM / UVM), DDR - [ID 014]",
+        "JOBID": "Staff / Principal Engineer - Verification ( OVM / UVM), DDR - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1159",
+        "JOBTITLE": "Verification Engineer - UVM/OVM, SV - [ID 014]",
+        "JOBID": "Verification Engineer - UVM/OVM, SV - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1285",
+        "JOBTITLE": "Lead Digital Verification Engineer - SOC - [ID 014]",
+        "JOBID": "Lead Digital Verification Engineer - SOC - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1255",
+        "JOBTITLE": "Software Engineering Manager - Java, Cloud Backend, REST - [ID 018]",
+        "JOBID": "Software Engineering Manager - Java, Cloud Backend, REST - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1203",
+        "JOBTITLE": "Staff Engineer / Sr. Staff Engineer - EDA, C++, STA - [ID 013]",
+        "JOBID": "Staff Engineer / Sr. Staff Engineer - EDA, C++, STA - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1279",
+        "JOBTITLE": "Staff Engineer / Sr. Staff Engineer - Cryptography, OpenSSL, C, Linux, DS, Algorithms, TCP/IP   - [ID 017]",
+        "JOBID": "Staff Engineer / Sr. Staff Engineer - Cryptography, OpenSSL, C, Linux, DS, Algorithms, TCP/IP   - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1289",
+        "JOBTITLE": "Synthesis / STA Engineers & Experts - [ID 018]",
+        "JOBID": "Synthesis / STA Engineers & Experts - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1287",
+        "JOBTITLE": "Senior IP Verification Engineer - AMBA AXI / AHB - [ID 018]",
+        "JOBID": "Senior IP Verification Engineer - AMBA AXI / AHB - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=93",
+        "JOBTITLE": "Full Chip – STA - [ID 014]",
+        "JOBID": "Full Chip – STA - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1256",
+        "JOBTITLE": "STA / Synthesis - Staff / Sr. Staff / Lead / Principal / Manager - [ID 014]",
+        "JOBID": "STA / Synthesis - Staff / Sr. Staff / Lead / Principal / Manager - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1236",
+        "JOBTITLE": "Principal Validation Engineer - [ID 014]",
+        "JOBID": "Principal Validation Engineer - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1189",
+        "JOBTITLE": "Formal Verification Lead - [ID 014]",
+        "JOBID": "Formal Verification Lead - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1201",
+        "JOBTITLE": "Machine Learning - TensorFlow, PyTorch  - [ID 013]",
+        "JOBID": "Machine Learning - TensorFlow, PyTorch  - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1108",
+        "JOBTITLE": "Staff SW Engineer / Sr. Staff SW Engineer - L2, L3 (Network Processors) - [ID 018]",
+        "JOBID": "Staff SW Engineer / Sr. Staff SW Engineer - L2, L3 (Network Processors) - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=79",
+        "JOBTITLE": "Software Engineer  - IPSEC, SSL, SSH (Developers) - [ID 018]",
+        "JOBID": "Software Engineer  - IPSEC, SSL, SSH (Developers) - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=84",
+        "JOBTITLE": "Principal Testing Engineer – L2 / L3 / L4 / L7 - [ID 018]",
+        "JOBID": "Principal Testing Engineer – L2 / L3 / L4 / L7 - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1206",
+        "JOBTITLE": "Principal Software Engineer - API/Backend - Java, Python - [ID 017]",
+        "JOBID": "Principal Software Engineer - API/Backend - Java, Python - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1241",
+        "JOBTITLE": "Staff Software Engineer - Java, NMS/EMS, Rest API - [ID 018]",
+        "JOBID": "Staff Software Engineer - Java, NMS/EMS, Rest API - [ID 018]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1258",
+        "JOBTITLE": "",
+        "JOBID": ""
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1261",
+        "JOBTITLE": "Machine Learning Lead / Manager - TensorFlow, PyTorch - [ID 014]",
+        "JOBID": "Machine Learning Lead / Manager - TensorFlow, PyTorch - [ID 014]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1198",
+        "JOBTITLE": "Sr. Engineer / Lead Developer / Architect - Linux / QNX, Drivers, Kernels - [ID 007]",
+        "JOBID": "Sr. Engineer / Lead Developer / Architect - Linux / QNX, Drivers, Kernels - [ID 007]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1190",
+        "JOBTITLE": "Sr. Software Engineer / Lead - L2, L3, Ethernet, TCP/IP - [ID 013]",
+        "JOBID": "Sr. Software Engineer / Lead - L2, L3, Ethernet, TCP/IP - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=76",
+        "JOBTITLE": "Lead Analog-Mixed Signal Verification Engineer - [ID 008]",
+        "JOBID": "Lead Analog-Mixed Signal Verification Engineer - [ID 008]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1204",
+        "JOBTITLE": "Embedded Multimedia Frameworks Development - [ID 013]",
+        "JOBID": "Embedded Multimedia Frameworks Development - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1217",
+        "JOBTITLE": "Software Engineer – Linux Platform Development - [ID 003]",
+        "JOBID": "Software Engineer – Linux Platform Development - [ID 003]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1270",
+        "JOBTITLE": "Machine Learning - TensorFlow, PyTorch  - [ID 008]",
+        "JOBID": "Machine Learning - TensorFlow, PyTorch  - [ID 008]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1155",
+        "JOBTITLE": "Routing Protocol Developer - L3, BGP, IS-IS, OSPF - [ID 013]",
+        "JOBID": "Routing Protocol Developer - L3, BGP, IS-IS, OSPF - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=81",
+        "JOBTITLE": "Software Engineer – L2 / L3, Broadcom Chipset (Development) - [ID 007]",
+        "JOBID": "Software Engineer – L2 / L3, Broadcom Chipset (Development) - [ID 007]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1162",
+        "JOBTITLE": "Software Engineer – L2 / L3 ( Broadcom Chipsets) - [ID 003]",
+        "JOBID": "Software Engineer – L2 / L3 ( Broadcom Chipsets) - [ID 003]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1269",
+        "JOBTITLE": "EDA Tool Development - C++, Data Structures, Algorithms - [ID 008]",
+        "JOBID": "EDA Tool Development - C++, Data Structures, Algorithms - [ID 008]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1250",
+        "JOBTITLE": "Analog Layout Engineer - [ID 007]",
+        "JOBID": "Analog Layout Engineer - [ID 007]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1171",
+        "JOBTITLE": "ASIC Design – RTL, Micro Architecture  - [ID 007]",
+        "JOBID": "ASIC Design – RTL, Micro Architecture  - [ID 007]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1183",
+        "JOBTITLE": "Staff / Sr. Staff Engineer - C, Linux Kernel, Drivers, ARM, Multimedia Frameworks - [ID 007]",
+        "JOBID": "Staff / Sr. Staff Engineer - C, Linux Kernel, Drivers, ARM, Multimedia Frameworks - [ID 007]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1172",
+        "JOBTITLE": "Application Engineer - Physical Design  - [ID 008]",
+        "JOBID": "Application Engineer - Physical Design  - [ID 008]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1168",
+        "JOBTITLE": "Staff Engineer - Custom Design - CMOS  - [ID 017]",
+        "JOBID": "Staff Engineer - Custom Design - CMOS  - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1192",
+        "JOBTITLE": "DFT Director - SCAN, MBIST - [ID 017]",
+        "JOBID": "DFT Director - SCAN, MBIST - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1150",
+        "JOBTITLE": "Sr. SDET - Python, Framework Development (Networking Protocols) - [ID 013]",
+        "JOBID": "Sr. SDET - Python, Framework Development (Networking Protocols) - [ID 013]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1252",
+        "JOBTITLE": "Technical Manager - Design Verification (ASIC/FPGA/SOC - SV, UVM/OVM) - [ID 017]",
+        "JOBID": "Technical Manager - Design Verification (ASIC/FPGA/SOC - SV, UVM/OVM) - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1265",
+        "JOBTITLE": "Verification Lead - IP, UVM, System Verilog - [ID 017]",
+        "JOBID": "Verification Lead - IP, UVM, System Verilog - [ID 017]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1106",
+        "JOBTITLE": "Senior / Staff SW QA Engineer - Dev Test (L2, L3 / L4, L7) - [ID 007]",
+        "JOBID": "Senior / Staff SW QA Engineer - Dev Test (L2, L3 / L4, L7) - [ID 007]"
+      },
+      {
+        "JOBLINK": "https://www.vitestork.com/jobdetails.aspx?jid=1181",
+        "JOBTITLE": "Software Design Engineer 3/4 - C++, Windows  - [ID 017]",
+        "JOBID": "Software Design Engineer 3/4 - C++, Windows  - [ID 017]"
+      }
+    ],
+    "replay_status": "PASSED",
+    "replay_error": null
+  }
+]

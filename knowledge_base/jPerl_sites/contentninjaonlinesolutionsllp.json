@@ -1,0 +1,8 @@
+{
+    "contentninjaonlinesolutionsllp": {
+        "PARENT_RULE_NAME": "kekaRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Content Ninja Online Solutions LLP', compid = '3724978', jobConsultant = 'n' where \u00a0SITE = 'contentninjaonlinesolutionsllp'",
+        "URL": "https://contentninja.keka.com/careers/api/embedjobs/default/active/5bc46c9d-65b3-4a40-bed1-5bb08b13c729",
+        "URL_VARS": "contentninja"
+    }
+}

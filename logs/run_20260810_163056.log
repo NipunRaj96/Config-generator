@@ -1,0 +1,7 @@
+========================================================================
+RUN ID  : run_20260810_163056
+STARTED : 2026-08-10T16:30:56
+========================================================================
+[DONE        ]  12.0s  path=llm       conf=0.90  tokens=0     (  0.0/job)  Srijan Ek Soch
+[DONE        ]  12.7s  path=llm       conf=1.05  tokens=0     (  0.0/job)  HYRE Center
+[DONE        ]  11.6s  path=llm       conf=0.90  tokens=0     (  0.0/job)  Accurate HR

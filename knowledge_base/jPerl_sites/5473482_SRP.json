@@ -1,0 +1,7 @@
+{
+    "5473482_SRP": {
+        "PARENT_RULE_NAME": "boardsGreenhouseRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME='Bulletin Intelligence', compid='5473482', jobConsultant='n' where SITE='5473482_SRP'",
+        "URL_VARS": "cision"
+    }
+}

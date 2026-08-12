@@ -1,0 +1,54 @@
+========================================================================
+RUN ID  : run_20260714_131618
+STARTED : 2026-07-14T13:16:18
+========================================================================
+[DONE        ]  93.5s  path=ats       conf=0.95  Course5
+[DONE        ] 265.0s  path=llm       conf=0.90  Suta
+[DONE        ] 206.2s  path=srp       conf=0.90  Absolute Veritas
+[DONE        ] 347.9s  path=llm       conf=0.90  Technovision Engineers Pvt Ltd.
+[DONE        ] 130.2s  path=srp       conf=0.90  Savitara Infotel
+[FAILED      ] 424.3s  path=failed    conf=0.00  Designers.io
+[DONE        ] 394.2s  path=srp       conf=0.90  Doux consultant
+[DONE        ] 127.3s  path=srp       conf=0.90  SITA
+[DONE        ] 182.3s  path=srp       conf=0.90  TECHMINDS GROUP INDIA PRIVATE LIMITED
+[DONE        ]  98.7s  path=srp       conf=0.90  AppFillip
+[DONE        ]  80.1s  path=llm       conf=0.80  Inspire Infosol
+[DONE        ]  63.5s  path=llm       conf=1.05  TRONIXWARE
+[DONE        ] 192.6s  path=llm       conf=0.90  Nayi Disha Resource Centre
+[FAILED      ] 434.4s  path=failed    conf=0.00  Silicon microsystems
+[DONE        ] 384.8s  path=srp       conf=0.90  Axes Track Software
+[DONE        ]  20.0s  path=ats       conf=0.95  Anywhere Real Estate Inc
+[NON-WORKABLE]  21.3s  path=robot     conf=0.00  Strateena
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-07-14T14:16:44
+Total time  : 3626.7s (60.4 min)
+Records     : 17
+
+RESULTS BREAKDOWN
+  Done         :  14  (82%)
+  Non-Workable :   1  (6%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   7  (41%)
+
+DETECTION PATH
+  ats         :   2  (12%)
+  failed      :   2  (12%)
+  llm         :   5  (29%)
+  robot       :   1  (6%)
+  srp         :   7  (41%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.91
+  Min / Max   : 0.80 / 1.05
+
+SLOWEST 3 RECORDS
+  434.4s  Silicon microsystems  [Failed]
+  424.3s  Designers.io  [Failed]
+  394.2s  Doux consultant  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260714_131618.log
+========================================================================
+

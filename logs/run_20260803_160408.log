@@ -1,0 +1,10 @@
+========================================================================
+RUN ID  : run_20260803_160408
+STARTED : 2026-08-03T16:04:08
+========================================================================
+[NON-WORKABLE]  11.6s  path=robot     conf=0.00  tokens=0     (  0.0/job)  Srijan Ek Soch
+[DONE        ]  10.8s  path=llm       conf=1.05  tokens=0     (  0.0/job)  HYRE Center
+[DONE        ]  11.0s  path=llm       conf=0.90  tokens=0     (  0.0/job)  Accurate HR
+[DONE        ]  10.2s  path=llm       conf=1.05  tokens=0     (  0.0/job)  Collective Good Foundation (CGF)
+[FAILED      ]  11.9s  path=failed    conf=0.00  tokens=0     (  0.0/job)  Brightstar Lottery
+[FAILED      ]  37.9s  path=failed    conf=0.00  tokens=9278  (3092.7/job)  BSH Technologiesa

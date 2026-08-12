@@ -1,0 +1,7 @@
+{
+    "6627360_SRP": {
+        "PARENT_RULE_NAME": "workableRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Mishkon International', compid = '6627360', jobConsultant = 'n' where SITE = '6627360_SRP'",
+        "URL_VARS": "mishkon-international"
+    }
+}

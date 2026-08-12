@@ -1,0 +1,44 @@
+========================================================================
+RUN ID  : run_20260716_115925
+STARTED : 2026-07-16T11:59:25
+========================================================================
+[FAILED      ]  61.7s  path=failed    conf=0.00  Fairmont Hotels & Resorts
+[DONE        ]  31.2s  path=llm       conf=0.90  SSP Solutions
+[FAILED      ]  44.8s  path=failed    conf=0.00  TASEC Limited
+[FAILED      ]  44.5s  path=failed    conf=0.00  Laptop store
+[DONE        ] 145.9s  path=llm       conf=0.90  Servenergy IT Consultancy
+[DONE        ]  35.2s  path=llm       conf=0.90  Objectways
+[DONE        ]  58.0s  path=srp       conf=0.90  Rhysley
+[DONE        ]  62.0s  path=llm       conf=0.90  Keystone International School
+[FAILED      ]  73.8s  path=failed    conf=0.00  DigitoLogics
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-07-16T12:10:02
+Total time  : 637.2s (10.6 min)
+Records     : 9
+
+RESULTS BREAKDOWN
+  Done         :   5  (56%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   1  (11%)
+
+DETECTION PATH
+  failed      :   4  (44%)
+  llm         :   4  (44%)
+  srp         :   1  (11%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.90
+  Min / Max   : 0.90 / 0.90
+
+SLOWEST 3 RECORDS
+  145.9s  Servenergy IT Consultancy  [Done]
+   73.8s  DigitoLogics  [Failed]
+   62.0s  Keystone International School  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260716_115925.log
+========================================================================
+

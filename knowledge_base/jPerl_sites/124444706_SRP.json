@@ -1,0 +1,39 @@
+{
+    "124444706_SRP": {
+        "CanProcceed": 1,
+        "Cookie": "YES",
+        "CurrentJobNum": 1,
+        "CurrentPageNum": 0,
+        "DELETE_UNLISTED": "y",
+        "ISCRAWL_FULL": 0,
+        "IS_SITE_ID_DERIVED": 0,
+        "JDVARS": {
+            "FAREA": {
+                "callable": "Classifier_FAREA",
+                "type": "SUB"
+            },
+            "INDUSTRY": {
+                "callable": "Classifier_INDUSTRY",
+                "type": "SUB"
+            },
+            "ROLE": {
+                "callable": "Classifier_ROLE",
+                "type": "SUB"
+            }
+        },
+        "JOBLINK": "https://pranamrecruiters.zohorecruit.in/jobs/Careers/{{VARJOBLINK}}",
+        "JOBSCOUNT": 0,
+        "LOCRGX": "(?s)Posting_Title[^;]+;[^;]+;([^&]+).+?City[^;]+;[^;]+;([^&]+).+?Job_Desc[^;]+;[^;]+;(.+?)Work_Exp[^;]+;[^;]+;([^&]+).+?id[^;]+;[^;]+;(([^&]+)).+?Date[^;]+;[^;]+;([^&]+)",
+        "LOCRGXSEQ": "JOBTITLE,LOCATION,JOBDESC,EXPERIENCE,JOBID,JOBLINK,Date",
+        "MAXJBSPPAGE": 10,
+        "MAXPAGESPARSE": "1",
+        "MOVE_TO_JD": 0,
+        "POSTQUERY": "update WEB_JOBS set COMPNAME ='Pranam Recruiters',compid ='124444706', jobConsultant = 'n' where  SITE = '124444706_SRP'",
+        "SAVE_JD_COOKIE": "Yes",
+        "SQLDATE": "%Y-%c-%e",
+        "StartPageNum": 0,
+        "TERMRGX": "",
+        "URL": "https://pranamrecruiters.zohorecruit.in/jobs/Careers",
+        "USER_AGENT": "Firefox/5.0"
+    }
+}

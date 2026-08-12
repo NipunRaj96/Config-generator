@@ -1,0 +1,7 @@
+{
+    "talent14west": {
+        "PARENT_RULE_NAME": "boardsGreenhouseRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'AGORA Inc.', compid = '3125040', jobConsultant = 'n' where \u00a0SITE = 'talent14west'",
+        "URL_VARS": "agoralabinc"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "craxinno_UC": {
+        "CanProcceed": 1,
+        "Cookie": "YES",
+        "CurrentJobNum": 1,
+        "CurrentPageNum": 0,
+        "DELETE_UNLISTED": "y",
+        "ISCRAWL_FULL": 0,
+        "IS_SITE_ID_DERIVED": 0,
+        "JDVARS": {
+            "FAREA": {
+                "callable": "Classifier_FAREA",
+                "type": "SUB"
+            },
+            "INDUSTRY": {
+                "callable": "Classifier_INDUSTRY",
+                "type": "SUB"
+            },
+            "ROLE": {
+                "callable": "Classifier_ROLE",
+                "type": "SUB"
+            }
+        },
+        "JOBLINK": "https://craxinno.com/openings?jobId=677ced4401360237ff0c13aa",
+        "JOBSCOUNT": 0,
+        "LOCJSON": "location|X|createdAt|X|requirements|X|title|X|id|XX|data,jobs",
+        "LOCJSONSEQ": "LOCATION,Date,JOBDESC,JOBTITLE,JOBID",
+        "MAXJBSPPAGE": 10,
+        "MAXPAGESPARSE": "1",
+        "MOVE_TO_JD": 0,
+        "POSTQUERY": "update WEB_JOBS set COMPNAME ='Craxinno Technologies Private Limited',compid ='124286488', jobConsultant = 'n' where  SITE = 'craxinno_UC'",
+        "SAVE_JD_COOKIE": "Yes",
+        "SQLDATE": "%Y-%m-%d",
+        "StartPageNum": 0,
+        "TERMRGX": "",
+        "URL": "https://api.craxinno.com/graphql{{POST}}{{CONTENT}}{\"operationName\":\"JobListingFrontEndDocument\",\"query\":\"query JobListingFrontEndDocument($filters: JobFilters, $limit: Int, $skip: Int) {\\n  jobs(filters: $filters, limit: $limit, skip: $skip) {\\n    id\\n    title\\n    isDisabled\\n    requirements\\n    createdAt\\n    experience\\n    workPlaceType\\n    jobType\\n    location\\n    start\\n    upTo\\n    perks\\n    introduction\\n    __typename\\n  }\\n}\",\"variables\":{\"filters\":{\"isDisabled\":false,\"recentJobs\":false,\"searchTerm\":\"\"}}}{{HEADER}}accept|X|application/graphql-response+json, application/graphql+json, application/json, text/event-stream, multipart/mixed##{{accept-encoding|X|gzip, deflate, br, zstd##{{accept-language|X|en-US,en;q=0.9##{{browser-token|X|wlxd0h##{{connection|X|keep-alive##{{content-length|X|479##{{content-type|X|application/json",
+        "USER_AGENT": "Firefox/5.0"
+    }
+}

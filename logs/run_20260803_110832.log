@@ -1,0 +1,41 @@
+========================================================================
+RUN ID  : run_20260803_110832
+STARTED : 2026-08-03T11:08:32
+========================================================================
+[DONE        ]  47.9s  path=srp       conf=0.90  tokens=31810 (15905.0/job)  Raajgad Techno Services Pvt Ltd
+[DONE        ]  36.5s  path=llm       conf=0.90  tokens=39429 (39429.0/job)  sclera
+[DONE        ]  60.3s  path=llm       conf=0.90  tokens=14451 (1445.1/job)  KAKADIAM LLP Tex
+[FAILED      ]  38.7s  path=failed    conf=0.00  tokens=21890 (10945.0/job)  Coral Business Solutions
+[DONE        ]  10.0s  path=ats       conf=0.95  tokens=0     (  0.0/job)  2nd Watch
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-08-03T11:12:25
+Total time  : 233.6s (3.9 min)
+Records     : 5
+
+RESULTS BREAKDOWN
+  Done         :   4  (80%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   1  (20%)
+
+DETECTION PATH
+  ats         :   1  (20%)
+  failed      :   1  (20%)
+  llm         :   2  (40%)
+  srp         :   1  (20%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.91
+  Min / Max   : 0.90 / 0.95
+
+SLOWEST 3 RECORDS
+   60.3s  KAKADIAM LLP Tex  [Done]
+   47.9s  Raajgad Techno Services Pvt Ltd  [Done]
+   38.7s  Coral Business Solutions  [Failed]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260803_110832.log
+========================================================================
+

@@ -1,0 +1,40 @@
+========================================================================
+RUN ID  : run_20260803_154710
+STARTED : 2026-08-03T15:47:10
+========================================================================
+[NON-WORKABLE]  18.9s  path=robot     conf=0.00  tokens=0     (  0.0/job)  Srijan Ek Soch
+[DONE        ]  63.5s  path=llm       conf=1.05  tokens=7702  (700.2/job)  HYRE Center
+[DONE        ]  36.0s  path=llm       conf=0.90  tokens=9360  (1337.1/job)  Accurate HR
+[DONE        ]  31.0s  path=llm       conf=1.05  tokens=79295 (7929.5/job)  Collective Good Foundation (CGF)
+[FAILED      ]  43.6s  path=failed    conf=0.00  tokens=18012 (4503.0/job)  Brightstar Lottery
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-08-03T15:51:04
+Total time  : 233.2s (3.9 min)
+Records     : 5
+
+RESULTS BREAKDOWN
+  Done         :   3  (60%)
+  Non-Workable :   1  (20%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   0  (0%)
+
+DETECTION PATH
+  failed      :   1  (20%)
+  llm         :   3  (60%)
+  robot       :   1  (20%)
+
+CONFIDENCE  (Done records only)
+  Average     : 1.00
+  Min / Max   : 0.90 / 1.05
+
+SLOWEST 3 RECORDS
+   63.5s  HYRE Center  [Done]
+   43.6s  Brightstar Lottery  [Failed]
+   36.0s  Accurate HR  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260803_154710.log
+========================================================================
+

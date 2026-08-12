@@ -1,0 +1,40 @@
+{
+    "1896894_SRP": {
+        "CanProcceed": 1,
+        "Cookie": "YES",
+        "CurrentJobNum": 1,
+        "CurrentPageNum": 0,
+        "DELETE_UNLISTED": "y",
+        "ESCAPE_VARJOBLINK": "No",
+        "ISCRAWL_FULL": 0,
+        "IS_SITE_ID_DERIVED": 0,
+        "JDVARS": {
+            "FAREA": {
+                "callable": "Classifier_FAREA",
+                "type": "SUB"
+            },
+            "INDUSTRY": {
+                "callable": "Classifier_INDUSTRY",
+                "type": "SUB"
+            },
+            "ROLE": {
+                "callable": "Classifier_ROLE",
+                "type": "SUB"
+            }
+        },
+        "JOBLINK": "https://smartworkconsultants.zohorecruit.in/jobs/Careers/{{VARJOBLINK}}",
+        "JOBSCOUNT": 0,
+        "LOCRGX": "(?s)Posting_Title[^;]+;[^;]+;(.*?)&[^;]+;[^;]+;[^;]+;[^;]+;[^;]+;[^;]+;(.*?)&[^;]+;[^;]+;[^;]+;[^;]+;[^;]+;[^;]+;(.*?)id&[^;]+;[^;]+;((.*?))&",
+        "LOCRGXSEQ": "JOBTITLE,LOCATION,JOBDESC,JOBID,JOBLINK",
+        "MAXJBSPPAGE": 10,
+        "MAXPAGESPARSE": "1",
+        "MOVE_TO_JD": 0,
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Smart Work Consultants', compid = '1896894', jobConsultant = 'n' where \u00a0SITE = '1896894_SRP'",
+        "SAVE_JD_COOKIE": "Yes",
+        "SQLDATE": "%Y-%m-%d",
+        "StartPageNum": 0,
+        "TERMRGX": "",
+        "URL": "https://smartworkconsultants.zohorecruit.in/jobs/Careers",
+        "USER_AGENT": "Firefox/5.0"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "4037734_SRP": {
+        "PARENT_RULE_NAME": "applytojobRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'LotusFlare', compid = '4037734', jobConsultant = 'n' where  SITE = '4037734_SRP'",
+        "URL": "https://lotusflareinc.applytojob.com"
+    }
+}

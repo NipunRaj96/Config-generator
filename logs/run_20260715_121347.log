@@ -1,0 +1,10 @@
+========================================================================
+RUN ID  : run_20260715_121347
+STARTED : 2026-07-15T12:13:47
+========================================================================
+[NOT FIXABLE ]  10.9s  path=error     conf=0.00  Course5
+           ERROR: No module named 'playwright'
+[NOT FIXABLE ]  11.0s  path=error     conf=0.00  Suta
+           ERROR: No module named 'playwright'
+[NOT FIXABLE ]  11.7s  path=error     conf=0.00  Absolute Veritas
+           ERROR: No module named 'playwright'

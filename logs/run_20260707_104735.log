@@ -1,0 +1,51 @@
+========================================================================
+RUN ID  : run_20260707_104735
+STARTED : 2026-07-07T10:47:35
+========================================================================
+[DONE        ]  10.1s  path=llm       conf=0.90  Indus Net Technologies
+[NOT FIXABLE ]  10.7s  path=failed    conf=0.00  Gradiant India Pvt Ltd
+[DONE        ]  11.9s  path=srp       conf=0.90  AMBC Inc
+[DONE        ]  10.9s  path=srp       conf=0.90  Course5
+[DONE        ]  11.5s  path=ats       conf=0.95  Skill College
+[DONE        ]  11.1s  path=llm       conf=0.90  Technovision Engineers Pvt Ltd.
+[DONE        ]  12.9s  path=llm       conf=0.90  Blow Trumpet Solutions
+[DONE        ]  11.2s  path=llm       conf=0.90  Brunel India Pvt Ltd
+[DONE        ]  11.5s  path=srp       conf=0.90  iTester
+[DONE        ]  11.0s  path=srp       conf=0.90  Clobas Private Limited
+[DONE        ]  10.2s  path=llm       conf=0.90  Savitara Infotel
+[DONE        ]  10.6s  path=srp       conf=0.90  Electronica HiTech Machine Tools Pvt. Lt
+[DONE        ]  11.0s  path=ats       conf=0.95  CBTW IT & Technology / Positive Thinking
+[DONE        ]  10.2s  path=srp       conf=0.90  Security Brigade InfoSec Private Limited
+[DONE        ]  10.2s  path=srp       conf=0.90  Green Dot International School, Bandapur
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-07-07T10:52:41
+Total time  : 305.2s (5.1 min)
+Records     : 15
+
+RESULTS BREAKDOWN
+  Done         :  14  (93%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   1  (7%)
+  SRP (auto)   :   7  (47%)
+
+DETECTION PATH
+  ats         :   2  (13%)
+  failed      :   1  (7%)
+  llm         :   5  (33%)
+  srp         :   7  (47%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.91
+  Min / Max   : 0.90 / 0.95
+
+SLOWEST 3 RECORDS
+   12.9s  Blow Trumpet Solutions  [Done]
+   11.9s  AMBC Inc  [Done]
+   11.5s  Skill College  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260707_104735.log
+========================================================================
+

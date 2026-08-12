@@ -1,0 +1,7 @@
+{
+    "7047849_SRP": {
+        "PARENT_RULE_NAME": "jobsjobviteRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Thirdera', compid = '7047849', jobConsultant = 'n' where \u00a0SITE = '7047849_SRP'",
+        "URL": "/thirdera/job"
+    }
+}

@@ -1,0 +1,42 @@
+========================================================================
+RUN ID  : run_20260717_125511
+STARTED : 2026-07-17T12:55:11
+========================================================================
+[DONE        ]  34.6s  path=failed    conf=0.00  tokens=0     (  0.0/job)  Fairmont Hotels & Resorts
+[DONE        ]  27.7s  path=llm       conf=0.90  tokens=0     (  0.0/job)  SSP Solutions
+[FAILED      ]  34.4s  path=failed    conf=0.00  tokens=0     (  0.0/job)  TASEC Limited
+[DONE        ]  32.4s  path=srp       conf=0.98  tokens=0     (  0.0/job)  Laptop store
+[FAILED      ]  36.1s  path=failed    conf=0.00  tokens=0     (  0.0/job)  Servenergy IT Consultancy
+[DONE        ]  50.7s  path=failed    conf=0.00  tokens=0     (  0.0/job)  Rhysley
+[FAILED      ]  76.1s  path=failed    conf=0.00  tokens=0     (  0.0/job)  DigitoLogics
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-07-17T13:01:03
+Total time  : 352.1s (5.9 min)
+Records     : 7
+
+RESULTS BREAKDOWN
+  Done         :   4  (57%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   1  (14%)
+
+DETECTION PATH
+  failed      :   5  (71%)
+  llm         :   1  (14%)
+  srp         :   1  (14%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.94
+  Min / Max   : 0.90 / 0.98
+
+SLOWEST 3 RECORDS
+   76.1s  DigitoLogics  [Failed]
+   50.7s  Rhysley  [Done]
+   36.1s  Servenergy IT Consultancy  [Failed]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260717_125511.log
+========================================================================
+

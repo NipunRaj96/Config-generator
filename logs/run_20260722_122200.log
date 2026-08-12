@@ -1,0 +1,40 @@
+========================================================================
+RUN ID  : run_20260722_122200
+STARTED : 2026-07-22T12:22:00
+========================================================================
+[DONE        ]  34.4s  path=llm       conf=0.90  tokens=22464 ( 69.1/job)  Godrej Industries
+[FAILED      ]  30.0s  path=failed    conf=0.00  tokens=3069  (1534.5/job)  Market Industry Reports
+[DONE        ]  47.2s  path=failed    conf=0.91  tokens=5843  (1460.8/job)  Zitto Motors
+[FAILED      ]  56.9s  path=failed    conf=0.00  tokens=27693 (1384.7/job)  Kerdos Infrasoft
+[DONE        ]  30.8s  path=llm       conf=0.90  tokens=29885 (7471.2/job)  1solutions
+[DONE        ]  67.7s  path=failed    conf=0.86  tokens=6069  (275.9/job)  Gamesa Technology Corporation
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-07-22T12:27:17
+Total time  : 317.2s (5.3 min)
+Records     : 6
+
+RESULTS BREAKDOWN
+  Done         :   4  (67%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   0  (0%)
+
+DETECTION PATH
+  failed      :   4  (67%)
+  llm         :   2  (33%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.89
+  Min / Max   : 0.86 / 0.91
+
+SLOWEST 3 RECORDS
+   67.7s  Gamesa Technology Corporation  [Done]
+   56.9s  Kerdos Infrasoft  [Failed]
+   47.2s  Zitto Motors  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260722_122200.log
+========================================================================
+

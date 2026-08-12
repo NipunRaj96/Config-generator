@@ -1,0 +1,8 @@
+========================================================================
+RUN ID  : run_20260722_145051
+STARTED : 2026-07-22T14:50:51
+========================================================================
+[FAILED      ]  38.4s  path=failed    conf=0.00  tokens=34803 (107.1/job)  Godrej Industries
+[FAILED      ]  34.3s  path=failed    conf=0.00  tokens=3069  (1534.5/job)  Market Industry Reports
+[DONE        ]  25.3s  path=failed    conf=0.91  tokens=5789  (1447.2/job)  Zitto Motors
+[FAILED      ]  70.2s  path=failed    conf=0.00  tokens=19811 (990.5/job)  Kerdos Infrasoft

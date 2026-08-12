@@ -1,0 +1,11 @@
+========================================================================
+RUN ID  : run_20260710_124022
+STARTED : 2026-07-10T12:40:22
+========================================================================
+[DONE        ]  25.4s  path=llm       conf=1.00  Course5
+[NOT FIXABLE ]  71.8s  path=error     conf=0.00  Suta
+           ERROR: LLMReasoner._all_candidates_are_noise() missing 1 required positional argument: 'candidates'
+[NOT FIXABLE ]  39.1s  path=error     conf=0.00  Absolute Veritas
+           ERROR: LLMReasoner._all_candidates_are_noise() missing 1 required positional argument: 'candidates'
+[NOT FIXABLE ] 116.6s  path=error     conf=0.00  Technovision Engineers Pvt Ltd.
+           ERROR: LLMReasoner._all_candidates_are_noise() missing 1 required positional argument: 'candidates'

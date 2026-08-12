@@ -1,0 +1,40 @@
+{
+    "3590040_SRP": {
+        "CanProcceed": 1,
+        "Cookie": "YES",
+        "CurrentJobNum": 1,
+        "CurrentPageNum": 0,
+        "DELETE_UNLISTED": "y",
+        "ISCRAWL_FULL": 0,
+        "IS_SITE_ID_DERIVED": 0,
+        "JDVARS": {
+            "FAREA": {
+                "callable": "Classifier_FAREA",
+                "type": "SUB"
+            },
+            "INDUSTRY": {
+                "callable": "Classifier_INDUSTRY",
+                "type": "SUB"
+            },
+            "ROLE": {
+                "callable": "Classifier_ROLE",
+                "type": "SUB"
+            }
+        },
+        "JOBLINK": "https://careers.lemontreehotels.com/currentOpenings",
+        "JOBSCOUNT": 0,
+        "LOCRGX": "(?s)<div class=\"jobs_conetent\">[^>]+>[^>]+>(([^<]+))[^>]+>[^>]+>[^>]+>[^>]+>[^>]+>[^>]+>[^>]+>[^>]+>[^>]+>[^>]+>[^>]+>([^<]+)",
+        "LOCRGXSEQ": "JOBID,JOBTITLE,LOCATION",
+        "MAXJBSPPAGE": 10,
+        "MAXPAGESPARSE": "1",
+        "MOVE_TO_JD": 0,
+        "POSTQUERY": "update WEB_JOBS set COMPNAME ='LEMON TREE HOTELS LIMITED',compid ='3590040', jobConsultant = 'n' where  SITE = '3590040_SRP'",
+        "PROXY": "Yes",
+        "SAVE_JD_COOKIE": "Yes",
+        "SQLDATE": "%Y-%m-%d",
+        "StartPageNum": 0,
+        "TERMRGX": "",
+        "URL": "https://careers.lemontreehotels.com/currentOpenings",
+        "USER_AGENT": "Firefox/5.0"
+    }
+}

@@ -1,0 +1,53 @@
+========================================================================
+RUN ID  : run_20260707_132224
+STARTED : 2026-07-07T13:22:24
+========================================================================
+[DONE        ]  51.1s  path=srp       conf=0.40  Course5
+[DONE        ]  66.6s  path=llm       conf=0.50  Suta
+[DONE        ] 247.3s  path=srp       conf=0.90  Absolute Veritas
+[DONE        ] 107.4s  path=llm       conf=0.90  Technovision Engineers Pvt Ltd.
+[DONE        ]  31.8s  path=llm       conf=0.90  Savitara Infotel
+[DONE        ]  46.5s  path=srp       conf=0.90  Designers.io
+[DONE        ]  35.2s  path=srp       conf=0.90  Doux consultant
+[DONE        ]  46.0s  path=srp       conf=0.90  SITA
+[DONE        ]  12.8s  path=ats       conf=0.95  TECHMINDS GROUP INDIA PRIVATE LIMITED
+[DONE        ]  30.1s  path=srp       conf=0.90  AppFillip
+[DONE        ]  30.5s  path=srp       conf=0.90  Inspire Infosol
+[DONE        ]  35.6s  path=srp       conf=0.90  TRONIXWARE
+[DONE        ]  30.0s  path=llm       conf=0.90  Nayi Disha Resource Centre
+[NON-WORKABLE]  12.2s  path=robot     conf=0.00  Silicon microsystems
+[DONE        ]  28.4s  path=llm       conf=0.50  Axes Track Software
+[DONE        ]  10.0s  path=ats       conf=0.95  Anywhere Real Estate Inc
+[DONE        ]  10.4s  path=ats       conf=0.95  Strateena
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-07-07T13:38:56
+Total time  : 992.1s (16.5 min)
+Records     : 17
+
+RESULTS BREAKDOWN
+  Done         :  16  (94%)
+  Non-Workable :   1  (6%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   8  (47%)
+
+DETECTION PATH
+  ats         :   3  (18%)
+  llm         :   5  (29%)
+  robot       :   1  (6%)
+  srp         :   8  (47%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.83
+  Min / Max   : 0.40 / 0.95
+
+SLOWEST 3 RECORDS
+  247.3s  Absolute Veritas  [Done]
+  107.4s  Technovision Engineers Pvt Ltd.  [Done]
+   66.6s  Suta  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260707_132224.log
+========================================================================
+

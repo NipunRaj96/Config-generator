@@ -1,0 +1,14 @@
+========================================================================
+RUN ID  : run_20260811_152251
+STARTED : 2026-08-11T15:22:51
+========================================================================
+[DONE        ]  67.6s  path=llm       conf=0.90  tokens=21540 (7180.0/job)  Srijan Ek Soch
+[DONE        ]  56.6s  path=llm       conf=1.05  tokens=7704  (700.4/job)  HYRE Center
+[FAILED      ]  36.4s  path=failed    conf=0.00  tokens=16931 (2418.7/job)  Accurate HR
+[DONE        ]  32.0s  path=llm       conf=1.05  tokens=91088 (9108.8/job)  Collective Good Foundation (CGF)
+[DONE        ]  39.7s  path=llm       conf=0.90  tokens=9847  (2461.8/job)  Brightstar Lottery
+[FAILED      ]  32.1s  path=failed    conf=0.00  tokens=9290  (3096.7/job)  BSH Technologiesa
+[DONE        ]  32.7s  path=llm       conf=0.90  tokens=6441  (429.4/job)  SEMI LEAF
+[DONE        ]  28.0s  path=llm       conf=0.90  tokens=6479  (1619.8/job)  elucknow
+[DONE        ]  45.0s  path=llm       conf=1.05  tokens=7113  (592.8/job)  ANTS Digital
+[DONE        ]  31.4s  path=llm       conf=0.90  tokens=10385 (1153.9/job)  Originux UX UI Design Agency Bangalore

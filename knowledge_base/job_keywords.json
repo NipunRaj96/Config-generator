@@ -1,0 +1,23 @@
+{
+  "weights": {
+    "strong_negative_phrase": -3.0,
+    "strong_negative_token": -3.0,
+    "weak_negative_token": -1.0,
+    "multiword_bonus": 1.0,
+    "length_penalty": -3.0,
+    "format_penalty": -3.0
+  },
+  "strong_negative_phrases": [
+    "privacy policy", "contact us", "terms of use", "view all jobs",
+    "all rights reserved", "copyright", "next page", "previous page",
+    "apply now", "learn more", "read more"
+  ],
+  "strong_negative_tokens": [
+    "login", "register", "privacy", "contact", "menu", "footer", "search",
+    "apply", "details"
+  ],
+  "weak_negative_tokens": [
+    "login", "register", "about", "privacy", "contact", "home", "search",
+    "support", "faq", "facebook", "twitter", "linkedin", "instagram", "youtube", "pinterest"
+  ]
+}

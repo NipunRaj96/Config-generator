@@ -1,0 +1,38 @@
+{
+    "2253292_SRP": {
+        "CanProcceed": 1,
+        "Cookie": "YES",
+        "CurrentJobNum": 1,
+        "CurrentPageNum": 0,
+        "DELETE_UNLISTED": "y",
+        "ISCRAWL_FULL": 0,
+        "IS_SITE_ID_DERIVED": 0,
+        "JDVARS": {
+            "FAREA": {
+                "callable": "Classifier_FAREA",
+                "type": "SUB"
+            },
+            "INDUSTRY": {
+                "callable": "Classifier_INDUSTRY",
+                "type": "SUB"
+            },
+            "ROLE": {
+                "callable": "Classifier_ROLE",
+                "type": "SUB"
+            }
+        },
+        "JOBSCOUNT": 0,
+        "LOCRGX": "(?s)<h4 id=\"[^>]+>((.+?))Job Location([^<]+)[^>]+>[^>]+>(.+?)Send your resume, and salary",
+        "LOCRGXSEQ": "JOBID,JOBTITLE,LOCATION,JOBDESC",
+        "MAXJBSPPAGE": 10,
+        "MAXPAGESPARSE": "1",
+        "MOVE_TO_JD": 0,
+        "POSTQUERY": "update WEB_JOBS set COMPNAME ='i-Class Solutions (India) Pvt. Ltd.',compid ='2253292', jobConsultant = 'n' where  SITE = '2253292_SRP'",
+        "SAVE_JD_COOKIE": "Yes",
+        "SQLDATE": "%Y-%m-%d",
+        "StartPageNum": 0,
+        "TERMRGX": "",
+        "URL": "http://www.instacommerce.net/careers.html{{HEADER}}Accept-Encoding|X|gzip, deflate##{{Accept|X|text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+    }
+}

@@ -1,0 +1,54 @@
+========================================================================
+RUN ID  : run_20260715_133519
+STARTED : 2026-07-15T13:35:19
+========================================================================
+[DONE        ]  63.5s  path=srp       conf=0.90  Course5
+[DONE        ]  55.3s  path=llm       conf=0.90  Suta
+[DONE        ]  49.5s  path=srp       conf=0.90  Absolute Veritas
+[DONE        ] 155.9s  path=llm       conf=0.90  Technovision Engineers Pvt Ltd.
+[DONE        ]  47.0s  path=llm       conf=0.90  Savitara Infotel
+[FAILED      ]  59.4s  path=failed    conf=0.00  Designers.io
+[DONE        ]  70.7s  path=srp       conf=0.90  Doux consultant
+[DONE        ]  55.6s  path=srp       conf=0.90  SITA
+[DONE        ] 112.1s  path=llm       conf=0.90  TECHMINDS GROUP INDIA PRIVATE LIMITED
+[DONE        ]  48.3s  path=srp       conf=0.90  AppFillip
+[DONE        ]  50.3s  path=srp       conf=0.90  Inspire Infosol
+[DONE        ]  66.9s  path=llm       conf=1.05  TRONIXWARE
+[DONE        ]  40.5s  path=llm       conf=0.90  Nayi Disha Resource Centre
+[FAILED      ]  57.8s  path=failed    conf=0.00  Silicon microsystems
+[DONE        ]  41.5s  path=llm       conf=0.90  Axes Track Software
+[DONE        ]  20.0s  path=ats       conf=0.95  Anywhere Real Estate Inc
+[NON-WORKABLE]  20.9s  path=robot     conf=0.00  Strateena
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-07-15T13:54:55
+Total time  : 1175.7s (19.6 min)
+Records     : 17
+
+RESULTS BREAKDOWN
+  Done         :  14  (82%)
+  Non-Workable :   1  (6%)
+  Not Fixable  :   0  (0%)
+  SRP (auto)   :   6  (35%)
+
+DETECTION PATH
+  ats         :   1  (6%)
+  failed      :   2  (12%)
+  llm         :   7  (41%)
+  robot       :   1  (6%)
+  srp         :   6  (35%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.91
+  Min / Max   : 0.90 / 1.05
+
+SLOWEST 3 RECORDS
+  155.9s  Technovision Engineers Pvt Ltd.  [Done]
+  112.1s  TECHMINDS GROUP INDIA PRIVATE LIMITED  [Done]
+   70.7s  Doux consultant  [Done]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260715_133519.log
+========================================================================
+

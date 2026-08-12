@@ -1,0 +1,9 @@
+{
+    "transunion": {
+        "JOBLINK": "https://transunion.wd5.myworkdayjobs.com/wday/cxs/transunion/transunion/job/{{VARJOBLINK}}",
+        "LANDINGJOBLINK": "https://transunion.wd5.myworkdayjobs.com/en-US/transunion/job/{{VARJOBLINK}}",
+        "PARENT_RULE_NAME": "myworkdayjobsRuleV2",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME='TransUnion Software Services Pvt. Ltd', compid='1861742', jobConsultant='n', INDUSTRY='36' where SITE='transunion'",
+        "URL": "https://transunion.wd5.myworkdayjobs.com/wday/cxs/transunion/transunion/jobs{{POST}}{{CONTENT}}{\"limit\":20,\"offset\":!0o!STARTJOBNO0!0o!,\"searchText\":\"\",\"appliedFacets\":{\"locationCountry\":[\"c4f78be1a8f14da0ab49ce1162348a5e\"]}}{{HEADER}}Accept|X|application/json##{{Accept-Language|X|en-US##{{Content-Type|X|application/json"
+    }
+}

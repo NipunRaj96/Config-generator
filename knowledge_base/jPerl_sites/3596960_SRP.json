@@ -1,0 +1,7 @@
+{
+    "3596960_SRP": {
+        "PARENT_RULE_NAME": "jobsSmartrecruiterJsonRule",
+        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Shipsy', compid = '3596960', jobConsultant = 'n' where \u00a0SITE = '3596960_SRP'",
+        "URL_VARS": "Shipsy"
+    }
+}

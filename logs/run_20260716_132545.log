@@ -1,0 +1,6 @@
+========================================================================
+RUN ID  : run_20260716_132545
+STARTED : 2026-07-16T13:25:45
+========================================================================
+[NOT FIXABLE ]  22.3s  path=error     conf=0.00  Fairmont Hotels & Resorts
+           ERROR: Page.wait_for_timeout: Target page, context or browser has been closed

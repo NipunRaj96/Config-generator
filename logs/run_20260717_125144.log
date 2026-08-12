@@ -1,0 +1,7 @@
+========================================================================
+RUN ID  : run_20260717_125144
+STARTED : 2026-07-17T12:51:44
+========================================================================
+[DONE        ]  40.8s  path=failed    conf=0.00  tokens=0     (  0.0/job)  Fairmont Hotels & Resorts
+[DONE        ]  33.1s  path=llm       conf=0.90  tokens=0     (  0.0/job)  SSP Solutions
+[FAILED      ]  43.0s  path=failed    conf=0.00  tokens=0     (  0.0/job)  TASEC Limited

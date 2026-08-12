@@ -1,0 +1,53 @@
+========================================================================
+RUN ID  : run_20260708_120450
+STARTED : 2026-07-08T12:04:50
+========================================================================
+[DONE        ]  14.2s  path=llm       conf=0.90  Course5
+[DONE        ]  63.4s  path=llm       conf=0.80  Suta
+[DONE        ]  34.2s  path=llm       conf=0.80  Absolute Veritas
+[DONE        ] 122.5s  path=srp       conf=0.90  Technovision Engineers Pvt Ltd.
+[DONE        ]  29.2s  path=llm       conf=0.80  Savitara Infotel
+[NOT FIXABLE ]  41.4s  path=failed    conf=0.00  Designers.io
+[DONE        ]  12.4s  path=llm       conf=0.90  Doux consultant
+[DONE        ]  29.2s  path=llm       conf=0.90  SITA
+[NOT FIXABLE ]  13.0s  path=failed    conf=0.00  TECHMINDS GROUP INDIA PRIVATE LIMITED
+[DONE        ]  10.2s  path=llm       conf=0.90  AppFillip
+[DONE        ]  11.0s  path=llm       conf=0.80  Inspire Infosol
+[DONE        ]  16.6s  path=llm       conf=1.00  TRONIXWARE
+[DONE        ]  35.5s  path=llm       conf=0.80  Nayi Disha Resource Centre
+[DONE        ]  10.7s  path=llm       conf=0.90  Silicon microsystems
+[DONE        ]  30.7s  path=llm       conf=0.80  Axes Track Software
+[DONE        ]  10.0s  path=ats       conf=0.95  Anywhere Real Estate Inc
+[DONE        ]  11.5s  path=ats       conf=0.95  Strateena
+
+========================================================================
+RUN SUMMARY
+========================================================================
+Finished    : 2026-07-08T12:15:46
+Total time  : 656.0s (10.9 min)
+Records     : 17
+
+RESULTS BREAKDOWN
+  Done         :  15  (88%)
+  Non-Workable :   0  (0%)
+  Not Fixable  :   2  (12%)
+  SRP (auto)   :   1  (6%)
+
+DETECTION PATH
+  ats         :   2  (12%)
+  failed      :   2  (12%)
+  llm         :  12  (71%)
+  srp         :   1  (6%)
+
+CONFIDENCE  (Done records only)
+  Average     : 0.87
+  Min / Max   : 0.80 / 1.00
+
+SLOWEST 3 RECORDS
+  122.5s  Technovision Engineers Pvt Ltd.  [Done]
+   63.4s  Suta  [Done]
+   41.4s  Designers.io  [Not Fixable]
+========================================================================
+Log file: C:\Users\nipun.kumar\Projects\config\logs\run_20260708_120450.log
+========================================================================
+

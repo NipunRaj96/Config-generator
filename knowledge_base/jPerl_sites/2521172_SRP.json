@@ -1,0 +1,42 @@
+{
+    "2521172_SRP": {
+        "CanProcceed": 1,
+        "Cookie": "YES",
+        "CurrentJobNum": 1,
+        "CurrentPageNum": 0,
+        "DELETE_UNLISTED": "y",
+        "ISCRAWL_FULL": 0,
+        "IS_SITE_ID_DERIVED": 0,
+        "JDRGX1": "(?s)div class=\"tab-content.+?id.+?h3.+?>(.+?)How to Apply",
+        "JDRGXSEQ1": "JOBDESC",
+        "JDVARS": {
+            "FAREA": {
+                "callable": "Classifier_FAREA",
+                "type": "SUB"
+            },
+            "INDUSTRY": {
+                "callable": "Classifier_INDUSTRY",
+                "type": "SUB"
+            },
+            "ROLE": {
+                "callable": "Classifier_ROLE",
+                "type": "SUB"
+            }
+        },
+        "JOBLINK": "https://indiahikes.com/careers{{VARJOBLINK}}",
+        "JOBSCOUNT": 0,
+        "LOCRGX": "(?s)nav-item\".+?\"(([^\"]+)).+?open-position-active[^>]+>[^>]+>[^>]+>([^<]+)",
+        "LOCRGXSEQ": "JOBID,JOBLINK,JOBTITLE",
+        "MAXJBSPPAGE": 10,
+        "MAXPAGESPARSE": "1",
+        "MOVE_TO_JD": 1,
+        "POSTQUERY": "update WEB_JOBS set COMPNAME ='Indiahikes.in',compid ='2521172', jobConsultant = 'n' where  SITE = '2521172_SRP'",
+        "PROXY": "Yes",
+        "SAVE_JD_COOKIE": "Yes",
+        "SQLDATE": "%Y-%m-%d",
+        "StartPageNum": 0,
+        "TERMRGX": "",
+        "URL": "https://indiahikes.com/careers",
+        "USER_AGENT": "Firefox/5.0"
+    }
+}

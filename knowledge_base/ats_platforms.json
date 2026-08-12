@@ -1,0 +1,272 @@
+[
+  {
+    "parent_rule_name": "boardsGreenhouseRule",
+    "display_name": "Greenhouse",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["boards.greenhouse.io", "job-boards.greenhouse.io", "greenhouse.io/jobs"],
+    "html_signatures": ["greenhouse.io", "boards-api.greenhouse.io", "grnh.se"],
+    "url_vars_extract": { "method": "path_after", "value": "greenhouse.io" },
+    "url_start_extract": null,
+    "notes": "Tenant slug is the path segment immediately after greenhouse.io domain"
+  },
+  {
+    "parent_rule_name": "leverRule",
+    "display_name": "Lever",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["jobs.lever.co", "lever.co/jobs"],
+    "html_signatures": ["jobs.lever.co", "lever.co/apply", "api.lever.co"],
+    "url_vars_extract": { "method": "path_after", "value": "lever.co" },
+    "url_start_extract": null,
+    "notes": "Tenant slug is path segment after lever.co"
+  },
+  {
+    "parent_rule_name": "ashbyRule",
+    "display_name": "Ashby",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["jobs.ashbyhq.com", "ashbyhq.com"],
+    "html_signatures": ["ashbyhq.com", "ashby-api", "api.ashbyhq.com"],
+    "url_vars_extract": { "method": "path_after", "value": "ashbyhq.com" },
+    "url_start_extract": null,
+    "robots_blocked": true,
+    "notes": "Tenant slug is path segment after ashbyhq.com"
+  },
+  {
+    "parent_rule_name": "myworkdayjobsRuleV2",
+    "display_name": "Workday",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["myworkdayjobs.com", ".wd1.", ".wd2.", ".wd3.", ".wd4.", ".wd5.", ".wd10."],
+    "html_signatures": ["myworkdayjobs.com", "workday.com", "wd5.myworkdayjobs", "myworkday.com"],
+    "url_vars_extract": { "method": "none" },
+    "url_start_extract": null,
+    "notes": "Workday URL varies widely. URL_VARS_NOTE: tenant config requires full URL from network tab"
+  },
+  {
+    "parent_rule_name": "careersSmartrecruiterRule",
+    "display_name": "SmartRecruiters",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["careers.smartrecruiters.com", "smartrecruiters.com/go"],
+    "html_signatures": ["smartrecruiters.com", "api.smartrecruiters.com"],
+    "url_vars_extract": { "method": "path_after", "value": "careers.smartrecruiters.com" },
+    "url_start_extract": null,
+    "notes": "Company identifier is path segment after careers.smartrecruiters.com"
+  },
+  {
+    "parent_rule_name": "ceipalRule",
+    "display_name": "Ceipal",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["ceipal.com", "ceipalats.com"],
+    "html_signatures": ["ceipal.com", "ceipalats", "ceipal-ats"],
+    "url_vars_extract": { "method": "none" },
+    "url_start_extract": null,
+    "notes": "URL_VARS is a base64-encoded client key — must be extracted from page network traffic"
+  },
+  {
+    "parent_rule_name": "kekaRule",
+    "display_name": "Keka",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["keka.com/careers", ".keka.com"],
+    "html_signatures": ["keka.com", "api.keka.com"],
+    "url_vars_extract": { "method": "subdomain_before", "value": "keka.com" },
+    "url_start_extract": null,
+    "notes": "Tenant slug is the subdomain before .keka.com"
+  },
+  {
+    "parent_rule_name": "greythrRule",
+    "display_name": "Greythr / GreytHR ATS",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["greythr.com/hire", ".greythr.com"],
+    "html_signatures": ["greythr.com", "greythr-ats", "api.greythr.com"],
+    "url_vars_extract": { "method": "subdomain_before", "value": "greythr.com" },
+    "url_start_extract": null,
+    "notes": "Tenant slug is the subdomain before .greythr.com (e.g. cloudeq.greythr.com → cloudeq)"
+  },
+  {
+    "parent_rule_name": "eightfoldRule",
+    "display_name": "Eightfold AI",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["eightfold.ai/careers", ".eightfold.ai"],
+    "html_signatures": ["eightfold.ai", "api.eightfold.ai", "eightfold-ai"],
+    "url_vars_extract": { "method": "subdomain_before", "value": "eightfold.ai" },
+    "url_start_extract": null,
+    "robots_blocked": true,
+    "notes": "Tenant slug is subdomain before .eightfold.ai"
+  },
+  {
+    "parent_rule_name": "oracleCloudRule",
+    "display_name": "Oracle Cloud / Taleo",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["oraclecloud.com", "taleo.net", "fa.us", "fa.eu", "fa.ap"],
+    "html_signatures": ["oraclecloud.com/hcmUI", "oracle.taleo", "icims.com"],
+    "url_vars_extract": { "method": "regex", "value": "(CX_\\w+)" },
+    "url_start_extract": { "method": "scheme_and_host" },
+    "notes": "URL_VARS is the CX_ identifier. URLSTART is scheme+host with trailing slash"
+  },
+  {
+    "parent_rule_name": "freshteamRule",
+    "display_name": "Freshteam",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["freshteam.com"],
+    "html_signatures": ["freshteam.com", "api.freshteam.com"],
+    "url_vars_extract": { "method": "subdomain_before", "value": "freshteam.com" },
+    "url_start_extract": null,
+    "notes": "Tenant slug is subdomain before freshteam.com"
+  },
+  {
+    "parent_rule_name": "bamboohrRule",
+    "display_name": "BambooHR",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["bamboohr.com"],
+    "html_signatures": ["bamboohr.com", "api.bamboohr.com"],
+    "url_vars_extract": { "method": "subdomain_before", "value": "bamboohr.com" },
+    "url_start_extract": null,
+    "robots_blocked": true,
+    "notes": "Tenant slug is subdomain before bamboohr.com"
+  },
+  {
+    "parent_rule_name": "pyjamahrRule",
+    "display_name": "PyjamaHR",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["pyjamahr.com"],
+    "html_signatures": ["pyjamahr.com", "app.pyjamahr.com"],
+    "url_vars_extract": { "method": "none" },
+    "url_start_extract": null,
+    "notes": "URL_VARS is a company UUID — must be extracted from page network traffic"
+  },
+  {
+    "parent_rule_name": "peoplestrongRule",
+    "display_name": "Peoplestrong",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["peoplestrong.com"],
+    "html_signatures": ["peoplestrong.com", "peoplestrongats", "api.peoplestrong.com"],
+    "url_vars_extract": { "method": "subdomain_before", "value": "peoplestrong.com" },
+    "url_start_extract": null,
+    "notes": "Tenant slug is the full subdomain (e.g. careers-gusedu)"
+  },
+  {
+    "parent_rule_name": "mynexthireRule",
+    "display_name": "MyNextHire",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["mynexthire.io"],
+    "html_signatures": ["mynexthire.io", "api.mynexthire.io"],
+    "url_vars_extract": { "method": "subdomain_before", "value": "mynexthire.io" },
+    "url_start_extract": null,
+    "notes": "Tenant slug is subdomain before mynexthire.io"
+  },
+  {
+    "parent_rule_name": "recruiteeXMLRule",
+    "display_name": "Recruitee",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["recruitee.com"],
+    "html_signatures": ["recruitee.com", "cdn.recruitee.com"],
+    "url_vars_extract": { "method": "none" },
+    "url_start_extract": null,
+    "notes": "Uses XML sitemap endpoint. URL_NOTE: use sitemap.xml endpoint"
+  },
+  {
+    "parent_rule_name": "applytojobRule",
+    "display_name": "ApplyToJob",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["applytojob.com"],
+    "html_signatures": ["applytojob.com"],
+    "url_vars_extract": { "method": "subdomain_before", "value": "applytojob.com" },
+    "url_start_extract": null,
+    "notes": "Tenant slug is subdomain before applytojob.com"
+  },
+  {
+    "parent_rule_name": "icimRule",
+    "display_name": "iCIMS",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["icims.com"],
+    "html_signatures": ["icims.com", "careers.icims.com"],
+    "url_vars_extract": { "method": "subdomain_before", "value": "icims.com" },
+    "url_start_extract": null,
+    "notes": "Tenant slug is subdomain before icims.com"
+  },
+  {
+    "parent_rule_name": "successfactorsRule",
+    "display_name": "SAP SuccessFactors",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["successfactors.com", "sapsf.com", "successfactors.eu"],
+    "html_signatures": ["successfactors.com", "sapsf.com"],
+    "url_vars_extract": { "method": "none" },
+    "url_start_extract": null,
+    "robots_blocked": true,
+    "notes": "URL_VARS is the company code — must be extracted from network traffic"
+  },
+  {
+    "parent_rule_name": "zohoRecruitRule",
+    "display_name": "Zoho Recruit",
+    "last_verified": "2026-06-04",
+    "disabled": true,
+    "url_signatures": ["zohorecruit.com", "zoho.com/recruit"],
+    "html_signatures": ["zohorecruit.com", "recruit.zoho.com"],
+    "url_vars_extract": { "method": "subdomain_before", "value": "zohorecruit.com" },
+    "url_start_extract": null,
+    "notes": "DISABLED: TechOps confirmed Zoho Recruit regex changes too frequently for a parent rule. Use LOCRGXGenerator for custom LOCRGX config per site."
+  },
+  {
+    "parent_rule_name": "darwinboxRule",
+    "display_name": "Darwinbox",
+    "last_verified": "2026-05-29",
+    "url_signatures": ["darwinbox.com", "darwinbox.in"],
+    "html_signatures": ["darwinbox.com", "darwinbox.in", "api.darwinbox.com"],
+    "url_vars_extract": { "method": "subdomain_before", "value": "darwinbox" },
+    "url_start_extract": null,
+    "notes": "Tenant slug is subdomain before darwinbox"
+  },
+  {
+    "parent_rule_name": "ultiproRule",
+    "display_name": "Ultipro",
+    "last_verified": "2026-07-06",
+    "url_signatures": ["recruiting.ultipro.com", "ultipro.com"],
+    "html_signatures": ["recruiting.ultipro.com", "ultipro"],
+    "url_vars_extract": { "method": "none" },
+    "url_start_extract": null,
+    "robots_blocked": true,
+    "notes": "Robots.txt blocks indexing by default."
+  },
+  {
+    "parent_rule_name": "avatureRule",
+    "display_name": "Avature",
+    "last_verified": "2026-07-06",
+    "url_signatures": ["avature.net", "avature.sdk"],
+    "html_signatures": ["avature"],
+    "url_vars_extract": { "method": "none" },
+    "url_start_extract": null,
+    "robots_blocked": true,
+    "notes": "Robots.txt blocks indexing by default."
+  },
+  {
+    "parent_rule_name": "salesforceRule",
+    "display_name": "Salesforce Careers",
+    "last_verified": "2026-07-06",
+    "url_signatures": ["salesforce.com", "force.com/careers"],
+    "html_signatures": ["force.com"],
+    "url_vars_extract": { "method": "none" },
+    "url_start_extract": null,
+    "robots_blocked": true,
+    "notes": "Robots.txt blocks indexing by default."
+  },
+  {
+    "parent_rule_name": "talentrecruitRule",
+    "display_name": "TalentRecruit",
+    "last_verified": "2026-07-06",
+    "url_signatures": ["talentrecruit.com"],
+    "html_signatures": ["talentrecruit.com"],
+    "url_vars_extract": { "method": "none" },
+    "url_start_extract": null,
+    "robots_blocked": true,
+    "notes": "Robots.txt blocks indexing by default."
+  },
+  {
+    "parent_rule_name": "powrRule",
+    "display_name": "POWR",
+    "last_verified": "2026-07-06",
+    "url_signatures": ["powr.io"],
+    "html_signatures": ["powr.io"],
+    "url_vars_extract": { "method": "none" },
+    "url_start_extract": null,
+    "robots_blocked": true,
+    "notes": "Robots.txt blocks indexing by default."
+  }
+]
