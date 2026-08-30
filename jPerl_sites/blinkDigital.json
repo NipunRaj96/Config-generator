@@ -1,7 +1,0 @@
-{
-    "blinkDigital": {
-        "PARENT_RULE_NAME": "pyjamahrRule",
-        "POSTQUERY": "update WEB_JOBS set COMPNAME ='Blink Digital',compid ='3698218', jobConsultant = 'n' where  SITE = 'blinkDigital'",
-        "URL_VARS": "99AF13438B"
-    }
-}

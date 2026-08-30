@@ -1,7 +1,0 @@
-{
-    "infotechSrp": {
-        "PARENT_RULE_NAME": "catsoneRule",
-        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Infotech Global India Ltd.', compid = '1812938', industry = '25', jobConsultant = 'n' where  SITE = 'infotechSrp'",
-        "URL_VARS": "1369"
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "comparably_UC": {
-        "PARENT_RULE_NAME": "leverRule",
-        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Verisys Corporation', compid = '123506249', jobConsultant = 'n' where \u00a0SITE = 'comparably_UC'",
-        "URL": "https://jobs.lever.co/aperturehealth?"
-    }
-}

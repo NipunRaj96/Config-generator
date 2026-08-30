@@ -1,7 +1,0 @@
-{
-    "123777278_SRP": {
-        "PARENT_RULE_NAME": "kekaRule",
-        "POSTQUERY": "update WEB_JOBS set COMPNAME='Loop Health', compid='123777278', jobConsultant='n' where SITE='123777278_SRP'",
-        "URL_VARS": "loop"
-    }
-}

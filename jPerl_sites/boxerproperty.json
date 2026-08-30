@@ -1,7 +1,0 @@
-{
-    "boxerproperty": {
-        "PARENT_RULE_NAME": "jobsSmartrecruiterJsonRule",
-        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Boxer Property', compid = '3350488', jobConsultant = 'n' where  SITE = 'boxerproperty'",
-        "URL_VARS": "BoxerProperty"
-    }
-}

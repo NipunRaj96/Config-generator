@@ -1,8 +1,0 @@
-{
-    "flamapp_UC": {
-        "PARENT_RULE_NAME": "kekaRule",
-        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Flam', compid = '7097047', jobConsultant = 'n' where \u00a0SITE = 'flamapp_UC'",
-        "URL": "https://flamapp.keka.com/careers/api/embedjobs/default/active/004937b7-8a4c-45ae-b9d5-521688ba46ac",
-        "URL_VARS": "flamapp"
-    }
-}

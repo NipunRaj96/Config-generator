@@ -1,7 +1,0 @@
-{
-    "6630914_SRP": {
-        "PARENT_RULE_NAME": "careersSmartrecruiterRule",
-        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'DataKrew Pvt. Ltd.', compid = '6630914', jobConsultant = 'n' where \u00a0SITE = '6630914_SRP'",
-        "URL_VARS": "DataKrewPvtLtd"
-    }
-}

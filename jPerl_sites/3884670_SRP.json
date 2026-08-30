@@ -1,7 +1,0 @@
-{
-    "3884670_SRP": {
-        "PARENT_RULE_NAME": "kekaRule",
-        "POSTQUERY": "update WEB_JOBS set COMPNAME='VINSAK India Pvt. Ltd.', compid='3884670', jobConsultant='n' where SITE='3884670_SRP'",
-        "URL_VARS": "vinsakindia"
-    }
-}

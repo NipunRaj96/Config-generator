@@ -1,7 +1,0 @@
-{
-    "125076671_SRP": {
-        "PARENT_RULE_NAME": "boardsGreenhouseRule",
-        "POSTQUERY": "update WEB_JOBS set COMPNAME='Mavens Technology Pvt. Ltd.', compid='125076671', jobConsultant='n' where SITE='125076671_SRP'",
-        "URL_VARS": "komodohealth"
-    }
-}

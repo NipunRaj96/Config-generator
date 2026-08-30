@@ -1,7 +1,0 @@
-{
-    "axisConsultant": {
-        "PARENT_RULE_NAME": "careersSmartrecruiterRule",
-        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Axis Global HR Services', compid = '3764292', jobConsultant = 'n' where  SITE = 'axisConsultant'",
-        "URL_VARS": "AxisConsultant"
-    }
-}

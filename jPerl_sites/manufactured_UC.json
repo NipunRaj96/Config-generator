@@ -1,7 +1,0 @@
-{
-    "manufactured_UC": {
-        "PARENT_RULE_NAME": "boardsGreenhouseRule",
-        "POSTQUERY": "update WEB_JOBS set COMPNAME='MFD', compid='124193660', jobConsultant='n' where SITE='manufactured_UC'",
-        "URL_VARS": "manufactured"
-    }
-}

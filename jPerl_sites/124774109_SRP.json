@@ -1,7 +1,0 @@
-{
-    "124774109_SRP": {
-        "PARENT_RULE_NAME": "bamboohrRule",
-        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'Beqom', compid = '124774109', jobConsultant = 'n' where \u00a0SITE = '124774109_SRP'",
-        "URL_VARS": "beqom"
-    }
-}

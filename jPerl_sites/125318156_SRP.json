@@ -1,7 +1,0 @@
-{
-    "125318156_SRP": {
-        "PARENT_RULE_NAME": "workableRule",
-        "POSTQUERY": "update WEB_JOBS set COMPNAME='Woolf', compid='125318156', jobConsultant='n' where SITE='125318156_SRP'",
-        "URL_VARS": "woolf"
-    }
-}

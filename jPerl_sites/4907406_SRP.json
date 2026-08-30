@@ -1,7 +1,0 @@
-{
-    "4907406_SRP": {
-        "PARENT_RULE_NAME": "breezyhrRule",
-        "POSTQUERY": "update WEB_JOBS set COMPNAME = 'IDaptive', compid = '4907406', jobConsultant = 'n' where  SITE = '4907406_SRP'",
-        "URLSTART": "https://idaptive.breezy.hr"
-    }
-}
